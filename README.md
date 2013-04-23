@@ -17,6 +17,7 @@ To create a new localization you need to:
 If forking makes no sense you can just save these files
 
 https://raw.github.com/moot/language/master/en.js
+
 https://raw.github.com/moot/language/master/en.auth.js
 
 on your PC and then proceed with steps 2 and 3 above. Then send the modified files to tero@moot.it
