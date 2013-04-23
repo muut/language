@@ -1,0 +1,53 @@
+
+<!doctype html>
+
+<html>
+
+<head>
+   <meta charset="utf-8">
+
+   <title>Moot Language</title>
+
+   <!-- (1) Optimize for mobile versions -->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- (1) Moot look and feel -->
+   <link rel="stylesheet" href="http://cdn.moot.it/latest/moot.css"/>
+
+   <!-- (4) Custom CSS -->
+   <style>
+      body {
+         font-family: "myriad pro", tahoma, verdana, arial, sans-serif;
+         font-size: 18px; margin: 0; padding: 0;
+      }
+      header { text-align: center; background-color: #262626; padding: .6em; color: #eee; font-size: 14px;}
+      header a { color: yellow; text-decoration: none;}
+   </style>
+
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+   <script src="http://cdn.moot.it/latest/moot.nolang.min.js"></script>
+
+   <script>
+   document.write('<script src=' + (location.search.slice(-2) || 'fi') +'.js><\/script>');
+
+   $(window).load(function() {
+      $("#moot").moot("https://playground.moot.it/goma");
+   });
+   </script>
+</head>
+
+<body>
+
+   <div id="content">
+      <header>
+         Please profide your language on query string. For example:
+         <a href="?fi">Finnish</a>
+         <a href="?en">English</a>
+      </header>
+
+      <div id="moot"></div>
+   </div>
+
+</body>
+
+</html>
