@@ -22,17 +22,17 @@ var language = {
 
    username_done: 'Ini tidak bisa diganti lagi',
    username_fail: 'Gunakan huruf kecil, angka atau strip',
-   username_taken: 'Nama pengguna ini sudah dipakain',
+   username_taken: 'Nama pengguna ini sudah dipakai',
 
    email: 'Email',
-   email_tip: 'Alamat anda tidek akan pernah diberikan kepada orang lain.',
-   email_done: 'Kami akan mengirimi anda sebuah konfirmasi',
+   email_tip: 'Alamat anda tidek akan pernah diberikan kepada pihak lain.',
+   email_done: 'Kami akan mengirimi anda email konfirmasi',
    email_fail: 'Alamat email tidak valid',
    email_taken: 'Email ini sudah pernah dipakai',
 
 
    reset: 'Ganti ulang sandi',
-   resetbtn: 'kirim Instruksi',
+   resetbtn: 'Kirim Instruksi',
    sent: 'Kami telah mengirimkan instruksi penggantian sandi ke alamat email anda.',
    sent1: 'Jika anda tidak menerima email dalam satu atau dua menit, periksa kotak spam anda.',
    notfound: 'Tidak bisa menemukan pengguna ini',
