@@ -16,8 +16,8 @@ moot.language = {
    changepw: 'Change password',
    close: 'Close',
    collapse: 'Collapse all',
-   comm_count_1: 'comment',
-   comm_count_n: 'comments',
+   comm_count_1: 'comment',   // singular: "1 comment"
+   comm_count_n: 'comments',  // plural: "3 comments"
    comment1: 'Be the first to comment...',
    comment: 'Comment...',
    edit: 'edit',
@@ -25,8 +25,8 @@ moot.language = {
    email_taken: 'This email is taken',
    emailtip: 'Your email is never shared',
    enter: 'ctrl + enter',
-   expired1: 'We just sent you a new one. Please check your email.',
-   expired: 'This link was expired',
+   expired1: 'We just sent you a new one. Please check your email.', // http://d.pr/i/1OEV
+   expired: 'This link has expired',
 
    feed: 'My feed', // alternatives: My own, personal
 
@@ -37,7 +37,7 @@ moot.language = {
    help3: 'quoted text',
    help4: 'second line',
    help5: 'code, language guessed',
-   help6: 'html code',
+   help6: 'HTML code',
    invalid: 'Invalid value',
    join: 'Join Moot',
    later: 'Later...',
@@ -90,7 +90,7 @@ moot.language = {
    unametip: 'This cannot be changed later',
    undo: 'Undo',
    unlike: 'Unlike',
-   unspam: 'Unspam',
+   unspam: 'Not spam',
    unver1: 'Unverified account',
    unver2: 'Please check your email to verify your account. Verified users can watch moots and receive email notifications. <a>Send a new verification code...</a>',
    unver3: '<a>Send a new</a> verification code to:',
@@ -109,9 +109,9 @@ moot.language = {
 
    // times
    days: 'd ago',
-   hour: '1h ago',
+   hour: 'an hour ago',
    hours: 'h ago',
-   minute: '1 min ago',
+   minute: 'a minute ago',
    minutes: 'mins ago',
    now: 'just now',
    months: 'months ago',
