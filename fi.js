@@ -3,7 +3,8 @@ moot.language = {
    $code: 'fi',
 
    all: 'Kaikki',
-   anon: 'anonyymiä',
+   anon_1: 'anonyymi',  // singular
+   anon: 'anonyymiä',   // plural
    badforum: 'Epäkelpo foorumi',
    c_acc1: 'Voit nyt käyttää kaikkia sivustoja, joissa on Moot käytössä',
    c_acc: 'Sinut on vahvistettu',
@@ -34,6 +35,7 @@ moot.language = {
    help4: 'toinen rivi',
    help5: 'koodia, kieli arvataan',
    help6: 'html koodia',
+   in_forum: 'foorumissa',
    invalid: 'Virheellinen kentän arvo',
    join: 'Liity Moot:tiin',
    later: 'Myöhemmin...',
@@ -44,8 +46,7 @@ moot.language = {
    login: 'Kirjaudu',
    login1: 'Kirjaudu ensin sisään',
    login_and: "Kirjaudu ja",
-   loginwith: 'Kirjaudu',
-   login_or: 'tai',
+   loginwith: 'Kirjaudu <a>Facebookissa</a> tai',
 
    logout: 'Poistu',
    mark: 'Asiaton tai roskaa',

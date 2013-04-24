@@ -3,9 +3,11 @@ moot.language = {
    // the language code
    $code: 'en',
 
-
    all: 'All posts', // or alternatively: All
-   anon: 'anonymous',
+
+   anon_1: 'anonymous',    // singular
+   anon: 'anonymous',      // plural
+
    badforum: 'Invalid forum',
    c_acc1: 'Your account now works on all sites using Moot',
    c_acc: 'Account confirmed',
@@ -38,6 +40,7 @@ moot.language = {
    help4: 'second line',
    help5: 'code, language guessed',
    help6: 'HTML code',
+   in_forum: 'in',
    invalid: 'Invalid value',
    join: 'Join Moot',
    later: 'Later...',
@@ -48,8 +51,7 @@ moot.language = {
    login: 'Log in',
    login1: 'Log in first',
    login_and: "Login and",
-   loginwith: 'Log in with',
-   login_or: 'or',
+   loginwith: 'Log in with <a>Facebook</a> or',
 
    logout: 'Log out',
    mark: 'Offensive or spam',

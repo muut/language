@@ -48,8 +48,7 @@ moot.language = {
    login: 'Iniciar sesión',
    login1: 'Primero iniciar sesión',
    login_and: "Iniciar sesión y",
-   loginwith: 'Iniciar sesión con',
-   login_or: 'o',
+   loginwith: 'Iniciar sesión con <a>Facebook</a> o',
 
    logout: 'Salir',
    mark: 'Ofensivo o spam',

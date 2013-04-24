@@ -48,8 +48,7 @@ moot.language = {
    login: 'Belépés',
    login1: 'Először lépj be',
    login_and: "Belépés és",
-   loginwith: 'Lépj be',
-   login_or: 'vagy',
+   loginwith: 'Lépj be <a>Facebook</a> vagy',
 
    logout: 'Kilépés',
    mark: 'Sértő vagy spam',
