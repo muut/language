@@ -6,7 +6,7 @@ moot.language = {
 
    all: 'Semua', // or alternatively: All
    anon: 'anonnim',
-   badforum: 'Invalid forum',
+   badforum: 'Forum tidak valid',
    c_acc1: 'Akun Anda sekarang bisa digunakan pada semua situs yang menggunakan Moot',
    c_acc: 'Akun terkonfirmasi',
    c_email: 'Alamat Email diperbarui',
@@ -26,7 +26,7 @@ moot.language = {
    emailtip: 'Email Anda tidak akan pernah berikan ke pihak lain',
    enter: 'ctrl + enter',
    expired1: 'Kami telah mengirimkan yang baru. Silakan periksa email Anda.',
-   expired: 'Tautan ini telah kadaluarsa',
+   expired: 'Tautan ini telah kadaluwarsa',
 
    feed: 'Pribadi', // alternatives: My own, personal
 
@@ -61,7 +61,7 @@ moot.language = {
    noresults: 'Tidak ada hasil untuk',
    nospam: 'Tidak ada spam di forum anda!',
    notexist: 'tidak eksis.',
-   notify: 'Beritahu saya ketika ada rilis baru',
+   notify: 'Beritahu saya ketika ada versi baru',
    ok: 'ok',
    online: 'Online',
    post: 'Pos',
@@ -83,7 +83,7 @@ moot.language = {
    start: 'Ada apa?',
    step1: 'Kami telah mengirim email konfirmasi. Email anda tidak diperbarui sebelum anda menyelesaikan langkah ini!',
    step: 'Satu langkah lagi',
-   terms: 'saya setuju dengan <a>syarat dan ketentuan</a>.',
+   terms: 'Saya setuju dengan <a>syarat dan ketentuan</a>.',
    thanks: 'Terima Kasih!',
    uname_len: 'Ketik 6 karakter atau lebih',
    uname_taken: 'Nama pengguna ini sudah dipakai!',
@@ -98,7 +98,7 @@ moot.language = {
    unver: 'Tidak terverifikasi',
    unwall: 'tidak mengamati semua',
    unwatch: 'Tidak mengamati',
-   upgrade2: 'Moot menggunakan WebSockets atau CORS untuk komunikasi silang domain. Semua peramban modern mendukungnya kecuali Opera 11 dan IE7.',
+   upgrade2: 'Moot menggunakan WebSockets atau CORS untuk komunikasi silang domain. Semua peramban modern telah mendukungnya kecuali Opera 11 dan IE7.',
    upgrade: 'Silakan perbarui peramban anda',
    username_taken: 'nama pengguna ini sudah dipakai',
    watch: 'Amati perbincangan ini',
