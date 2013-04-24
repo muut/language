@@ -1,46 +1,45 @@
-
 var language = {
 
-   login: 'Log in',
-   newto: 'New to Moot?',
-   join: 'Join Moot',
+   login: 'Masuk',
+   newto: 'Baru kenal Moot?',
+   join: 'gabung Moot',
 
-   join0: 'Join today!',
-   id: 'Email <em>or username</em>',
-   password: 'Password',
-   forgot: 'Forgot it?',
-
-
-   notify: 'Notify me of new Moot releases',
-   auth_failed: 'Wrong username or password',
-   invalid: 'Invalid value',
-   terms: 'I agree to the <a>terms of service</a>.',
+   join0: 'Gabung sekarang!',
+   id: 'Email <em>atau nama pengguna</em>',
+   password: 'Sandi',
+   forgot: 'Lupa?',
 
 
-   minlength: 'Type {n} characters or more',
-   required: 'Please fill this field',
-   checking: 'Checking...',
+   notify: 'Beritahu saya ketika moot versi baru dirilis',
+   auth_failed: 'Nama pengguna atau sandi salah',
+   invalid: 'Nilai tidak valid',
+   terms: 'Saya setuju dengan <a>syarat dan ketentuan</a>.',
 
-   username_done: 'This cannot be changed later',
-   username_fail: 'Use lowercase letters, numbers or dashes',
-   username_taken: 'This username is taken',
+
+   minlength: 'Ketik {n} karakter atau lebih',
+   required: 'Silakan isi kolom ini',
+   checking: 'Memeriksa...',
+
+   username_done: 'Ini tidak bisa diganti lagi',
+   username_fail: 'Gunakan huruf kecil, angka atau strip',
+   username_taken: 'Nama pengguna ini sudah dipakain',
 
    email: 'Email',
-   email_tip: 'Your address is never shared.',
-   email_done: 'We\'ll send you a confirmation',
-   email_fail: 'Invalid email address',
-   email_taken: 'This email is taken',
+   email_tip: 'Alamat Anda tidek akan pernah diberikan kepada orang lain.',
+   email_done: 'Kami akan mengirimi Anda sebuah konfirmasi',
+   email_fail: 'Alamat email tidak valid',
+   email_taken: 'Email ini sudah pernah dipakai',
 
 
-   reset: 'Reset password',
-   resetbtn: 'Send instructions',
-   sent: 'We have sent password reset instructions to your email address.',
-   sent1: 'If you dont receive email within a minute or two, check your spam folder.',
-   notfound: 'Could not find this user',
-   invalidpw: 'Invalid password',
-   passtip: '6 letters or more, be tricky',
-   oldpw: 'Old password',
-   newpw: 'New password',
-   changepw: 'Change password'
+   reset: 'Ganti ulang sandi',
+   resetbtn: 'kirim Instruksi',
+   sent: 'Kami telah mengirimkan instruksi penggantian sandi ke alamat email Anda.',
+   sent1: 'Jika anda tidak menerima email dalam satu atau dua menit, periksa kotak spam Anda.',
+   notfound: 'Tidak bisa menemukan pengguna ini',
+   invalidpw: 'Sandi tidak valid',
+   passtip: '6 huruf atau lebih, buat rumit',
+   oldpw: 'Sandi lama',
+   newpw: 'Sandi baru',
+   changepw: 'Ganti sandi'
 
 }
