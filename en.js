@@ -110,15 +110,11 @@ moot.language = {
    you: 'You',
 
    // times
-   days: 'd ago',
-   hour: 'an hour ago',
-   hours: 'h ago',
-   minute: 'a minute ago',
-   minutes: 'mins ago',
    now: 'just now',
-   months: 'months ago',
-   week: 'a week ago',
-   weeks: 'weeks ago',
-   yesterday: 'Yesterday'
+   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+   min: 'm',
+   hour: 'h',
+   day: 'd',
+   week: 'w'
 
 }

@@ -1,46 +1,46 @@
 var language = {
 
-   login: 'Iniciar sesión',
-   newto: '¿Nuevo en Moot?',
+   login: 'Iniciar sesiÃ³n',
+   newto: 'Â¿Nuevo en Moot?',
    join: 'Unirse a Moot',
 
-   join0: '¡Unirse hoy!',
+   join0: 'Â¡Unirse hoy!',
    id: 'Email <em>o nombre de usuario</em>',
-   password: 'Contraseña',
-   forgot: '¿Te olvidaste?',
+   password: 'ContraseÃ±a',
+   forgot: 'Â¿Te olvidaste?',
 
 
    notify: 'Notificarme nuevas actualizaciones',
-   auth_failed: 'Nombre de usuario o contraseña inválidos',
-   invalid: 'Valor no válido',
-   terms: 'Adhiero a los <a>términos del servicio</a>.',
+   auth_failed: 'Nombre de usuario o contraseÃ±a invÃ¡lidos',
+   invalid: 'Valor no vÃ¡lido',
+   terms: 'Adhiero a los <a>tÃ©rminos del servicio</a>.',
 
 
-   minlength: 'Escribe {n} caracteres o más',
+   minlength: 'Escribe {n} caracteres o mÃ¡s',
    required: 'Por favor completa este campo',
    checking: 'Revisando...',
 
    username: 'Nombre de usuario',
-   username_done: 'No puede ser cambiado después',
-   username_fail: 'Usar letras minúsculas, números o guiones',
-   username_taken: 'Este nombre de usuario está ocupado',
+   username_done: 'No puede ser cambiado despuÃ©s',
+   username_fail: 'Usar letras minÃºsculas, nÃºmeros o guiones',
+   username_taken: 'Este nombre de usuario estÃ¡ ocupado',
 
    email: 'Email',
-   email_tip: 'Tu email nunca será compartido.',
-   email_done: 'Enviaresmos una confirmación',
-   email_fail: 'Dirección de email inválida',
-   email_taken: 'Este email está ocupado',
+   email_tip: 'Tu email nunca serÃ¡ compartido.',
+   email_done: 'Enviaresmos una confirmaciÃ³n',
+   email_fail: 'DirecciÃ³n de email invÃ¡lida',
+   email_taken: 'Este email estÃ¡ ocupado',
 
 
-   reset: 'Resetea la contraseña',
+   reset: 'Resetea la contraseÃ±a',
    resetbtn: 'Enviar instrurcciones',
-   sent: 'Hemos enviado instrucciones para resetear la contraseña a tu dirección de email.',
+   sent: 'Hemos enviado instrucciones para resetear la contraseÃ±a a tu direcciÃ³n de email.',
    sent1: 'Si no recibes un email en un minuto o dos, revisa tu carpeta de spam.',
    notfound: 'No se pudo encontrar este usuario',
-   invalidpw: 'Contraseña inválida',
-   passtip: '6 letras o más, sé complejo',
-   oldpw: 'Antigua contraseña',
-   newpw: 'Nueva contraseña',
-   changepw: 'Cambiar contraseña'
+   invalidpw: 'ContraseÃ±a invÃ¡lida',
+   passtip: '6 letras o mÃ¡s, sÃ© complejo',
+   oldpw: 'Antigua contraseÃ±a',
+   newpw: 'Nueva contraseÃ±a',
+   changepw: 'Cambiar contraseÃ±a'
 
    }
