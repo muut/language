@@ -1,7 +1,7 @@
 
 var language = {
 
-   login: '登陆',
+   login: '登录',
    newto: '第一次来到Moot？',
    join: '加入Moot',
 
