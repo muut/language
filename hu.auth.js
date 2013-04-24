@@ -21,6 +21,7 @@ var language = {
    required: 'Kérünk, töltsd ki a mezőt',
    checking: 'Ellenőrzés...',
 
+   username: 'Felhasználónév',
    username_done: 'Ez később nem lesz változtatható',
    username_fail: 'Használj kisbetűket, számokat vagy kötőjeleket',
    username_taken: 'A felhasználónév foglalt',

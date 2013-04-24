@@ -5,6 +5,7 @@ moot.language = {
 
 
    all: 'Todas las entradas', // or alternatively: All
+   anon_1: 'anónimo',
    anon: 'anónimo',
    badforum: 'Foro no válido',
    c_acc1: 'Tu cuenta está ahora habilitada en todos los sitios que usen Moot',
@@ -38,6 +39,7 @@ moot.language = {
    help4: 'segunda línea',
    help5: 'codígo, lenguaje supuesto',
    help6: 'código html',
+   in_forum: '',
    invalid: 'Valor no válido',
    join: 'Unirse a Moot',
    later: 'Más tarde...',

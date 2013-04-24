@@ -5,6 +5,7 @@ moot.language = {
 
 
    all: 'Összes', // or alternatively: All
+   anon_1: 'vendég',
    anon: 'vendég',
    badforum: 'Érvénytelen fórum',
    c_acc1: 'A profilod mostantól az összes Moot oldalon érvényes',
@@ -38,6 +39,7 @@ moot.language = {
    help4: 'második sor',
    help5: 'kód, nyelv',
    help6: 'html kód',
+   in_forum: '',
    invalid: 'Érvénytelen érték',
    join: 'Moot - Csatlakozom!',
    later: 'Később...',

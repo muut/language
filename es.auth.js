@@ -20,6 +20,7 @@ var language = {
    required: 'Por favor completa este campo',
    checking: 'Revisando...',
 
+   username: 'Nombre de usuario',
    username_done: 'No puede ser cambiado después',
    username_fail: 'Usar letras minúsculas, números o guiones',
    username_taken: 'Este nombre de usuario está ocupado',
@@ -41,5 +42,5 @@ var language = {
    oldpw: 'Antigua contraseña',
    newpw: 'Nueva contraseña',
    changepw: 'Cambiar contraseña'
-   
+
    }

@@ -19,9 +19,10 @@ var language = {
    required: 'Kentän arvo puuttuu',
    checking: 'Tarkastetaan...',
 
+   username: 'Käyttäjätunnus',
    username_done: 'Ei voida muuttaa myöhemmin',
    username_fail: 'Käytä pieniä kirjaimia, numeroita tai väliviivaa',
-   username_taken: 'Käyttäjänimi on varattu',
+   username_taken: 'Käyttäjätunnus on varattu',
 
    email: 'Sähköpostiosoite',
    email_tip: 'Osoite on salainen, eikä sitä anneta eteenpäin',

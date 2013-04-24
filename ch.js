@@ -39,6 +39,7 @@ moot.language = {
    help4: '副文',
    help5: '代码',
    help6: 'html 代码',
+   in_forum: '',
    invalid: '无效值',
    join: '加入 Moot',
    later: '稍后……',

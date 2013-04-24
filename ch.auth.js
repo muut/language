@@ -21,6 +21,7 @@ var language = {
    required: '请填写',
    checking: '检查中……',
 
+   username: '用户名',
    username_done: '用户名确认后就不能更改了！',
    username_fail: '使用小写字母、数字或横杠',
    username_taken: '这个用户名已经被注册过了',
