@@ -4,8 +4,8 @@ moot.language = {
    // Translated to Arabic by Omar Bani Al-Marjeh
    $code: 'ar',
 
-
    all: 'جميع المشاركات', // or alternatively: الكل
+   anon_1: 'مجهول',
    anon: 'مجهول',
    badforum: 'منتدى غير صالح',
    c_acc1: 'إن حسابك الآن يعمل على جميع المواقع التي تستخدم Moot',
@@ -105,19 +105,14 @@ moot.language = {
    watch: 'شاهد هذه الـ Moot',
    welcome1: 'الرجاء التحقق من بريدك الإلكتروني من أجل متابعة التسجيل. إذا لم يصلك البريد في غضون الدقيقة أو الدقيقتين، قم بالتحقق من وجوده في صندوق البريد المزعج.',
    welcome2: 'الرجاء اختيار اسم الـ Moot',
-   welcome: أهلًا بك في Moot',
+   welcome: 'أهلًا بك في Moot',
    you: 'أنت',
 
    // times
-   days: 'منذ يوم مضى',
-   hour: 'منذ ساعة مضت',
-   hours: 'منذ ساعة',
-   minute: 'منذ دقيقة مضت',
-   minutes: 'منذ دقيقة',
-   now: 'الآن',
-   months: 'منذ شهر مضى',
-   week: 'منذ أسبوع مضى',
-   weeks: 'منذ أسبوع',
-   yesterday: 'أمس'
+   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+   min: 'm',
+   hour: 'h',
+   day: 'd',
+   week: 'w'
 
 }
