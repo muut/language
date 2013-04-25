@@ -5,10 +5,14 @@ moot.language = {
 
 
    all: '所有帖子', // or alternatively: All
+<<<<<<< HEAD
+   anon: '位匿名用户',
+=======
    anon_1: '匿名用户',
    anon: '匿名用户',
+>>>>>>> moot/master
    badforum: '非法的论坛',
-   c_acc1: '你的账户已经可以在所有使用Moot的网站上登陆啦！',
+   c_acc1: '你的账户已经可以在所有使用Moot的网站上登录啦！',
    c_acc: '账户已确认',
    c_email: '邮件地址已升级',
    cancel: '取消',
@@ -29,12 +33,12 @@ moot.language = {
    expired1: '我们已经发送来了一个新的链接，请检查您的邮箱。',
    expired: '这个链接已经过期了',
 
-   feed: '我参与的帖子', // alternatives: My own, personal
+   feed: '我的帖子', // alternatives: My own, personal
 
    forumname: '论坛的名字',
    forums: '论坛',
    help1: '第一行是标题',
-   help2: '发布',
+   help2: '发布帖子',
    help3: '引用文字',
    help4: '副文',
    help5: '代码',
@@ -47,11 +51,19 @@ moot.language = {
    like: '喜欢',
    likepost: '喜欢这个帖子',
    loading: '正在载入……',
+<<<<<<< HEAD
+   login: '登录',
+   login1: '首先登录',
+   login_and: "登录后",
+   loginwith: '使用',
+   login_or: '登录或者',
+=======
    login: '登陆',
    login1: '首先登陆',
 
    login_and: "登陆然后",
    loginwith: '使用 <a>Facebook</a> 账号登陆或者……',
+>>>>>>> moot/master
 
    logout: '注销',
    mark: '不合适或垃圾内容',
@@ -82,7 +94,7 @@ moot.language = {
    showing: '演示中',
    slogan: '论坛和评论正在被重新布局',
    spam: '垃圾内容',
-   start: '最近怎样？',
+   start: '说点什么……？',
    step1: '我们已经向你发送了一封确认邮件. 在你完成这一步之前你的邮箱不会被升级',
    step: '下一步',
    terms: '我同意 <a>服务条款</a>.',
@@ -110,15 +122,13 @@ moot.language = {
    you: '你',
 
    // times
-   days: '天前',
-   hour: '1小时前',
-   hours: '小时前',
-   minute: '1分钟前',
-   minutes: '分钟前',
+
    now: '刚刚',
-   months: '月前',
-   week: '一周前',
-   weeks: '几周前',
-   yesterday: '昨天'
+   months: '1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月',
+   min: '分钟',
+   hour: '小时',
+   day: '天',
+   week: '周'
+
 
 }
