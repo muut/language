@@ -38,6 +38,7 @@ moot.language = {
    help4: 'baris kedua',
    help5: 'kode, bahasa diprediksi',
    help6: 'kode html',
+   in_forum: 'dalam',
    invalid: 'Nilai tidak valid',
    join: 'Gabung Moot',
    later: 'Nanti...',
@@ -48,7 +49,7 @@ moot.language = {
    login: 'Masuk',
    login1: 'Masuk terlebih dahulu',
    login_and: "Masuk dan",
-   loginwith: 'Masuk dengan',
+   loginwith: 'Masuk dengan <a>Facebook</a> atau',
    login_or: 'atau',
 
    logout: 'Keluar',
@@ -108,15 +109,11 @@ moot.language = {
    you: 'Anda',
 
    // times
-   days: ' hari yang lalu',
-   hour: '1 jam yang lalu',
-   hours: ' jam yang lalu',
-   minute: '1 menit yang lalu',
-   minutes: 'beberapa menit yang lalu',
    now: 'saat ini',
-   months: 'berbulan yang lalu',
-   week: 'seminggu yang lalu',
-   weeks: 'bermingu yang lalu',
-   yesterday: 'Kemarin'
+   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Agu,Sep,Okt,Nov,Des",
+   min: 'm',
+   hour: 'j',
+   day: 'h',
+   week: 'mg'
 
 }
