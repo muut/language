@@ -5,12 +5,8 @@ moot.language = {
 
 
    all: '所有帖子', // or alternatively: All
-<<<<<<< HEAD
-   anon: '位匿名用户',
-=======
    anon_1: '匿名用户',
    anon: '匿名用户',
->>>>>>> moot/master
    badforum: '非法的论坛',
    c_acc1: '你的账户已经可以在所有使用Moot的网站上登录啦！',
    c_acc: '账户已确认',
@@ -51,19 +47,10 @@ moot.language = {
    like: '喜欢',
    likepost: '喜欢这个帖子',
    loading: '正在载入……',
-<<<<<<< HEAD
-   login: '登录',
-   login1: '首先登录',
-   login_and: "登录后",
-   loginwith: '使用',
-   login_or: '登录或者',
-=======
    login: '登陆',
    login1: '首先登陆',
-
    login_and: "登陆然后",
    loginwith: '使用 <a>Facebook</a> 账号登陆或者……',
->>>>>>> moot/master
 
    logout: '注销',
    mark: '不合适或垃圾内容',
