@@ -39,7 +39,7 @@ moot.language = {
    help4: 'segunda línea',
    help5: 'codígo, lenguaje supuesto',
    help6: 'código html',
-   in_forum: '',
+   in_forum: 'en',
    invalid: 'Valor no válido',
    join: 'Unirse a Moot',
    later: 'Más tarde...',
@@ -50,7 +50,7 @@ moot.language = {
    login: 'Iniciar sesión',
    login1: 'Primero iniciar sesión',
    login_and: "Iniciar sesión y",
-   loginwith: 'Iniciar sesión con <a>Facebook</a> o',
+   loginwith: 'Iniciar sesión con <a>Facebook</a> o...',
 
    logout: 'Salir',
    mark: 'Ofensivo o spam',

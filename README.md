@@ -31,6 +31,12 @@ You can test your new localization by opening the [test.html](test.html) file on
 
 The client should now use your language. The authentication file (such as ru.auth.js) and the login dialog will not work until your work is submitted to us and the files are made available in our content delivery network.
 
+*Note* If you see badly rendered characters then the language file is not encoded in UTF-8 format. These commands fixes the issue in OSX:
+
+``` sh
+iconv -f ISO-8859-1 -t utf-8 ru.js > ru8.js && mv ru8.js ru.js
+iconv -f ISO-8859-1 -t utf-8 ru.auth.js > ru.auth8.js && mv ru.auth8.js ru.auth.js
+```
 
 ### Style guide
 
