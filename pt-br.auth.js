@@ -1,4 +1,3 @@
-
 var language = {
 
    login: 'Entrar',
@@ -26,17 +25,17 @@ var language = {
    username_taken: 'Este nome de usuário já esta sendo usado',
 
    email: 'Email',
-   email_tip: 'Seu endereço nunca é compartilhado.',
-   email_done: 'Nós enviaremos a confirmação',
+   email_tip: 'Seu email nunca será compartilhado.',
+   email_done: 'Enviaremos a confirmação',
    email_fail: 'Email inválido',
    email_taken: 'Este email já esta sendo usado',
 
 
    reset: 'Redefinir senha',
    resetbtn: 'Enviar instruções',
-   sent: 'Nós enviamos instruções no seu email de como redefinir sua senha.',
-   sent1: 'Se você não receber o email em um minuto ou dois, verifique sua caixa de spam.',
-   notfound: 'Não possível encontrar este usuário',
+   sent: 'Enviamos instruções no seu email de como redefinir sua senha.',
+   sent1: 'Se não receber o email entre um ou dois minutos, verifique sua caixa de spam.',
+   notfound: 'Não foi possível encontrar este usuário',
    invalidpw: 'Senha inválida',
    passtip: '6 ou mais letras, seja complicado',
    oldpw: 'Senha antiga',
