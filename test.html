@@ -28,7 +28,7 @@
    <script src="http://cdn.moot.it/latest/moot.nolang.min.js"></script>
 
    <script>
-   document.write('<script src=' + (location.search.slice(-2) || 'fi') +'.js><\/script>');
+   document.write('<script src=' + (location.search.substring(1) || 'fi') +'.js><\/script>');
 
    $(window).load(function() {
       $("#moot").moot("https://playground.moot.it/goma");
