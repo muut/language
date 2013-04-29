@@ -1,46 +1,46 @@
 
 var language = {
 
-   login: 'Giriş',
+   login: 'GiriÃ¾',
    newto: 'Moot\'ta yeni misiniz?',
-   join: 'Moot\'a katılın',
+   join: 'Moot\'a katÃ½lÃ½n',
 
-   join0: 'Hemen katılın!',
-   id: 'Email <em>veya kullanıcı adı</em>',
-   password: 'Şifre',
-   forgot: 'Şifrenizi mi unuttunuz?',
+   join0: 'Hemen katÃ½lÃ½n!',
+   id: 'Email <em>veya kullanÃ½cÃ½ adÃ½</em>',
+   password: 'Ãifre',
+   forgot: 'Ãifrenizi mi unuttunuz?',
 
 
-   notify: 'Moot gelişmelerinden beni haberdar et',
-   auth_failed: 'Hatalı kullanıcı adı veya şifre',
-   invalid: 'Geçersiz bilgi',
-   terms: '<a>Kullanım koşulları</a>nı kabul ediyorum.',
+   notify: 'Moot geliÃ¾melerinden beni haberdar et',
+   auth_failed: 'HatalÃ½ kullanÃ½cÃ½ adÃ½ veya Ã¾ifre',
+   invalid: 'GeÃ§ersiz bilgi',
+   terms: '<a>KullanÃ½m koÃ¾ullarÃ½</a>nÃ½ kabul ediyorum.',
 
 
    minlength: 'En az {n} karakter girmelisiniz',
-   required: 'Lütfen bu alanı doldurunuz',
+   required: 'LÃ¼tfen bu alanÃ½ doldurunuz',
    checking: 'Kontrol ediliyor...',
 
-   username_done: 'Bu bilgi daha sonra değiştirilemez',
-   username_fail: 'Küçük harfler, sayılar veya tireler kullanmalısınız',
-   username_taken: 'Bu kullanıcı adı başkası tarafından alınmış',
+   username_done: 'Bu bilgi daha sonra deÃ°iÃ¾tirilemez',
+   username_fail: 'KÃ¼Ã§Ã¼k harfler, sayÃ½lar veya tireler kullanmalÃ½sÃ½nÃ½z',
+   username_taken: 'Bu kullanÃ½cÃ½ adÃ½ baÃ¾kasÃ½ tarafÃ½ndan alÃ½nmÃ½Ã¾',
 
    email: 'Email',
-   email_tip: 'Email adresiniz asla paylaşılmaz.',
-   email_done: 'Adresinize onay maili gönderilecektir',
-   email_fail: 'Geçersiz email adresi',
-   email_taken: 'Bu email başkası tarafından alınmış',
+   email_tip: 'Email adresiniz asla paylaÃ¾Ã½lmaz.',
+   email_done: 'Adresinize onay maili gÃ¶nderilecektir',
+   email_fail: 'GeÃ§ersiz email adresi',
+   email_taken: 'Bu email baÃ¾kasÃ½ tarafÃ½ndan alÃ½nmÃ½Ã¾',
 
 
-   reset: 'Şifreyi sıfırla',
-   resetbtn: 'Talimatları gönder',
-   sent: 'Email adresinize şifre sıfırlama talimatları gönderilmiştir.',
-   sent1: 'Bir iki dakika içerisinde email gelmez ise spam kutusunu kontrol ediniz.',
-   notfound: 'Bu kullanıcı bulunamadı',
-   invalidpw: 'Geçersiz şifre',
-   passtip: '6 veya daha fazla karakter, zor bir şifre olsun',
-   oldpw: 'Eski şifre',
-   newpw: 'Yeni şifre',
-   changepw: 'Şifre değiştir'
+   reset: 'Ãifreyi sÃ½fÃ½rla',
+   resetbtn: 'TalimatlarÃ½ gÃ¶nder',
+   sent: 'Email adresinize Ã¾ifre sÃ½fÃ½rlama talimatlarÃ½ gÃ¶nderilmiÃ¾tir.',
+   sent1: 'Bir iki dakika iÃ§erisinde email gelmez ise spam kutusunu kontrol ediniz.',
+   notfound: 'Bu kullanÃ½cÃ½ bulunamadÃ½',
+   invalidpw: 'GeÃ§ersiz Ã¾ifre',
+   passtip: '6 veya daha fazla karakter, zor bir Ã¾ifre olsun',
+   oldpw: 'Eski Ã¾ifre',
+   newpw: 'Yeni Ã¾ifre',
+   changepw: 'Ãifre deÃ°iÃ¾tir'
 
 }
