@@ -48,7 +48,7 @@ moot.language = {
    login: 'Belépés',
    login1: 'Először lépj be',
    login_and: "Belépés és",
-   loginwith: 'Lépj be',
+   loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
    login_or: 'vagy',
 
    logout: 'Kilépés',
@@ -73,7 +73,7 @@ moot.language = {
    reply: 'Válasz...',
    replybtn: 'Válasz',
    save: 'Változások mentése',
-   saved: 'mentve',
+   saved: 'Mentve',
    search: 'Keresés',
    select: 'Válassz fórumot',
    setup: 'Beállítás',
@@ -109,14 +109,25 @@ moot.language = {
 
    // times
    days: 'napja',
-   hour: '1 órája',
+   hour: 'órája',
    hours: 'órája',
-   minute: '1 perce',
+   minute: 'perce',
    minutes: 'perce',
    now: 'épp most',
    months: 'hónapja',
-   week: 'egy hete',
+   week: 'hete',
    weeks: 'hete',
    yesterday: 'Tegnap'
+
+
+   loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
+   inpage: 'Itt:',
+   anon_1: 'vendég', // singular
+
+   months: 'Jan,Feb,Már,Ápr,Máj,Jún,Júl,Aug,Szep,Okt,Nov,Dec',
+   min: 'p',
+   hour: 'ó',
+   day: 'n',
+   week: 'h',
 
 }
