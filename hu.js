@@ -49,8 +49,9 @@ moot.language = {
    loading: 'Töltés...',
    login: 'Belépés',
    login1: 'Először lépj be',
-   login_and: "Belépés és",
-   loginwith: 'Lépj be <a>Facebook</a> vagy',
+   login_and: 'Belépés és',
+   loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
+   login_or: 'vagy',
 
    logout: 'Kilépés',
    mark: 'Sértő vagy spam',
@@ -74,7 +75,7 @@ moot.language = {
    reply: 'Válasz...',
    replybtn: 'Válasz',
    save: 'Változások mentése',
-   saved: 'mentve',
+   saved: 'Mentve',
    search: 'Keresés',
    select: 'Válassz fórumot',
    setup: 'Beállítás',
@@ -95,7 +96,7 @@ moot.language = {
    unver1: 'Nem megerősített profil',
    unver2: 'Kérünk, ellenőrizd az email fiókod, hogy megerősítsd a profilod. Az azonosított felhasználók követhetik a mootokat és emailben értesítéseket is kaphatnak. <a>Küldj egy új megerősítő kódot...</a>',
    unver3: '<a>Küldj egy új</a> megerősítő kódot ide:',
-   unver4: "Elküldve. Kérünk, ellenőrizd az email fiókod.",
+   unver4: 'Elküldve. Kérünk, ellenőrizd az email fiókod.',
    unver: 'Ellenőrizetlen',
    unwall: 'Összes megtekintés visszavonása',
    unwatch: 'Megtekintés visszavonása',
@@ -110,14 +111,23 @@ moot.language = {
 
    // times
    days: 'napja',
-   hour: '1 órája',
+   hour: 'órája',
    hours: 'órája',
-   minute: '1 perce',
+   minute: 'perce',
    minutes: 'perce',
    now: 'épp most',
    months: 'hónapja',
-   week: 'egy hete',
+   week: 'hete',
    weeks: 'hete',
-   yesterday: 'Tegnap'
+   yesterday: 'Tegnap',
+
+   inpage: 'Itt:',
+   anon_1: 'vendég', // singular
+
+   months: 'Jan,Feb,Már,Ápr,Máj,Jún,Júl,Aug,Szep,Okt,Nov,Dec',
+   min: 'p',
+   hour: 'ó',
+   day: 'n',
+   week: 'h',
 
 }
