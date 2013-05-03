@@ -39,6 +39,7 @@ moot.language = {
    help4: 'السطر الثاني',
    help5: 'الرموز البرمجية',
    help6: 'كود برمجي بلغة HTML',
+   in_forum: '',
    invalid: 'قيمة غير صالحة',
    join: 'انضم إلى Moot',
    later: 'لاحقًا...',
