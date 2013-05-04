@@ -110,10 +110,10 @@ moot.language = {
    you: 'أنت',
 
    // times
-   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
-   min: 'm',
-   hour: 'h',
-   day: 'd',
-   week: 'w'
+   months: "يناير,فبراير ,مارس ,أبريل,مايو ,يونيو,يوليو ,أغسطس,سبتمبر,أكتوبر,ونوفمبر,ديسمبر",
+   min: 'دقيقة',
+   hour: 'ساعة',
+   day: 'يوم',
+   week: 'أسبوع'
 
 }
