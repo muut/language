@@ -13,7 +13,7 @@ moot.language = {
    c_email: '邮件地址已升级',
    cancel: '取消',
    change: '更改',
-   changed: '已更改！',
+
    changepw: '更改密码',
    close: '关闭',
    collapse: '全部折叠',
@@ -50,7 +50,6 @@ moot.language = {
    login: '登录',
    login1: '首先登录',
    login_and: "登录然后",
-   loginwith: '使用 <a>Facebook</a> 账号登录或者……',
 
    logout: '注销',
    mark: '不合适或垃圾内容',

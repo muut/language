@@ -1,5 +1,8 @@
 var language = {
 
+   changed: '¡Cambiado!',
+   loginwith: 'Iniciar sesión con <a>Facebook</a> o...',
+
    login: 'Iniciar sesión',
    newto: '¿Nuevo en Moot?',
    join: 'Unirse a Moot',

@@ -13,7 +13,6 @@ moot.language = {
    c_email: 'Email已更新',
    cancel: '取消',
    change: '更改',
-   changed: '已更改！',
    changepw: '更改密碼',
    close: '關閉',
    collapse: '全部收合',
@@ -50,7 +49,6 @@ moot.language = {
    login: '登入',
    login1: '請先登入',
    login_and: "登入 而且",
-   loginwith: '使用 <a>Facebook</a> 帳號登入，或',
 
    logout: '登出',
    mark: '不雅的 或 垃圾內容',

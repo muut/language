@@ -1,5 +1,8 @@
 var language = {
 
+   changed: 'Alterado!',
+   loginwith: 'Entrar com <a>Facebook</a> ou',
+
    login: 'Entrar',
    newto: 'Novo no Moot?',
    join: 'Inscrever-se no Moot',
@@ -9,12 +12,10 @@ var language = {
    password: 'Senha',
    forgot: 'Esqueceu?',
 
-
    notify: 'Me avise sobre novidades do Moot',
    auth_failed: 'Usuário ou senha inválidos',
    invalid: 'Valor inválido',
    terms: 'Concordo com os <a>termos de serviço</a>.',
-
 
    minlength: 'Digite {n} caracteres ou mais',
    required: 'Por favor preencha o campo',

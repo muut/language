@@ -13,7 +13,7 @@ moot.language = {
    c_email: 'Email cím frissítve',
    cancel: 'Mégsem',
    change: 'Változtat',
-   changed: 'Megváltoztatva!',
+
    changepw: 'Jelszó változtatás',
    close: 'Bezár',
    collapse: 'Mindet becsuk',
@@ -50,7 +50,6 @@ moot.language = {
    login: 'Belépés',
    login1: 'Először lépj be',
    login_and: 'Belépés és',
-   loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
    login_or: 'vagy',
 
    logout: 'Kilépés',

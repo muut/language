@@ -1,6 +1,9 @@
 
 var language = {
 
+   changed: '已更改！',
+   loginwith: '使用 <a>Facebook</a> 帳號登入，或',
+
    login: '登入',
    newto: 'Moot 新鮮人？',
    join: '加入 Moot',
@@ -30,7 +33,6 @@ var language = {
    email_done: '我們將發送一封確認信給您',
    email_fail: '無效的Email信箱',
    email_taken: '這個Email已經被註冊過了',
-
 
    reset: '重設密碼',
    resetbtn: '發送指引',

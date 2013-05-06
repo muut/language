@@ -1,5 +1,9 @@
 var language = {
 
+
+   changed: 'Diganti!',
+   loginwith: 'Masuk dengan <a>Facebook</a> atau',
+
    login: 'Masuk',
    newto: 'Baru kenal Moot?',
    join: 'Gabung Moot',

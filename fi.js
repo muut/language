@@ -11,7 +11,7 @@ moot.language = {
    c_email: 'Osoitteesi on vahvistettu',
    cancel: 'Peru',
    change: 'Muuta',
-   changed: 'Muutettu!',
+
    changepw: 'Muuta salasanaa',
    close: 'Sulje',
    collapse: 'Sulje kaikki',
@@ -46,7 +46,6 @@ moot.language = {
    login: 'Kirjaudu',
    login1: 'Kirjaudu ensin sisään',
    login_and: "Kirjaudu ja",
-   loginwith: 'Kirjaudu <a>Facebookissa</a> tai',
 
    logout: 'Poistu',
    mark: 'Asiaton tai roskaa',

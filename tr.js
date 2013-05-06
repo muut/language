@@ -14,7 +14,6 @@ moot.language = {
    c_email: 'Email adresi güncellendi',
    cancel: 'Ýptal',
    change: 'Deðiþtir',
-   changed: 'Deðiþtirildi!',
    changepw: 'Þifre deðiþtir',
    close: 'Kapat',
    collapse: 'Hepsini kapat',
@@ -51,7 +50,6 @@ moot.language = {
    login: 'Giriþ yap',
    login1: 'Önce giriþ yapýnýz',
    login_and: "Giriþ yap ve",
-   loginwith: 'Giriþ için <a>Facebook</a> kullan veya',
 
    logout: 'Çýkýþ yap',
    mark: 'Hakaret veya spam',

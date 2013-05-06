@@ -13,7 +13,7 @@ moot.language = {
    c_email: 'تم تحديث عنوان البريد الإلكتروني',
    cancel: 'إلغاء',
    change: 'تغيير',
-   changed: 'تم التغيير',
+
    changepw: 'تغيير كلمة المرور',
    close: 'إغلاق',
    collapse: 'طي الكل',
@@ -50,7 +50,7 @@ moot.language = {
    login: 'تسجيل الدخول',
    login1: 'قم بتسجيل الدخول أولًا',
    login_and: "تسجيل الدخول و",
-   loginwith: 'تسجيل الدخول عبر',
+
    login_or: 'أو',
 
    logout: 'تسجيل الخروج',

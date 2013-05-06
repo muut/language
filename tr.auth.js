@@ -1,6 +1,9 @@
 
 var language = {
 
+   changed: 'Deðiþtirildi!',
+   loginwith: 'Giriþ için <a>Facebook</a> kullan veya',
+
    login: 'Giriþ',
    newto: 'Moot\'ta yeni misiniz?',
    join: 'Moot\'a katýlýn',

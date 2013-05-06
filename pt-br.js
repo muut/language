@@ -14,7 +14,6 @@ moot.language = {
    c_email: 'Email atualizado',
    cancel: 'Cancelar',
    change: 'Alterar',
-   changed: 'Alterado!',
    changepw: 'Alterar senha',
    close: 'Fechar',
    collapse: 'Reduzir tudo',
@@ -51,7 +50,6 @@ moot.language = {
    login: 'Entrar',
    login1: 'Entre primeiro',
    login_and: "Entrar e ",
-   loginwith: 'Entrar com <a>Facebook</a> ou',
 
    logout: 'Sair',
    mark: 'Ofensivo ou spam',

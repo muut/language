@@ -12,7 +12,6 @@ moot.language = {
    c_email: 'Alamat Email diperbarui',
    cancel: 'Batal',
    change: 'Ganti',
-   changed: 'Diganti!',
    changepw: 'Ganti sandi',
    close: 'Tutup',
    collapse: 'Tutup semua',
@@ -49,7 +48,6 @@ moot.language = {
    login: 'Masuk',
    login1: 'Masuk terlebih dahulu',
    login_and: "Masuk dan",
-   loginwith: 'Masuk dengan <a>Facebook</a> atau',
    login_or: 'atau',
 
    logout: 'Keluar',

@@ -14,7 +14,6 @@ moot.language = {
    c_email: 'メールアドレスを更新しました',
    cancel: 'キャンセル',
    change: '変更',
-   changed: '変更しました',
    changepw: 'パスワードの変更',
    close: '閉じる',
    collapse: 'すべて折りたたむ',
@@ -51,7 +50,6 @@ moot.language = {
    login: 'ログイン',
    login1: 'ログインしてください',
    login_and: "ログインして",
-   loginwith: '<a>Facebook</a>でログイン、または',
 
    logout: 'ログアウト',
    mark: '攻撃的、もしくはスパム',

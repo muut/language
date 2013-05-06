@@ -1,6 +1,9 @@
 
 var language = {
 
+   changed: 'Megváltoztatva!',
+   loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
+
    login: 'Belépés',
    newto: 'Új vagy a Moot-on?',
    join: 'Csatlakozz a Moot-hoz!',

@@ -1,6 +1,9 @@
 
 var language = {
 
+   changed: 'تم التغيير',
+   loginwith: 'تسجيل الدخول عبر',
+
    login: 'تسجيل الدخول',
    newto: 'هل أنت جديد على Moot?',
    join: 'انضم إلى Moot',
