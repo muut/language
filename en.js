@@ -69,7 +69,7 @@ moot.language = {
    progress: ['loading...', 'still working...', 'and working...', 'giving up'],
    reconnect: 'Reconnecting...',
    removecat: 'Remove. The posts are not removed',
-   removepost: 'Remove this post',
+   removepost: 'Remove',
    reply: 'Reply...',
    replybtn: 'Reply',
    save: 'Save changes',
