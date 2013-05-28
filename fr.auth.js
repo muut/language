@@ -1,48 +1,50 @@
+
 var language = {
 
-   changed: 'Modifié !',
+   changed: 'Changé !',
    loginwith: 'Se connecter avec <a>Facebook</a> ou',
 
-   login: 'Connexion',
-   newto: 'Nouveau sur Moot?',
+   login: 'Se connecter',
+   newto: 'Nouveau sur Moot ?',
    join: 'Rejoindre Moot',
 
-   join0: 'Rejoindre aujourd\'hui!',
-   id: 'Email <em>ou nom d\'utilisateur</em>',
+   join0: 'Rejoindre aujourd\'hui !',
+   id: 'E-mail <em>ou nom d\'utilisateur</em>',
    password: 'Mot de passe',
    forgot: 'Oublié ?',
 
 
-   notify: 'Tenez moi au courant des nouvelles versions de Moot',
+   notify: 'Informez-moi des nouvelles versions de Moot',
    auth_failed: 'Mauvais nom d\'utilisateur ou mot de passe',
    invalid: 'Valeur invalide',
-   terms: 'J\'accepte les <a>termes de services/a>.',
+   terms: 'J\'accepte les <a>modalités du service</a>.',
 
 
-   minlength: 'Tapez {n} caractères ou plus',
+   minlength: 'Tapez {n} caractère(s) ou plus',
    required: 'Veuillez remplir ce champ',
-   checking: 'Validation...',
+   checking: 'Vérification...',
 
-   username_done: 'Cela ne pourra être changé plus tard',
+   username_done: 'Ceci ne pourra être changé par la suite',
    username_fail: 'Utilisez des lettres minuscules, des chiffres ou des tirets',
-   username_taken: 'Ce nom d\'utilisateur est déjà pris',
+   username_taken: 'Ce nom d\'utilisateur est pris',
 
-   email: 'Email',
-   email_tip: 'Votre adresse n\'est jamais partagé.',
+   email: 'E-mail',
+   email_tip: 'Votre adresse e-mail n\'est jamais partagée.',
    email_done: 'Nous vous enverrons une confirmation',
-   email_fail: 'Adresse email invalide',
-   email_taken: 'Cette adresse email est prise',
+   email_fail: 'Adresse e-mail invalide',
+   email_taken: 'Cette adresse e-mail est prise',
 
 
    reset: 'Réinitialiser le mot de passe',
    resetbtn: 'Envoyer les instructions',
-   sent: 'Nous avons envoyé les instructions de réinitialisation de mot de passe à votre adresse email.',
-   sent1: 'Si vous n\'avez pas reçu d\'email d\'ici une minute ou deux, regardez dans le dossier "spam"',
-   notfound: 'Nous ne trouvons pas cet utilisateur',
+   sent: 'We have sent password reset instructions to your email address.',
+   sent: 'Nous avons envoyé les instructions pour réinitialiser votre mot de passe à votre adresse e-mail.',
+   sent1: 'Si vous ne recevez pas d\'e-mail dans une minute ou deux, vérifiez dans votre dossier "Spam".',
+   notfound: 'Ne peut trouver cet utilisateur',
    invalidpw: 'Mot de passe invalide',
-   passtip: '6 lettres ou plus, soyez réfléchi.',
+   passtip: '6 lettres ou plus, réfléchissez bien',
    oldpw: 'Ancien mot de passe',
    newpw: 'Nouveau mot de passe',
-   changepw: 'Modifier mot de passe'
+   changepw: 'Changer le mot de passe'
 
 }
