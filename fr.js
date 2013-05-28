@@ -101,7 +101,7 @@ moot.language = {
    upgrade2: 'Moot utilise les WebSockets ou CORS pour les communications cross-domain. Tous les navigateurs modernes à part Opera 11 et IE7 fonctionnent.',
    upgrade: 'Veuillez mettre à jour votre navigateur',
    username_taken: 'Ce nom d\'utilisateur est pris',
-   watch: 'Faire attention aux nouvelles réponses',
+   watch: 'Surveiller les nouvelles réponses',
    welcome1: 'Veuillez vérifier vos e-mails pour finir votre inscription. Si vous ne recevez pas d\'e-mails dans une minute ou deux, vérifiez votre dossier "Spam".',
    welcome2: 'Veuillez fournir un nom d\'utilisateur Moot',
    welcome: 'Bienvenue sur Moot',
