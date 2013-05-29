@@ -1,7 +1,7 @@
 moot.language = {
 
    // the language code
-   $code: 'ko_kr',
+   $code: 'ko',
 
    all: '모든 글', // or alternatively: All
 
