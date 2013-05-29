@@ -25,7 +25,7 @@ var language = {
 
    username: 'Nombre de usuario',
    username_done: 'No puede ser cambiado después',
-   username_fail: 'Usar letras minúsculas, números o guiones',
+   username_fail: 'Usar letras, números o guiones',
    username_taken: 'Este nombre de usuario está ocupado',
 
    email: 'Email',

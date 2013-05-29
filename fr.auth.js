@@ -25,7 +25,7 @@ var language = {
    checking: 'Vérification...',
 
    username_done: 'Ceci ne pourra être changé par la suite',
-   username_fail: 'Utilisez des lettres minuscules, des chiffres ou des tirets',
+   username_fail: 'Utilisez des lettres, des chiffres ou des tirets',
    username_taken: 'Ce nom d\'utilisateur est pris',
 
    email: 'E-mail',

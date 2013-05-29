@@ -25,7 +25,7 @@ var language = {
    checking: 'Überprüfe...',
 
    username_done: 'Dies kann später nicht mehr geändert werden',
-   username_fail: 'Benutze Kleinbuchstaben, Zahlen or Striche',
+   username_fail: 'Benutze Buchstaben, Zahlen or Striche',
    username_taken: 'Dieser Benutzername ist bereits vergeben',
 
    email: 'Email',

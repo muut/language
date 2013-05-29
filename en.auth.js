@@ -25,7 +25,7 @@ var language = {
    checking: 'Checking...',
 
    username_done: 'This cannot be changed later',
-   username_fail: 'Use lowercase letters, numbers or dashes',
+   username_fail: 'Use letters, numbers or dashes',
    username_taken: 'This username is taken',
 
    email: 'Email',

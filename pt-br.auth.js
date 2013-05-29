@@ -22,7 +22,7 @@ var language = {
    checking: 'Verificando...',
 
    username_done: 'Não pode ser alterado no futuro',
-   username_fail: 'Use letras minúsculas, números ou traços',
+   username_fail: 'Use letras, números ou traços',
    username_taken: 'Este nome de usuário já esta sendo usado',
 
    email: 'Email',

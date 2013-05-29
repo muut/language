@@ -26,7 +26,7 @@ var language = {
 
    username: 'Felhasználónév',
    username_done: 'Ez később nem lesz változtatható',
-   username_fail: 'Használj kisbetűket, számokat vagy kötőjeleket',
+   username_fail: 'Használj betűket, számokat vagy kötőjeleket',
    username_taken: 'A felhasználónév foglalt',
 
    email: 'Email',

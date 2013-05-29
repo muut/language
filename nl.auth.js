@@ -25,7 +25,7 @@ var language = {
    checking: 'Checkt...',
 
    username_done: 'Dit kan later niet verandert worden',
-   username_fail: 'Gebruik kleine letters, nummers of spaties',
+   username_fail: 'Gebruik letters, nummers of spaties',
    username_taken: 'Deze gebruikersnaam is bezet',
 
    email: 'Email',
