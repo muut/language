@@ -4,6 +4,26 @@ moot.language = {
    $code: 'hu',
 
 
+   /* New stuff (June 1) */
+
+   bolded: 'bolded',
+   italics: 'in italics',
+   monospaced: 'monospaced',
+   domain: 'Your domain',
+   domaintip: 'The domain where users are pushed from search results',
+   learn: 'Learn more...',
+   ga: 'Google Analytics Id',
+   gatip: 'Used on the static pages',
+   admins: 'Administrators',
+   adminstip: 'One username per line',
+   settings: 'Settings',
+
+
+   /* End new stuff */
+
+
+
+
    all: 'Összes', // or alternatively: All
    anon_1: 'vendég',
    anon: 'vendég',

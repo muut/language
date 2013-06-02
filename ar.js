@@ -4,6 +4,25 @@ moot.language = {
    // Translated to Arabic by Omar Bani Al-Marjeh
    $code: 'ar',
 
+
+   /* New stuff (June 1) */
+
+   bolded: 'bolded',
+   italics: 'in italics',
+   monospaced: 'monospaced',
+   domain: 'Your domain',
+   domaintip: 'The domain where users are pushed from search results',
+   learn: 'Learn more...',
+   ga: 'Google Analytics Id',
+   gatip: 'Used on the static pages',
+   admins: 'Administrators',
+   adminstip: 'One username per line',
+   settings: 'Settings',
+
+
+   /* End new stuff */
+
+
    all: 'جميع المشاركات', // or alternatively: الكل
    anon_1: 'مجهول',
    anon: 'مجهول',

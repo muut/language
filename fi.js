@@ -2,6 +2,25 @@ moot.language = {
 
    $code: 'fi',
 
+
+   /* New stuff (June 1) */
+
+   bolded: 'lihavoitu',
+   italics: 'kursiivilla',
+   monospaced: 'kiinteävälistä',
+   domain: 'Domainisi',
+   domaintip: 'Domain jonne käyttäjät ohjataan hakutuloksista',
+   learn: 'Lue lisää...',
+   ga: 'Google Analytics tunnus',
+   gatip: 'Käytetään staattisissa sivuissa',
+   admins: 'Ylläpitäjät',
+   adminstip: 'Yksi käyttäjätunnus per rivi',
+   settings: 'Asetukset',
+
+
+   /* End new stuff */
+
+
    all: 'Kaikki',
    anon_1: 'anonyymi',  // singular
    anon: 'anonyymiä',   // plural

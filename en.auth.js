@@ -1,6 +1,11 @@
 
 var language = {
 
+   /* Changes since June 1 */
+   username_fail: 'Use letters, numbers or dashes',
+
+
+
    changed: 'Changed!',
    loginwith: 'Log in with <a>Facebook</a> or',
 
@@ -25,7 +30,6 @@ var language = {
    checking: 'Checking...',
 
    username_done: 'This cannot be changed later',
-   username_fail: 'Use letters, numbers or dashes',
    username_taken: 'This username is taken',
 
    email: 'Email',

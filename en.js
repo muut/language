@@ -3,8 +3,25 @@ moot.language = {
    // the language code
    $code: 'en',
 
-   all: 'All posts', // or alternatively: All
+   /* New stuff (June 1) */
 
+   bolded: 'bolded',
+   italics: 'in italics',
+   monospaced: 'monospaced',
+   domain: 'Your domain',
+   domaintip: 'The domain where users are pushed from search results',
+   learn: 'Learn more...',
+   ga: 'Google Analytics Id',
+   gatip: 'Used on the static pages',
+   admins: 'Administrators',
+   adminstip: 'One username per line',
+   settings: 'Settings',
+
+
+   /* End new stuff */
+
+
+   all: 'All posts', // or alternatively: All
    anon_1: 'anonymous',    // singular
    anon: 'anonymous',      // plural
 
