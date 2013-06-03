@@ -1,3 +1,6 @@
+
+
+
 ## Moot language files
 
 Moot's default language is English. The English localization consists of two files:
@@ -23,13 +26,18 @@ https://raw.github.com/moot/language/master/en.auth.js
 on your PC and then proceed with steps 2 and 3 above. Then send the modified files to tero@moot.it
 
 
+### Updates
+
+Moot is constantly updating and improving. Your language files will contain English placeholders on top of the files once new content is added. See for example [es.js](es.js#L7). Please update the new language by making a pull request or send the updates directly to tero@moot.it. Thank you!
+
+
 ### Testing
 
 You can test your new localization by opening the [test.html](test.html) file on your browser and supplying the language code on the query string. For example:
 
 `test.html?ru`
 
-The client should now use your language. The authentication file (such as ru.auth.js) and the login dialog will not work until your work is submitted to us and the files are made available in our content delivery network.
+The client should now use your language.
 
 *Note* If you see badly rendered characters then the language file is not encoded in UTF-8 format. These commands fixes the issue in OSX:
 
@@ -43,7 +51,7 @@ iconv -f ISO-8859-1 -t utf-8 ru.auth.js > ru.auth8.js && mv ru.auth8.js ru.auth.
 A few things to keep in mind:
 
 1. Keep sentences short! The shorter and more precise the better.
-2. Find the best way to say it in *your* language. Don't just directly translate the English words. (Google Translate is not recommended here.)
-3. Moot is constantly updating and improving, and new content will be added. We hope you can contribute later too.
+2. Find the best way to say it in *your* language. Don't just directly translate the English words.
+3. [Google Translate](http://translate.google.com/) works well for individual words but you know the precise sentences better.
 
 Thanks! We appreciate the help.
