@@ -7,7 +7,7 @@ moot.language = {
 
    bolded: 'en gras',
    italics: 'en italique',
-   monospaced: 'monospaced',
+   monospaced: 'mono-espacé',
    domain: 'URL du forum',
    domaintip: 'URL complète des forums où les utilisateurs sont redirigés depuis les moteurs de recherche',
    learn: 'En savoir plus...',
