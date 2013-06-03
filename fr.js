@@ -2,7 +2,24 @@ moot.language = {
 
    // the language code
    $code: 'fr',
+   
+   /* New stuff (June 1) */
 
+   bolded: 'en gras',
+   italics: 'en italique',
+   monospaced: 'monospaced',
+   domain: 'URL du forum',
+   domaintip: 'URL complète des forums où les utilisateurs sont redirigés depuis les moteurs de recherche',
+   learn: 'En savoir plus...',
+   ga: 'ID Google Analytics',
+   gatip: 'Utilisé sur les pages statiques',
+   admins: 'Administrateurs',
+   adminstip: 'Un nom d\'utilisateur par ligne',
+   settings: 'Paramètres',
+
+
+   /* End new stuff */
+   
    all: 'Tous les posts', // or alternatively: All
 
    anon_1: 'anonyme',     // singular
@@ -26,7 +43,7 @@ moot.language = {
    email_taken: 'Cette adresse e-mail est prise',
    emailtip: 'Votre adresse e-mail ne sera jamais partagée',
    enter: 'Ctrl + Entrée',
-   expired1: 'Nous venons de vous envoyer un nouveau. Veuillez vérifier vos e-mails.', // http://d.pr/i/1OEV
+   expired1: 'Nous venons de vous en envoyer un nouveau. Veuillez vérifier vos e-mails.', // http://d.pr/i/1OEV
    expired: 'Ce lien a expiré',
 
    feed: 'Mon fil', // alternatives: My own, personal
@@ -54,7 +71,7 @@ moot.language = {
    logout: 'Se déconnecter',
    mark: 'Offensif ou spam',
    mean: 'Vouliez-vous dire',
-   name: 'Nom qui apparaît',
+   name: 'Nom',
    nametip: 'Votre vrai nom, pour que les gens vous reconaissent',
    newcat: 'Nouvelle catégorie',
    newpass: 'Nouveau mot de passe',
@@ -78,7 +95,7 @@ moot.language = {
    select: 'Sélectionnez le forum',
    setup: 'Installer maintenant',
    showing: 'Montrant',
-   slogan: 'Forums et commentage ré-imaginés',
+   slogan: 'Forums et commentaires ré-imaginés',
    spam: 'Spam',
    start: 'Quoi de neuf ?',
    step1: 'Nous vous avons envoyé un e-mail de confirmation. Votre adresse e-mail ne sera pas mise à jour avant d\'avoir terminé cette étape !',
