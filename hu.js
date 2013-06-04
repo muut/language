@@ -6,17 +6,17 @@ moot.language = {
 
    /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'in italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   bolded: 'félkövér',
+   italics: 'dőlt',
+   monospaced: 'szélességű',
+   domain: 'Fórum URL',
+   domaintip: 'Teljes URL a fórumhoz, ahol a felhasználók kereshetnek',
+   learn: 'Tudj meg többet...',
+   ga: 'Google Analytics azonosító',
+   gatip: 'Statikus oldalaknál használd',
+   admins: 'Adminisztrátorok',
+   adminstip: 'Egy felhasználónév soronként',
+   settings: 'Beállítások',
 
 
    /* End new stuff */
