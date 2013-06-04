@@ -7,17 +7,17 @@ moot.language = {
 
    /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'in italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   bolded: 'بالخط العريض',
+   italics: 'بالخط المائل',
+   monospaced: 'أحادي المسافة',
+   domain: 'رابط المنتدى',
+   domaintip: 'الرابط الكامل للمنتدى سيظهر للمستخدمين في نتائج البحث',
+   learn: 'تعرف أكثر...',
+   ga: 'معرّف إحصائيات جوجل',
+   gatip: 'تم استخدامها في صفحات ثابتة',
+   admins: 'المسؤولين',
+   adminstip: 'مستخدم واحد في كل سطر',
+   settings: 'إعدادات',
 
 
    /* End new stuff */
