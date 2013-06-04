@@ -28,7 +28,7 @@ on your PC and then proceed with steps 2 and 3 above. Then send the modified fil
 
 ### Updates
 
-Moot is constantly updating and improving. Your language files will contain English placeholders on top of the files once new content is added. See for example [es.js](es.js#L7). Please update the new language by making a pull request or send the updates directly to tero@moot.it. Thank you!
+Moot is constantly updating and improving. Your language files will contain English placeholders on top of the files once new content is added. See for example [es.js](es.js#L7). Please update the new language by making a pull request or send the updates directly to tero@moot.it . Thank you!
 
 
 ### Testing
