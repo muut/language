@@ -6,17 +6,17 @@ moot.language = {
 
    /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'in italics',
-   monospaced: 'monospaced',
+   bolded: 'vetgedrukt',
+   italics: 'cursief',
+   monospaced: 'onproportioneel geplaatst',
    domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
+   domaintip: 'Volledige URL naar de forums waar gebruikers heen worden verwezen vanaf de zoekresultaten',
+   learn: 'Kom meer te weten...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
+   gatip: 'Wordt gebruikt op de statische pagina's',
    admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   adminstip: 'Een gebruikersnaam per regel',
+   settings: 'Instellingen',
 
 
    /* End new stuff */
