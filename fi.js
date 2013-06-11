@@ -51,7 +51,6 @@ moot.language = {
    help1: '1. rivi = otsikko',
    help2: 'lähetä',
    help3: 'lainaus',
-   help4: 'toinen rivi',
    help5: 'koodia, kieli arvataan',
    help6: 'html koodia',
    in_forum: 'foorumissa',

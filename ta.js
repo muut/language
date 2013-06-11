@@ -7,7 +7,7 @@ moot.language = {
    /* New stuff (June 1) */
 
    bolded: 'bolded',
-   italics: 'in italics',
+   italics: 'italics',
    monospaced: 'monospaced',
    domain: 'Forum URL',
    domaintip: 'Full URL to the forums where users are pushed from search results',
@@ -17,6 +17,8 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   avatar: 'Change avatar',
+   seo_update: 'The SEO pages will be updated within the hour',
 
 
    /* End new stuff */
@@ -56,7 +58,6 @@ moot.language = {
    help1: 'முதல் வரி தலைப்பாகும்',
    help2: 'பதிவு',
    help3: 'மேற்கோள்',
-   help4: 'இரண்டாவது வரி',
    help5: 'கணினி குறியீடு, மொழி யூகிக்கப்படும்',
    help6: 'HTML குறியீடு',
    in_forum: '',

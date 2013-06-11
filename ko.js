@@ -7,7 +7,7 @@ moot.language = {
    /* New stuff (June 1) */
 
    bolded: 'bolded',
-   italics: 'in italics',
+   italics: 'italics',
    monospaced: 'monospaced',
    domain: 'Forum URL',
    domaintip: 'Full URL to the forums where users are pushed from search results',
@@ -17,6 +17,8 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   avatar: 'Change avatar',
+   seo_update: 'The SEO pages will be updated within the hour',
 
 
    /* End new stuff */
@@ -56,7 +58,6 @@ moot.language = {
    help1: '첫 줄은 제목입니다',
    help2: '글 남기기',
    help3: '인용 문구',
-   help4: '두번째 줄',
    help5: '컴퓨터 코드 (자동인식)',
    help6: 'HTML 코드',
    in_forum: 'in',

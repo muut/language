@@ -6,7 +6,7 @@ moot.language = {
    /* New stuff (June 1) */
 
    bolded: 'bolded',
-   italics: 'in italics',
+   italics: 'italics',
    monospaced: 'monospaced',
    domain: 'Forum URL',
    domaintip: 'Full URL to the forums where users are pushed from the search results',
@@ -16,7 +16,8 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
-
+   avatar: 'Change avatar',
+   seo_update: 'The SEO pages will be updated within the hour',
 
    /* End new stuff */
 
@@ -52,8 +53,7 @@ moot.language = {
    forums: 'Forums',
    help1: 'First line is the title',
    help2: 'post',
-   help3: 'quoted text',
-   help4: 'second line',
+   help3: 'quoted',
    help5: 'code, language guessed',
    help6: 'HTML code',
    in_forum: 'in',
