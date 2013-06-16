@@ -12,16 +12,9 @@ To create a new localization you need to:
 3. Open the copied files on your text editor and replace the English words with the new language
 4. Send us a pull request
 
-### Wait, forking, pull request!?!
+## Fork from moot/language
 
-If forking makes no sense you can just save these files
-
-https://raw.github.com/moot/language/master/en.js
-
-https://raw.github.com/moot/language/master/en.auth.js
-
-on your PC and then proceed with steps 2 and 3 above. Then send the modified files to tero@moot.it
-
+This is a fork from moot/language. Only the French translation is updated.
 
 ### Testing
 
