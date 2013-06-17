@@ -37,7 +37,8 @@ You can test your new localization by opening the [test.html](test.html) file on
 
 `test.html?ru`
 
-The client should now use your language.
+The client should now use your language. Note that you should serve the test.html file from a local webserver (localhost) and not directly from the file system (file:// protocol). This way the avatars are displayed correctly and you can debug the language of the authentication pieces too.
+
 
 *Note* If you see badly rendered characters then the language file is not encoded in UTF-8 format. These commands fixes the issue in OSX:
 
