@@ -1,33 +1,35 @@
 moot.language = {
 
    // the language code
-   $code: 'en',
+   $code: 'id',
 
 
-   /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   /* New stuff */
+
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
-
 
    /* End new stuff */
 
 
 
 
+   bolded: 'tebal',
+   italics: 'miring',
+   monospaced: 'monospace',
+   domain: 'Tautan Forum',
+   domaintip: 'Tautan Penuh ke forum ketika pengguna diteruskan dari hasil pencarian',
+   learn: 'Pelajari...',
+   ga: 'ID Google Analytics',
+   gatip: 'Digunakan pada halaman statis',
+   admins: 'Para Administrator',
+   adminstip: 'Satu nama pengguna setiap baris',
+   settings: 'Setting',
+
+
    all: 'Semua', // or alternatively: All
-   anon: 'anonnim',
+   anon: 'anonim',
    badforum: 'Forum tidak valid',
    c_acc1: 'Akun Anda sekarang bisa digunakan pada semua situs yang menggunakan Moot',
    c_acc: 'Akun terkonfirmasi',
