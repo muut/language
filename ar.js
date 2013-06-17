@@ -1,3 +1,4 @@
+
 moot.language = {
 
    // the language code
@@ -6,6 +7,12 @@ moot.language = {
 
 
    /* New stuff (June 1) */
+
+   avatar: 'Change avatar',
+   seo_update: 'The SEO pages will be updated within the hour',
+
+   /* End new stuff */
+
 
    bolded: 'بالخط العريض',
    italics: 'بالخط المائل',
@@ -18,9 +25,6 @@ moot.language = {
    admins: 'المسؤولين',
    adminstip: 'مستخدم واحد في كل سطر',
    settings: 'إعدادات',
-
-   /* End new stuff */
-
 
    all: 'جميع المشاركات', // or alternatively: الكل
    anon_1: 'مجهول',
@@ -54,6 +58,7 @@ moot.language = {
    help1: 'السطر الأول هو العنوان العريض',
    help2: 'المشاركة',
    help3: 'النص المقتبس',
+   help4: 'السطر الثاني',
    help5: 'الرموز البرمجية',
    help6: 'كود برمجي بلغة HTML',
    in_forum: '',
