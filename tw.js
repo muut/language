@@ -3,25 +3,25 @@ moot.language = {
    // the language code
    $code: 'tw',
 
-   /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   /* New stuff */
+
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
 
-
    /* End new stuff */
 
+   bolded: '粗體',
+   italics: '斜體',
+   monospaced: '等寬',
+   domain: '論壇網址',
+   domaintip: '完整版論壇的網址，使用者可透過搜尋結果而被引導至此網址',
+   learn: '了解更多 ...',
+   ga: 'Google Analytics 設定檔 ID',
+   gatip: '使用在靜態頁面',
+   admins: '管理者',
+   adminstip: '每行一位使用者名稱',
+   settings: '設定',
 
    all: '所有文章', // or alternatively: All
    anon_1: '匿名使用者',
