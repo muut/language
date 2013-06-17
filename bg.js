@@ -4,26 +4,26 @@ moot.language = {
    $code: 'bg',
 
 
-   /* New stuff (June 1) */
+   /* New stuff (June 17) */
 
-   bolded: 'bolded',
-   italics: 'italics',
    monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
-
 
    /* End new stuff */
 
 
+
+   bolded: 'удебелен шрифт',
+   italics: 'наклонен шрифт',
+   domain: 'URL Адрес на форума',
+   domaintip: 'Пълен адрес на форумите, където потребителите се препращат от резултати от търсенето',
+   learn: 'Разбери още...',
+   gatip: 'Използва се на статичните страници',
+   admins: 'Администратори',
+   adminstip: 'Едно потребителско име на ред',
+   settings: 'Настройки',
    all: 'Всички Статии', // or alternatively: All
 
    anon_1: 'анонимен',    // singular
