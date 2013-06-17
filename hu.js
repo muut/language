@@ -1,29 +1,29 @@
+
 moot.language = {
 
    // the language code
    $code: 'hu',
 
-
    /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
-
 
    /* End new stuff */
 
 
+
+   bolded: 'félkövér',
+   italics: 'dőlt',
+   monospaced: 'szélességű',
+   domain: 'Fórum URL',
+   domaintip: 'Teljes URL a fórumhoz, ahol a felhasználók kereshetnek',
+   learn: 'Tudj meg többet...',
+   ga: 'Google Analytics azonosító',
+   gatip: 'Statikus oldalaknál használd',
+   admins: 'Adminisztrátorok',
+   adminstip: 'Egy felhasználónév soronként',
+   settings: 'Beállítások',
 
 
    all: 'Összes', // or alternatively: All
@@ -58,6 +58,7 @@ moot.language = {
    help1: 'Az első sor a cím',
    help2: 'bejegyzés',
    help3: 'idézett szöveg',
+   help4: 'második sor',
    help5: 'kód, nyelv',
    help6: 'html kód',
    in_forum: '',
@@ -148,6 +149,6 @@ moot.language = {
    min: 'p',
    hour: 'ó',
    day: 'n',
-   week: 'h',
+   week: 'h'
 
 }
