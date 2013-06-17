@@ -3,27 +3,25 @@ moot.language = {
    // the language code
    $code: 'nl',
 
-
    /* New stuff (June 1) */
 
-   bolded: 'bolded',
-   italics: 'italics',
-   monospaced: 'monospaced',
    domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
-
+   admins: 'Administrators',
 
    /* End new stuff */
 
 
+   domaintip: 'Volledige URL naar de forums waar gebruikers heen worden verwezen vanaf de zoekresultaten',
+   bolded: 'vetgedrukt',
+   italics: 'cursief',
+   monospaced: 'onproportioneel geplaatst',
+   learn: 'Kom meer te weten...',
+   gatip: 'Wordt gebruikt op de statische pagina\'s',
+   adminstip: 'Een gebruikersnaam per regel',
+   settings: 'Instellingen',
 
    all: 'Alle posts', // or alternatively: All
 
