@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: 'に参加',
+
+
    changed: '変更しました',
    loginwith: '<a>Facebook</a>でログイン、または',
 
    login: 'ログイン',
-   newto: 'Mootは初めて?',
-   join: 'Mootに参加',
 
-   join0: '始めましょう！',
    id: 'メール <em>もしくはユーザー名</em>',
    password: 'パスワード',
    forgot: 'パスワードを忘れた場合',

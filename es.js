@@ -3,9 +3,7 @@ moot.language = {
    // the language code
    $code: 'es',
 
-
-   /* New stuff (June 1) */
-
+   /* New stuff */
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -19,11 +17,17 @@ moot.language = {
    settings: 'Settings',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
-
+   upgrade_link: 'Upgrade',
+   branding: 'Branding',
+   logo: 'Logo',
+   bgcolor: 'Background color',
+   css: 'CSS file',
+   mootbrand: 'Use Moot branding',
+   sso: 'Single Sign-On',
+   apikey: 'API key',
+   apisecret: 'Secret key',
 
    /* End new stuff */
-
-
 
    all: 'Todas las entradas', // or alternatively: All
    anon_1: 'anónimo',

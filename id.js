@@ -9,6 +9,16 @@ moot.language = {
 
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
+   upgrade_link: 'Upgrade',
+   branding: 'Branding',
+   logo: 'Logo',
+   bgcolor: 'Background color',
+   css: 'CSS file',
+   mootbrand: 'Use Moot branding',
+   sso: 'Single Sign-On',
+   apikey: 'API key',
+   apisecret: 'Secret key',
+
 
    /* End new stuff */
 

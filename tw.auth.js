@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: '加入',
+
+
    changed: '已更改！',
    loginwith: '使用 <a>Facebook</a> 帳號登入，或',
 
    login: '登入',
-   newto: 'Moot 新鮮人？',
-   join: '加入 Moot',
 
-   join0: '今天就加入！',
    id: 'Email <em>或 使用者名稱</em>',
    password: '密碼',
    forgot: '忘記了？',

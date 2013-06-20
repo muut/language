@@ -4,10 +4,8 @@ var language = {
    loginwith: 'Kirjaudu <a>Facebookissa</a> tai',
 
    login: 'Kirjaudu',
-   newto: 'Onko Moot tuttu?',
    join: 'Liity',
 
-   join0: 'Liity nyt!',
    id: 'Sähköposti <em>tai käyttäjätunnus</em>',
    password: 'Salasana',
    forgot: 'Unohtuiko?',

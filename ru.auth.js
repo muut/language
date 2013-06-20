@@ -5,10 +5,8 @@ var language = {
    loginwith: 'Войти через <a>Facebook</a> или',
 
    login: 'Войти',
-   newto: 'Впервые в Moot?',
    join: 'Регистрация',
 
-   join0: 'Зарегистрируйтесь сейчас!',
    id: 'Email <em>или имя пользователя</em>',
    password: 'Пароль',
    forgot: 'Забыл?',

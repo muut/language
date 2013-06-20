@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: 'Csatlakozz',
+
+
    changed: 'Megváltoztatva!',
    loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
 
    login: 'Belépés',
-   newto: 'Új vagy a Moot-on?',
-   join: 'Csatlakozz a Moot-hoz!',
 
-   join0: 'Csatlakozz még ma!',
    id: 'Email <em>vagy felhasználónév</em>',
    password: 'Jelszó',
    forgot: 'Elfelejtetted a jelszavad?',

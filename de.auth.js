@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: 'Beitreten',
+
+
    changed: 'Geändert!',
    loginwith: 'Über <a>Facebook</a> anmelden oder',
 
    login: 'Anmelden',
-   newto: 'Neu bei Moot?',
-   join: 'Moot beitreten',
 
-   join0: 'Tritt heute bei!',
    id: 'Email <em>oder Benutzername</em>',
    password: 'Passwort',
    forgot: 'Vergessen?',

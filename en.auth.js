@@ -1,29 +1,27 @@
 
 var language = {
 
-   /* Changes since June 1 */
+   /* New stuff */
+
    username_fail: 'Use letters, numbers or dashes',
+   loginwith: 'Log in with <a>facebook</a>',
+   join: 'Join',
+   // brand_color   //
+   /* End new stuff */
+
 
 
 
    changed: 'Changed!',
-   loginwith: 'Log in with <a>Facebook</a> or',
-
    login: 'Log in',
-   newto: 'New to Moot?',
-   join: 'Join Moot',
-
-   join0: 'Join today!',
    id: 'Email <em>or username</em>',
    password: 'Password',
    forgot: 'Forgot it?',
-
 
    notify: 'Notify me of new Moot releases',
    auth_failed: 'Wrong username or password',
    invalid: 'Invalid value',
    terms: 'I agree to the <a>terms of service</a>.',
-
 
    minlength: 'Type {n} characters or more',
    required: 'Please fill this field',

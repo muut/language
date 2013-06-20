@@ -1,14 +1,14 @@
 var language = {
 
 
+   join: 'Gabung',
+
+
    changed: 'Diganti!',
    loginwith: 'Masuk dengan <a>Facebook</a> atau',
 
    login: 'Masuk',
-   newto: 'Baru kenal Moot?',
-   join: 'Gabung Moot',
 
-   join0: 'Gabung sekarang!',
    id: 'Email <em>atau nama pengguna</em>',
    password: 'Sandi',
    forgot: 'Lupa?',

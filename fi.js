@@ -3,7 +3,7 @@ moot.language = {
    $code: 'fi',
 
 
-   /* New stuff (June 1) */
+   /* New stuff */
 
    bolded: 'lihavoitu',
    italics: 'kursiivilla',

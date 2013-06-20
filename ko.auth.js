@@ -1,14 +1,15 @@
 
 var language = {
 
+   join: '가입하기',
+
+
+
    changed: '변경됐습니다!',
    loginwith: '<a>페이스북</a>으로 로그인하거나',
 
    login: '로그인하기',
-   newto: 'Moot에 새로 오셨어요?',
-   join: 'Moot에 가입하기',
 
-   join0: '가입하세요!',
    id: '이메일 <em>혹은 아이디</em>',
    password: '비밀번호',
    forgot: '잃으셨나요?',

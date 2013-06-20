@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: 'Meld je aan',
+
+
    changed: 'Verandert!',
    loginwith: 'Log in met <a>Facebook</a> of',
 
    login: 'Log in',
-   newto: 'Nieuw bij Moot?',
-   join: 'Meld je aan bij Moot',
 
-   join0: 'Meld je vandaag aan!',
    id: 'Email <em>of gebruikersnaam</em>',
    password: 'Wachtwoord',
    forgot: 'Vergeten?',

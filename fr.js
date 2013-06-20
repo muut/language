@@ -4,8 +4,16 @@ moot.language = {
    $code: 'fr',
 
 
-   /* New stuff (June 1) */
-
+   /* New stuff */
+   upgrade_link: 'Upgrade',
+   branding: 'Branding',
+   logo: 'Logo',
+   bgcolor: 'Background color',
+   css: 'CSS file',
+   mootbrand: 'Use Moot branding',
+   sso: 'Single Sign-On',
+   apikey: 'API key',
+   apisecret: 'Secret key',
    /* End new stuff */
 
 
@@ -24,7 +32,6 @@ moot.language = {
    seo_update: 'Les pages pour le SEO seront mises à jour dans moins d\'une heure',
 
    all: 'Tous les posts', // or alternatively: All
-
    anon_1: 'anonyme',     // singular
    anon: 'anonymes',      // plural
 

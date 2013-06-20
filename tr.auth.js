@@ -1,14 +1,14 @@
 
 var language = {
 
+   join: 'Katýlýn',
+
+
    changed: 'Deðiþtirildi!',
    loginwith: 'Giriþ için <a>Facebook</a> kullan veya',
 
    login: 'Giriþ',
-   newto: 'Moot\'ta yeni misiniz?',
-   join: 'Moot\'a katýlýn',
 
-   join0: 'Hemen katýlýn!',
    id: 'Email <em>veya kullanýcý adý</em>',
    password: 'Þifre',
    forgot: 'Þifrenizi mi unuttunuz?',
