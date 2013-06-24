@@ -6,34 +6,30 @@ moot.language = {
 
    /* New stuff */
 
-   bolded: 'bolded',
-   italics: 'italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
-   domaintip: 'Full URL to the forums where users are pushed from search results',
-   learn: 'Learn more...',
-   ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
-   avatar: 'Change avatar',
-   seo_update: 'The SEO pages will be updated within the hour',
-   upgrade_link: 'Upgrade',
-   branding: 'Branding',
-   logo: 'Logo',
-   bgcolor: 'Background color',
-   css: 'CSS file',
-   mootbrand: 'Use Moot branding',
-   sso: 'Single Sign-On',
-   apikey: 'API key',
-   apisecret: 'Secret key',
-
-
-
    /* End new stuff */
 
-
+   bolded: '太字',
+   italics: '斜体',
+   monospaced: '単一のスペース',
+   domain: 'フォーラムのURL',
+   domaintip: '検索結果からリンクするために必要な、完全なURLを記入して下さい',
+   learn: '詳細...',
+   ga: 'Google Analytics トラッキングID',
+   gatip: '静的ページでご利用ください',
+   admins: '管理者権限',
+   adminstip: '行ごとにユーザ名を１つ記入して下さい',
+   settings: '設定',
+   avatar: 'アバターの変更',
+   seo_update: 'SEOページはもうすぐ更新されます',
+   upgrade_link: 'アップグレード',
+   branding: 'ブランディング',
+   logo: 'ロゴ',
+   bgcolor: '背景色',
+   css: 'CSSファイル',
+   mootbrand: 'Mootブランディングを使用',
+   sso: 'シングルサインオン',
+   apikey: 'API key',
+   apisecret: 'Secret key',
 
    all: 'すべての投稿', // or alternatively: All
 
