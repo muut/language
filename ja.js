@@ -3,22 +3,7 @@ moot.language = {
    // the language code
    $code: 'ja',
 
-
    /* New stuff */
-
-   /* End new stuff */
-
-   bolded: '太字',
-   italics: '斜体',
-   monospaced: '単一のスペース',
-   domain: 'フォーラムのURL',
-   domaintip: '検索結果からリンクするために必要な、完全なURLを記入して下さい',
-   learn: '詳細...',
-   ga: 'Google Analytics トラッキングID',
-   gatip: '静的ページでご利用ください',
-   admins: '管理者権限',
-   adminstip: '行ごとにユーザ名を１つ記入して下さい',
-   settings: '設定',
    avatar: 'アバターの変更',
    seo_update: 'SEOページはもうすぐ更新されます',
    upgrade_link: 'アップグレード',
@@ -31,8 +16,22 @@ moot.language = {
    apikey: 'API key',
    apisecret: 'Secret key',
 
-   all: 'すべての投稿', // or alternatively: All
+   /* End new stuff */
 
+
+   bolded: '太字',
+   italics: '斜体',
+   monospaced: '固定幅フォント',
+   domain: 'フォーラムのURL',
+   domaintip: '検索結果からリンクするために必要な、完全なURLを記入して下さい',
+   learn: '詳細...',
+   ga: 'Google Analytics トラッキングID',
+   gatip: '静的ページで利用されます',
+   admins: '管理者権限',
+   adminstip: '1行につき1ユーザー',
+   settings: '設定',
+
+   all: 'すべての投稿', // or alternatively: All
    anon_1: '匿名',    // singular
    anon: '匿名',      // plural
 
