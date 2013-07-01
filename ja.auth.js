@@ -1,31 +1,33 @@
 
 var language = {
 
-   join: 'に参加',
+   /* New stuff */
+
+   username_fail: '英数字とハイフンのみ利用可能です',
+   loginwith: '<a>Facebook</a>でログイン',
+   join: 'Mootに登録',
+   // brand_color   //
+   /* End new stuff */
+
+
 
 
    changed: '変更しました',
-   loginwith: '<a>Facebook</a>でログイン、または',
-
    login: 'ログイン',
-
    id: 'メール <em>もしくはユーザー名</em>',
    password: 'パスワード',
    forgot: 'パスワードを忘れた場合',
-
 
    notify: 'Mootの新着情報を受け取る',
    auth_failed: 'ユーザー名かパスワードが間違っています',
    invalid: '入力内容が不正です',
    terms: '<a>利用規約</a>に同意します',
 
-
    minlength: '{n}文字以上入力してください',
    required: 'この項目を入力してください',
    checking: '確認中…',
 
    username_done: 'この項目は後から変更できません',
-   username_fail: '英子文字と数字、"-"のみ利用可能です',
    username_taken: 'このユーザー名は既に使用されています',
 
    email: 'メール',
