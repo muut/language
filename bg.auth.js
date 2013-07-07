@@ -1,7 +1,11 @@
 var language = {
 
-   join: 'Присъедини',
+   // new stuff
+   username: 'Username',
 
+
+
+   join: 'Присъедини',
 
    changed: 'Променено!',
    loginwith: 'Влез чрез <a>Facebook</a> или',

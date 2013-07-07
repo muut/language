@@ -1,16 +1,14 @@
 
 var language = {
 
-   /* New stuff */
+   // new stuff
+   username: 'Username',
+
+
 
    username_fail: 'Use letters, numbers or dashes',
    loginwith: 'Log in with <a>facebook</a>',
    join: 'Join',
-   // brand_color   //
-   /* End new stuff */
-
-
-
 
    changed: 'Changed!',
    login: 'Log in',

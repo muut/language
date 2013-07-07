@@ -1,9 +1,12 @@
 
 var language = {
 
+   // new stuff
+   username: 'Username',
+
+
+
    join: 'Beitreten',
-
-
    changed: 'Geändert!',
    loginwith: 'Über <a>Facebook</a> anmelden oder',
 

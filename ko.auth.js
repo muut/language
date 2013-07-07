@@ -1,9 +1,12 @@
 
 var language = {
 
+   // new stuff
+   username: 'Username',
+
+
+
    join: '가입하기',
-
-
 
    changed: '변경됐습니다!',
    loginwith: '<a>페이스북</a>으로 로그인하거나',

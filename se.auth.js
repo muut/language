@@ -2,16 +2,13 @@
 var language = {
 
    /* New stuff */
+   username: 'Username',
+
+
 
    username_fail: 'Använd bokstäver, siffror eller bindestreck',
    loginwith: 'Logga in med <a>Facebook</a>',
    join: 'Gå med',
-   // brand_color   //
-   /* End new stuff */
-
-
-
-
    changed: 'Ändrad!',
    login: 'Logga in',
    id: 'E-post <em>eller användarnamn</em>',

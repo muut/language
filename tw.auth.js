@@ -1,8 +1,12 @@
 
 var language = {
 
-   join: '加入',
+   // new stuff
+   username: 'Username',
 
+
+
+   join: '加入',
 
    changed: '已更改！',
    loginwith: '使用 <a>Facebook</a> 帳號登入，或',

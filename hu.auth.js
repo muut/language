@@ -3,7 +3,6 @@ var language = {
 
    join: 'Csatlakozz',
 
-
    changed: 'Megváltoztatva!',
    loginwith: 'Lépj be a <a>Facebook</a> profiloddal vagy',
 

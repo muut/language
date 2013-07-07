@@ -1,8 +1,10 @@
 
 var language = {
 
-   join: 'Katýlýn',
+   // new stuff
+   username: 'Username',
 
+   join: 'Katýlýn',
 
    changed: 'Deðiþtirildi!',
    loginwith: 'Giriþ için <a>Facebook</a> kullan veya',

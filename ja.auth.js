@@ -1,8 +1,12 @@
 
 var language = {
 
-   join: 'に参加',
+   // new stuff
+   username: 'Username',
 
+
+
+   join: 'に参加',
 
    changed: '変更しました',
    loginwith: '<a>Facebook</a>でログイン、または',

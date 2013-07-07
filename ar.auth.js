@@ -1,6 +1,12 @@
 
 var language = {
 
+   // new stuff
+   username: 'Username',
+
+
+
+
    changed: 'تم التغيير',
    loginwith: 'تسجيل الدخول عبر',
 

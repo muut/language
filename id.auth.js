@@ -1,8 +1,12 @@
 var language = {
 
+   // new stuff
+   username: 'Username',
+
+
+
 
    join: 'Gabung',
-
 
    changed: 'Diganti!',
    loginwith: 'Masuk dengan <a>Facebook</a> atau',
