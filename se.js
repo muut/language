@@ -4,6 +4,10 @@
    $code: 'se',
 
    /* New stuff */
+   brand_name: 'Brand name',
+
+
+
    avatar: 'Ändra avatar',
    seo_update: 'SEO-sidorna kommer uppdateras inom en timme',
    upgrade_link: 'Uppgradera',
@@ -15,9 +19,6 @@
    sso: 'Single Sign-On',
    apikey: 'API-nyckel',
    apisecret: 'Hemlig nyckel',
-
-   /* End new stuff */
-
 
    bolded: 'fet',
    italics: 'kursiv',

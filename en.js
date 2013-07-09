@@ -10,6 +10,8 @@ moot.language = {
    branding: 'Branding',
    logo: 'Logo',
    bgcolor: 'Background color',
+   brand_name: 'Brand name',
+   brand_name: 'Brand name',
    css: 'CSS file',
    mootbrand: 'Use Moot branding',
    sso: 'Single Sign-On',

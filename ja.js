@@ -4,6 +4,13 @@ moot.language = {
    $code: 'ja',
 
    /* New stuff */
+   brand_name: 'Brand name',
+   apikey: 'API key',
+   apisecret: 'Secret key',
+
+
+
+
    avatar: 'アバターの変更',
    seo_update: 'SEOページはもうすぐ更新されます',
    upgrade_link: 'アップグレード',
@@ -13,11 +20,6 @@ moot.language = {
    css: 'CSSファイル',
    mootbrand: 'Mootブランディングを使用',
    sso: 'シングルサインオン',
-   apikey: 'API key',
-   apisecret: 'Secret key',
-
-   /* End new stuff */
-
 
    bolded: '太字',
    italics: '斜体',
