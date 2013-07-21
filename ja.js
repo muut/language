@@ -11,6 +11,8 @@ moot.language = {
 
 
 
+   title: 'title',
+   link: 'link',
    avatar: 'アバターの変更',
    seo_update: 'SEOページはもうすぐ更新されます',
    upgrade_link: 'アップグレード',

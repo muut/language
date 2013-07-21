@@ -7,6 +7,8 @@ moot.language = {
 
    domain: 'Forum URL',
    ga: 'Google Analytics Id',
+   title: 'title',
+   link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
    upgrade_link: 'Upgrade',

@@ -3,7 +3,20 @@ moot.language = {
    // the language code
    $code: 'en',
 
+   /* Bleeding edge */
+
+   banned: 'Banned account',
+   banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
+   banned4: 'You can no longer post on this forum.',
+
+   warning: 'Warning',
+   profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
+
+
    /* New stuff */
+
+   title: 'title',
+   link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
    upgrade_link: 'Upgrade',

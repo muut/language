@@ -17,6 +17,8 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   title: 'title',
+   link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
    upgrade_link: 'Upgrade',
