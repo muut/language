@@ -2,7 +2,7 @@
 var language = {
 
    /* New stuff */
-   username: 'Username',
+   username: 'Användarnamn',
 
 
 
@@ -18,7 +18,7 @@ var language = {
    notify: 'Meddela mig om nya Moot-releaser',
    auth_failed: 'Fel användarnamn eller lösenord',
    invalid: 'Felaktigt värde',
-   terms: 'Jag godkänner <a>användaravtal</a>.',
+   terms: 'Jag godkänner <a>användaravtalet</a>.',
 
    minlength: 'Skriv {n} tecken eller mer',
    required: 'Var vänlig och fyll i detta fält',
