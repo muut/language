@@ -1,11 +1,11 @@
 moot.language = {
 
    // the language code
-   $code: 'pt-pt',
-
+   $code: 'pt',
 
    /* New stuff */
-
+   title: 'title',
+   link: 'link',
    avatar: 'Alterar avatar',
    seo_update: 'The SEO pages will be updated within the hour',
    upgrade_link: 'Actualizar',

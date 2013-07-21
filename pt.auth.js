@@ -3,9 +3,6 @@ var language = {
    // new stuff
    username: 'Nome de utilizador',
 
-
-
-
    join: 'Inscrever-se',
 
    changed: 'Alterado!',
