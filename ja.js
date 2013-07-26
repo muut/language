@@ -7,12 +7,11 @@ moot.language = {
    brand_name: 'Brand name',
    apikey: 'API key',
    apisecret: 'Secret key',
-
-
-
-
+   fullview: 'Full view',
    title: 'title',
    link: 'link',
+
+
    avatar: 'アバターの変更',
    seo_update: 'SEOページはもうすぐ更新されます',
    upgrade_link: 'アップグレード',

@@ -5,6 +5,23 @@ moot.language = {
 
 
    /** NEW **/
+   fullview: 'Full view',
+   title: 'title',
+   link: 'link',
+   avatar: 'Change avatar',
+   seo_update: 'The SEO pages will be updated within the hour',
+   upgrade_link: 'Upgrade',
+   branding: 'Branding',
+   logo: 'Logo',
+   bgcolor: 'Background color',
+   brand_name: 'Brand name',
+   title: 'title',
+   css: 'CSS file',
+   mootbrand: 'Use Moot branding',
+   sso: 'Single Sign-On',
+   apikey: 'API key',
+   apisecret: 'Secret key',
+
 
    bolded: 'מודגש',
    italics: 'בכתב נטוי',
@@ -19,10 +36,8 @@ moot.language = {
    adminstip: 'שם משתמש אחד בשורה',
    settings: 'הגדרות',
 
-   /** END NEW **/
 
-   all: 'כל הדיונים ', // or alternatively: All
-
+   all: 'כל הדיונים ',
    anon_1: 'אנונימי',    // singular
    anon: 'אנונימיים',      // plural
 

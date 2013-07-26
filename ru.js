@@ -17,6 +17,7 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   fullview: 'Full view',
    title: 'title',
    link: 'link',
    avatar: 'Change avatar',

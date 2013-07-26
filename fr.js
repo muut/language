@@ -15,6 +15,7 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   fullview: 'Full view',
    /* End new stuff */
 
 

@@ -4,6 +4,25 @@ moot.language = {
 
 
    /* New stuff */
+   fullview: 'Näytä kokonaan',
+   title: 'otsikko',
+   link: 'linkki',
+   avatar: 'Vaihda kuva',
+   seo_update: 'Staattiset sivusi päivittyvät tunnin sisällä',
+   upgrade_link: 'Päivitä',
+   branding: 'Brändäys',
+   logo: 'Logo',
+   bgcolor: 'Taustaväri',
+   brand_name: 'Brändisi nimi',
+   css: 'CSS tiedosto',
+   mootbrand: 'Käytä Moot- brändäystä',
+   sso: 'Single Sign-On',
+   apikey: 'API avain',
+   apisecret: 'Salainen avain',
+
+   /* End new stuff */
+
+
 
    bolded: 'lihavoitu',
    italics: 'kursiivilla',
@@ -16,10 +35,6 @@ moot.language = {
    admins: 'Ylläpitäjät',
    adminstip: 'Yksi käyttäjätunnus per rivi',
    settings: 'Asetukset',
-
-
-   /* End new stuff */
-
 
    all: 'Kaikki',
    anon_1: 'anonyymi',  // singular
