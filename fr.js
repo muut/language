@@ -5,17 +5,17 @@ moot.language = {
 
 
    /* New stuff */
-   upgrade_link: 'Upgrade',
-   branding: 'Branding',
-   logo: 'Logo',
-   bgcolor: 'Background color',
-   brand_name: 'Brand name',
-   css: 'CSS file',
-   mootbrand: 'Use Moot branding',
-   sso: 'Single Sign-On',
-   apikey: 'API key',
-   apisecret: 'Secret key',
-   fullview: 'Full view',
+   upgrade_link: 'Mettre à niveau',
+   branding: 'Branding', // ?
+   logo: 'Logo', // same as English
+   bgcolor: 'Couleur de fond',
+   brand_name: 'Brand name', // ?
+   css: 'Fichier CSS',
+   mootbrand: 'Use Moot branding', // ?
+   sso: 'Single Sign-On', // same as English
+   apikey: 'Clé API',
+   apisecret: 'Clé secrète',
+   fullview: 'Vue complète',
    /* End new stuff */
 
 
