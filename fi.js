@@ -3,7 +3,9 @@ moot.language = {
    $code: 'fi',
 
 
-   /* New stuff */
+   basic: 'Perus (ilmainen)',
+   subs: 'Tilaukset',
+   manage: 'Ylläpito',
    fullview: 'Näytä kokonaan',
    title: 'otsikko',
    link: 'linkki',
@@ -19,11 +21,6 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API avain',
    apisecret: 'Salainen avain',
-
-   /* End new stuff */
-
-
-
    bolded: 'lihavoitu',
    italics: 'kursiivilla',
    monospaced: 'kiinteävälistä',

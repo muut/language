@@ -5,6 +5,11 @@ moot.language = {
 
 
    /* New stuff */
+   basic: 'Basic (free)',
+   subs: 'Subscriptions',
+   manage: 'Manage',
+   /* End new stuff */
+
    upgrade_link: 'Mettre à niveau',
    branding: 'Branding', // ?
    logo: 'Logo', // same as English
@@ -16,7 +21,6 @@ moot.language = {
    apikey: 'Clé API',
    apisecret: 'Clé secrète',
    fullview: 'Vue complète',
-   /* End new stuff */
 
 
    bolded: 'en gras',

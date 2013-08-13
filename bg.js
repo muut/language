@@ -4,10 +4,13 @@ moot.language = {
    $code: 'bg',
 
 
-   /* New stuff (June 17) */
+   /* New stuff */
 
    monospaced: 'monospaced',
    ga: 'Google Analytics Id',
+   basic: 'Basic (free)',
+   subs: 'Subscriptions',
+   manage: 'Manage',
    fullview: 'Full view',
    title: 'title',
    link: 'link',
@@ -24,10 +27,7 @@ moot.language = {
    apikey: 'API key',
    apisecret: 'Secret key',
 
-
    /* End new stuff */
-
-
 
    bolded: 'удебелен шрифт',
    italics: 'наклонен шрифт',

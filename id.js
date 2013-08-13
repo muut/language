@@ -3,10 +3,10 @@ moot.language = {
    // the language code
    $code: 'id',
 
-
-
    /* New stuff */
-
+   basic: 'Basic (free)',
+   subs: 'Subscriptions',
+   manage: 'Manage',
    fullview: 'Full view',
    title: 'title',
    link: 'link',
@@ -22,11 +22,7 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
-
-
    /* End new stuff */
-
-
 
 
    bolded: 'tebal',

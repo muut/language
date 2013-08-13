@@ -5,7 +5,9 @@ moot.language = {
 
 
    /* New stuff */
-
+   basic: 'Basic (free)',
+   subs: 'Subscriptions',
+   manage: 'Manage',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',

@@ -5,11 +5,12 @@
 
    /* New stuff */
    brand_name: 'Brand name',
+   basic: 'Basic (free)',
+   subs: 'Subscriptions',
+   manage: 'Manage',
    fullview: 'Full view',
    title: 'title',
    link: 'link',
-
-
 
    avatar: 'Ändra avatar',
    seo_update: 'SEO-sidorna kommer uppdateras inom en timme',
