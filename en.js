@@ -13,6 +13,7 @@ moot.language = {
 
 
    /* New stuff */
+   writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',

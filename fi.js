@@ -2,7 +2,7 @@ moot.language = {
 
    $code: 'fi',
 
-
+   writing: 'kirjoittaa...',
    basic: 'Perus (ilmainen)',
    subs: 'Tilaukset',
    manage: 'Ylläpito',

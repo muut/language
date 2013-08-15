@@ -5,6 +5,7 @@
 
    /* New stuff */
    brand_name: 'Brand name',
+   writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',

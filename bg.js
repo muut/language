@@ -8,6 +8,7 @@ moot.language = {
 
    monospaced: 'monospaced',
    ga: 'Google Analytics Id',
+   writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',

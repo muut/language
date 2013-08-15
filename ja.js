@@ -7,6 +7,7 @@ moot.language = {
    brand_name: 'Brand name',
    apikey: 'API key',
    apisecret: 'Secret key',
+   writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',

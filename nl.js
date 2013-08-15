@@ -7,6 +7,7 @@ moot.language = {
 
    domain: 'Forum URL',
    ga: 'Google Analytics Id',
+   writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
