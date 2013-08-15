@@ -2,6 +2,7 @@ moot.language = {
 
    $code: 'fi',
 
+   someone: 'Joku',
    writing: 'kirjoittaa...',
    basic: 'Perus (ilmainen)',
    subs: 'Tilaukset',

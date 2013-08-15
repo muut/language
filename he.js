@@ -5,6 +5,7 @@ moot.language = {
 
 
    /** NEW **/
+   someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',

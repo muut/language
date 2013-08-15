@@ -5,6 +5,7 @@
 
    /* New stuff */
    brand_name: 'Brand name',
+   someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',

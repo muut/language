@@ -17,6 +17,7 @@ moot.language = {
    admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
