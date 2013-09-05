@@ -4,13 +4,17 @@ moot.language = {
    $code: 'pt',
 
    /* New stuff */
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Alterar avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -28,7 +32,7 @@ moot.language = {
 
    /* End new stuff */
 
-
+   username_fail: 'Use letras, números ou hifens',
    bolded: 'negrito',
    italics: 'itálico',
    monospaced: 'espaço',
@@ -36,8 +40,7 @@ moot.language = {
    domaintip: 'URL do fórum onde os utilizadores são direcionados a partir dos resultados da pesquisa',
    learn: 'Saiba mais...',
    ga: 'Id Google Analytics',
-   gatip: 'Usado nas páginas estáticas',
-   admins: 'Administradores',
+      admins: 'Administradores',
    adminstip: 'Um utilizador por linha',
    settings: 'Configurações',
    all: 'Todos os posts', // or alternatively: All
@@ -69,7 +72,7 @@ moot.language = {
 
    forumname: 'Nome do fórum',
    forums: 'Fóruns',
-   help1: 'Primeira linha é o título',
+
    help2: 'post',
    help3: 'texto citado',
    help5: 'código, detectar idioma',
@@ -115,7 +118,7 @@ moot.language = {
    showing: 'Mostrar',
    slogan: 'Fóruns e comentários redesenhados',
    spam: 'Spam',
-   start: 'Então?',
+
    step1: 'Vai ser enviado um email de confirmação. A sua conta de email não será atualizada antes de completar esta fase!',
    step: 'Mais uma fase',
    terms: 'Concordo com os <a>termos de serviço</a>.',

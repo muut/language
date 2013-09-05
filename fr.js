@@ -5,6 +5,10 @@ moot.language = {
 
 
    /* New stuff */
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
@@ -24,7 +28,7 @@ moot.language = {
    apisecret: 'Clé secrète',
    fullview: 'Vue complète',
 
-
+   username_fail: 'Utilisez des lettres, des chiffres ou des tirets',
    bolded: 'en gras',
    italics: 'en italique',
    monospaced: 'mono-espacé',
@@ -32,11 +36,10 @@ moot.language = {
    domaintip: 'URL complète des forums où les utilisateurs sont redirigés depuis les moteurs de recherche',
    learn: 'En savoir plus...',
    ga: 'ID Google Analytics',
-   gatip: 'Utilisé sur les pages statiques',
-   admins: 'Administrateurs',
+      admins: 'Administrateurs',
    adminstip: 'Un nom d\'utilisateur par ligne',
    settings: 'Paramètres',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Changer l\'avatar',
    seo_update: 'Les pages pour le SEO seront mises à jour dans moins d\'une heure',
@@ -70,7 +73,7 @@ moot.language = {
 
    forumname: 'Nom du forum',
    forums: 'Forums',
-   help1: 'La première ligne est le titre',
+
    help2: 'publier',
    help3: 'citation',
    help5: 'code, langue auto-devinée',
@@ -116,7 +119,6 @@ moot.language = {
    showing: 'Montrant',
    slogan: 'Forums et commentaires ré-imaginés',
    spam: 'Spam',
-   start: 'Quoi de neuf ?',
    step1: 'Nous vous avons envoyé un e-mail de confirmation. Votre adresse e-mail ne sera pas mise à jour avant d\'avoir terminé cette étape !',
    step: 'Une dernière étape',
    terms: 'J\'accepte les <a>modalités du service</a>.',

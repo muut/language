@@ -4,13 +4,17 @@ moot.language = {
    $code: 'id',
 
    /* New stuff */
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -26,7 +30,7 @@ moot.language = {
    apisecret: 'Secret key',
    /* End new stuff */
 
-
+   username_fail: 'Gunakan huruf kecil, angka atau strip',
    bolded: 'tebal',
    italics: 'miring',
    monospaced: 'monospace',
@@ -34,8 +38,7 @@ moot.language = {
    domaintip: 'Tautan Penuh ke forum ketika pengguna diteruskan dari hasil pencarian',
    learn: 'Pelajari...',
    ga: 'ID Google Analytics',
-   gatip: 'Digunakan pada halaman statis',
-   admins: 'Para Administrator',
+      admins: 'Para Administrator',
    adminstip: 'Satu nama pengguna setiap baris',
    settings: 'Setting',
 
@@ -67,7 +70,7 @@ moot.language = {
 
    forumname: 'Nama Forum',
    forums: 'Forum',
-   help1: 'Baris pertama adalah judul',
+
    help2: 'pos',
    help3: 'teks kutipan',
    help5: 'kode, bahasa diprediksi',
@@ -114,7 +117,6 @@ moot.language = {
    showing: 'Menampilkan',
    slogan: 'Forum dan komentar di-definisikan ulang',
    spam: 'Spam',
-   start: 'Ada apa?',
    step1: 'Kami telah mengirim email konfirmasi. Email anda tidak diperbarui sebelum anda menyelesaikan langkah ini!',
    step: 'Satu langkah lagi',
    terms: 'Saya setuju dengan <a>syarat dan ketentuan</a>.',

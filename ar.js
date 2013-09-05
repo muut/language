@@ -7,14 +7,17 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -32,7 +35,7 @@ moot.language = {
 
    /* End new stuff */
 
-
+   username_fail: 'استخدم أحرف صغيرة، أرقام، أو شرطات',
    bolded: 'بالخط العريض',
    italics: 'بالخط المائل',
    monospaced: 'أحادي المسافة',
@@ -40,8 +43,7 @@ moot.language = {
    domaintip: 'الرابط الكامل للمنتدى سيظهر للمستخدمين في نتائج البحث',
    learn: 'تعرف أكثر...',
    ga: 'معرّف إحصائيات جوجل',
-   gatip: 'تم استخدامها في صفحات ثابتة',
-   admins: 'المسؤولين',
+      admins: 'المسؤولين',
    adminstip: 'مستخدم واحد في كل سطر',
    settings: 'إعدادات',
 
@@ -74,7 +76,7 @@ moot.language = {
 
    forumname: 'اسم المنتدى',
    forums: 'المنتديات',
-   help1: 'السطر الأول هو العنوان العريض',
+
    help2: 'المشاركة',
    help3: 'النص المقتبس',
    help4: 'السطر الثاني',
@@ -123,7 +125,7 @@ moot.language = {
    showing: 'يم عرض',
    slogan: 'منظور آخر للمنتديات وأنظمة التعليقات',
    spam: 'سبام',
-   start: 'ما الأمر؟',
+
    step1: 'لقد قمنا بإرسال رسالة تأكيد إلى بريدك الإلكتروني. لن يتم تحديث بريدك قبل إتمام هذه الخطوة!',
    step: 'خطوة أخرى',
    terms: 'أنا أوافق على <a>شروط الخدمة</a>.',

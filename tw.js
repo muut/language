@@ -5,13 +5,17 @@ moot.language = {
 
 
    /* New stuff */
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -28,7 +32,7 @@ moot.language = {
 
 
    /* End new stuff */
-
+   username_fail: '使用小寫字母、數字或橫線',
    bolded: '粗體',
    italics: '斜體',
    monospaced: '等寬',
@@ -36,8 +40,7 @@ moot.language = {
    domaintip: '完整版論壇的網址，使用者可透過搜尋結果而被引導至此網址',
    learn: '了解更多 ...',
    ga: 'Google Analytics 設定檔 ID',
-   gatip: '使用在靜態頁面',
-   admins: '管理者',
+      admins: '管理者',
    adminstip: '每行一位使用者名稱',
    settings: '設定',
 
@@ -69,7 +72,7 @@ moot.language = {
 
    forumname: '論壇名稱',
    forums: '論壇',
-   help1: '第一行是標題',
+
    help2: '發文',
    help3: '引用文字',
    help5: '程式碼，自動猜測語言類型',
@@ -115,7 +118,6 @@ moot.language = {
    showing: '展示中',
    slogan: '創新設計的論壇及評論平台',
    spam: '垃圾內容',
-   start: '分享點什麼？',
    step1: '我們已經送出確認信。在您完成此步驟前，您的Email不會被更新！',
    step: '下一步',
    terms: '我同意 <a>服務條款</a>',

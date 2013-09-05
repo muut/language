@@ -4,16 +4,19 @@ moot.language = {
    $code: 'nl',
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    domain: 'Forum URL',
    ga: 'Google Analytics Id',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -32,14 +35,13 @@ moot.language = {
 
    /* End new stuff */
 
-
+   username_fail: 'Gebruik letters, nummers of spaties',
    domaintip: 'Volledige URL naar de forums waar gebruikers heen worden verwezen vanaf de zoekresultaten',
    bolded: 'vetgedrukt',
    italics: 'cursief',
    monospaced: 'onproportioneel geplaatst',
    learn: 'Kom meer te weten...',
-   gatip: 'Wordt gebruikt op de statische pagina\'s',
-   adminstip: 'Een gebruikersnaam per regel',
+      adminstip: 'Een gebruikersnaam per regel',
    settings: 'Instellingen',
 
    all: 'Alle posts', // or alternatively: All
@@ -72,7 +74,7 @@ moot.language = {
 
    forumname: 'Forum naam',
    forums: 'Forums',
-   help1: 'De eerste regel is de titel',
+
    help2: 'bericht',
    help3: 'geciteerd bericht',
    help5: 'code, taal is geraden',
@@ -118,7 +120,6 @@ moot.language = {
    showing: 'Zichtbaar',
    slogan: 'Forums en reageren opnieuw bedacht',
    spam: 'Spam',
-   start: 'Hoe gaat het?',
    step1: 'We hebben u een bevestigings email gestuurd. Uw email is wordt niet upgedate voordat deze stap voltooid is!',
    step: 'Nog een stap',
    terms: 'Ik aanvaard de <a>servicevoorwaarden</a>.',

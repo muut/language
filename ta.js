@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -13,17 +13,19 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -43,7 +45,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   username_fail: 'சிற்றெழுத்துக்கள், எண்கள் அல்லது கோடுகளை பயன்படுத்தவும்',
    all: 'அனைத்து பதிவுகள்', // or alternatively: All
 
    anon_1: 'பெயரிலி',
@@ -74,7 +76,7 @@ moot.language = {
 
    forumname: 'மன்றப்பெயர்',
    forums: 'மன்றங்கள்',
-   help1: 'முதல் வரி தலைப்பாகும்',
+
    help2: 'பதிவு',
    help3: 'மேற்கோள்',
    help5: 'கணினி குறியீடு, மொழி யூகிக்கப்படும்',
@@ -120,7 +122,6 @@ moot.language = {
    showing: 'காண்பிக்கிறோம்',
    slogan: 'மன்றங்கள், கருத்துகள். மறுபிறப்பு!',
    spam: 'கூளம்',
-   start: 'மனதில் என்ன?',
    step1: 'உங்கள் மின்னஞ்சலுக்கு ஒரு ஒப்புதல் பதிவை அணுப்பி உள்ளோம். ஒப்புதல் கிடைத்த பின்பே உங்கல் மின்னஞ்சல் புதுப்பிக்கப்படும்!',
    step: 'இன்னும் ஒரே படி உள்ளது',
    terms: '<a>பணி நிபந்தனைகளை</a> நான் ஏற்கிறேன்.',

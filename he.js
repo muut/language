@@ -5,13 +5,17 @@ moot.language = {
 
 
    /** NEW **/
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -20,14 +24,14 @@ moot.language = {
    logo: 'Logo',
    bgcolor: 'Background color',
    brand_name: 'Brand name',
-   title: 'title',
+   title: 'Title',
    css: 'CSS file',
    mootbrand: 'Use Moot branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
 
-
+   username_fail: 'ניתן להשתמש באותיות, מספרים או מקף',
    bolded: 'מודגש',
    italics: 'בכתב נטוי',
    monospaced: 'תו ברוחב קבוע',
@@ -36,8 +40,7 @@ moot.language = {
    domaintip: 'הכתובת המלאה אליה יופנו המשתמשים מתוצאות החיפוש',
    learn: 'מידע נוסף...',
    ga: 'מזהה Google Analytics',
-   gatip: 'בשימוש בדפים סטטיים',
-   admins: 'מנהלים',
+      admins: 'מנהלים',
    adminstip: 'שם משתמש אחד בשורה',
    settings: 'הגדרות',
 
@@ -71,7 +74,7 @@ moot.language = {
 
    forumname: 'שם הפורום',
    forums: 'פורומים',
-   help1: 'השורה הראשונה היא הכותרת',
+
    help2: 'בכדי לשלוח',
    help3: 'ציטוט טקסט',
    help5: 'קוד, השפה תזוהה באופן אוטומטי',
@@ -117,7 +120,6 @@ moot.language = {
    showing: 'מציג',
    slogan: 'מגדירים מחדש את הפורומים והתגובות באינטרנט',
    spam: 'ספאם',
-   start: 'מה המצב?',
    step1: 'שלחנו אליך הודעת אישור. כתובת הדואר לא תשתנה עד להשלמת השלב הזה!',
    step: 'עוד שלב אחד',
    terms: 'קראתי והסכמתי <a>לתנאי השימוש</a>.',

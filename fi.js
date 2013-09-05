@@ -2,13 +2,14 @@ moot.language = {
 
    $code: 'fi',
 
+   start: 'Uusi aihe...',
    someone: 'Joku',
    writing: 'kirjoittaa...',
    basic: 'Perus (ilmainen)',
    subs: 'Tilaukset',
    manage: 'Ylläpito',
    fullview: 'Näytä kokonaan',
-   title: 'otsikko',
+   title: 'Otsikko',
    link: 'linkki',
    avatar: 'Vaihda kuva',
    seo_update: 'Staattiset sivusi päivittyvät tunnin sisällä',
@@ -29,11 +30,11 @@ moot.language = {
    domaintip: 'Foorumisi osoite jonne käyttäjät ohjataan hakutuloksista',
    learn: 'Lue lisää...',
    ga: 'Google Analytics tunnus',
-   gatip: 'Käytetään staattisissa sivuissa',
-   admins: 'Ylläpitäjät',
+      admins: 'Ylläpitäjät',
    adminstip: 'Yksi käyttäjätunnus per rivi',
    settings: 'Asetukset',
 
+   username_fail: 'Käytä kirjaimia, numeroita tai väliviivaa',
    all: 'Kaikki',
    anon_1: 'anonyymi',  // singular
    anon: 'anonyymiä',   // plural
@@ -61,7 +62,7 @@ moot.language = {
    feed: 'Omat',
    forumname: 'Foorumin nimi',
    forums: 'Foorumit',
-   help1: '1. rivi = otsikko',
+
    help2: 'lähetä',
    help3: 'lainaus',
    help5: 'koodia, kieli arvataan',
@@ -107,7 +108,6 @@ moot.language = {
    showing: 'Näytetään',
    slogan: 'Foorumit ja kommentointi myös sinun sivuille?',
    spam: 'Roskapostit',
-   start: 'Mitä mielessä?',
    step: 'Vahvistus lähetetty',
    step1: 'Osoitteesi päivittyy, kun klikkaat mailissa olevaa linkkiä.',
    terms: 'Hyväksyn <a>käyttäjäehdot</a>.',

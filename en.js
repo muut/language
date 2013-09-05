@@ -13,13 +13,17 @@ moot.language = {
 
 
    /* New stuff */
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
+   title: 'Title',
+   start: 'Start a new topic...',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -28,7 +32,7 @@ moot.language = {
    logo: 'Logo',
    bgcolor: 'Background color',
    brand_name: 'Brand name',
-   title: 'title',
+   title: 'Title',
    css: 'CSS file',
    mootbrand: 'Use Moot branding',
    sso: 'Single Sign-On',
@@ -37,7 +41,7 @@ moot.language = {
 
    /* End new stuff */
 
-
+   username_fail: 'Use letters, numbers or dashes',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -45,8 +49,7 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from the search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
 
@@ -79,7 +82,7 @@ moot.language = {
 
    forumname: 'Forum name',
    forums: 'Forums',
-   help1: 'First line is the title',
+
    help2: 'post',
    help3: 'quoted',
    help5: 'code, language guessed',
@@ -125,7 +128,6 @@ moot.language = {
    showing: 'Showing',
    slogan: 'Forums and commenting re-imagined',
    spam: 'Spam',
-   start: 'What\'s up?',
    step1: 'We have sent you a confirmation email. Your email is not updated before you complete this step!',
    step: 'One more step',
    terms: 'I agree to the <a>terms of service</a>.',
@@ -143,7 +145,7 @@ moot.language = {
    unver: 'Unverified',
    unwall: 'unwatch all',
    unwatch: 'Unwatch',
-   upgrade2: 'Moot uses WebSockets or CORS for cross domain communication. All modern browsers except Opera 11 and IE7 work.',
+   upgrade2: 'Moot uses WebSockets or CORS for cross domain communication. All modern browsers above Opera 11 and IE7 work.',
    upgrade: 'Please upgrade your browser',
    username_taken: 'This username is taken',
    watch: 'Watch for new replies',

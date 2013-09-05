@@ -5,16 +5,19 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    monospaced: 'monospaced',
    ga: 'Google Analytics Id',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -30,14 +33,13 @@ moot.language = {
    apisecret: 'Secret key',
 
    /* End new stuff */
-
+   username_fail: 'Използвай букви, цифри или чертички',
    bolded: 'удебелен шрифт',
    italics: 'наклонен шрифт',
    domain: 'URL Адрес на форума',
    domaintip: 'Пълен адрес на форумите, където потребителите се препращат от резултати от търсенето',
    learn: 'Разбери още...',
-   gatip: 'Използва се на статичните страници',
-   admins: 'Администратори',
+      admins: 'Администратори',
    adminstip: 'Едно потребителско име на ред',
    settings: 'Настройки',
    all: 'Всички Статии', // or alternatively: All
@@ -70,7 +72,7 @@ moot.language = {
 
    forumname: 'Име на форума',
    forums: 'Форуми',
-   help1: 'Първия ред е заглавието',
+
    help2: 'статия',
    help3: 'цитиран',
    help5: 'код, езика е открит',
@@ -116,7 +118,6 @@ moot.language = {
    showing: 'Показване',
    slogan: 'Различните Форуми и Коментари',
    spam: 'Спам',
-   start: 'Какво се случва?',
    step1: 'Изпратихме ти email за потвърждение. Твоят email няма да бъде обновен докато не изпълниш тази стъпка!',
    step: 'Още една стъпка',
    terms: 'Съгласен съм с<a>условията на услугата</a>.',

@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -13,17 +13,19 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -43,7 +45,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   username_fail: '使用小写字母、数字或横杠',
    all: '所有帖子', // or alternatively: All
    anon_1: '匿名用户',
    anon: '匿名用户',
@@ -73,7 +75,7 @@ moot.language = {
 
    forumname: '论坛的名字',
    forums: '论坛',
-   help1: '第一行是标题',
+
    help2: '发布帖子',
    help3: '引用文字',
    help5: '代码',
@@ -119,7 +121,6 @@ moot.language = {
    showing: '演示中',
    slogan: '论坛和评论正在被重新布局',
    spam: '垃圾内容',
-   start: '说点什么……？',
    step1: '我们已经向你发送了一封确认邮件. 在你完成这一步之前你的邮箱不会被升级',
    step: '下一步',
    terms: '我同意 <a>服务条款</a>.',

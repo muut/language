@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -13,17 +13,19 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -43,7 +45,7 @@ moot.language = {
 
 
 
-
+   username_fail: 'Используйте маленькие латинские символы, цифры или тире',
    all: 'Все записи', // or alternatively: All
    anon_1: 'аноним',    // singular
    anon: 'анонимы',      // plural
@@ -73,7 +75,7 @@ moot.language = {
 
    forumname: 'Название форума',
    forums: 'Форумы',
-   help1: 'Первая строка — заголовок',
+
    help2: 'отправить',
    help3: 'цитата',
    help4: 'вторая строка',
@@ -120,7 +122,6 @@ moot.language = {
    showing: 'Показывается',
    slogan: 'Форумы и комментирование по новому',
    spam: 'Спам',
-   start: 'Как дела?',
    step1: 'Мы отправили вам подтверждающее письмо. Ваш email не будет обновлён, пока вы не завершите этот шаг!',
    step: 'Ещё один шаг',
    terms: 'Я соглашаюсь с <a>условиями использования</a>.',

@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -13,17 +13,19 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -43,7 +45,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   username_fail: 'Tylko małe litery, cyfry lub myślnik (\'-\')',
    all: 'Wszystkie', // or alternatively: All
 
    anon_1: 'anonimowy',    // singular
@@ -74,7 +76,7 @@ moot.language = {
 
    forumname: 'Nazwa forum',
    forums: 'Fora',
-   help1: 'Pierwsza linia to tytuł',
+
    help2: 'post',
    help3: 'tekst cytowany',
    help5: 'kod, język zgadnięty', //??
@@ -120,7 +122,6 @@ moot.language = {
    showing: 'Pokazuje',
    slogan: 'Forums and commenting re-imagined', //??
    spam: 'Spam',
-   start: 'Co słychać?',
    step1: 'Wysłaliśmy email z potwierdzeniem. Twój email nie zostanie zmienio dopóki nie ukończysz tego kroku!', //??
    step: 'Jeszcze jeden krok',
    terms: 'Zgadzam się na <a>warunki używania</a>.',

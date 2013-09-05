@@ -5,6 +5,7 @@ moot.language = {
 
 
    /* New stuff */
+   start: 'Start a new topic...',
    someone: 'Birisi',
    writing: 'yazıyor...',
    basic: 'Temel (Ücretsiz)',
@@ -17,12 +18,11 @@ moot.language = {
    domaintip: 'Kullanıcılara sonuçların iletildiği açık domain URL',
    learn: 'Daha fazla...',
    ga: 'Google Analytics Id',
-   gatip: 'Statik sayfalarda kullanılır',
-   admins: 'Adminler',
+      admins: 'Adminler',
    adminstip: 'Satır başına bir kullanıcı',
    settings: 'Ayarlar',
    fullview: 'Tam görüntü',
-   title: 'başlık',
+   title: 'Başlık',
    link: 'bağlantı',
    avatar: 'Avatar değiştir',
    seo_update: 'SEO sayfaları bir saat içinde güncellenecektir',
@@ -42,7 +42,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   email_fail: 'Geçersiz email adresi',
    all: 'Tüm yazılar', // or alternatively: All
 
    anon_1: 'ziyaretçi',    // singular
@@ -73,7 +73,7 @@ moot.language = {
 
    forumname: 'Forum adı',
    forums: 'Forumlar',
-   help1: 'İlk satır başlık içindir',
+
    help2: 'yayınla',
    help3: 'alıntı metin',
    help5: 'kod, dil tahmin edilmektedir',
@@ -119,7 +119,6 @@ moot.language = {
    showing: 'Gösterilen',
    slogan: 'Forum ve yorum anlayışı yeniden tasarlandı',
    spam: 'Spam',
-   start: 'Ne düşünüyorsun?',
    step1: 'Email hesabınıza bir onay maili gönderdik. Bu adımı tamamlamadan email bilginiz güncellenmez!',
    step: 'Bir adım daha',
    terms: '<a>Kullanım koşulları</a>nı kabul ediyorum.',

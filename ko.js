@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-
+   start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
    monospaced: 'monospaced',
@@ -13,17 +13,19 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-   gatip: 'Used on the static pages',
-   admins: 'Administrators',
+      admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -43,7 +45,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   username_fail: '영문 소문자, 숫자, 하이픈(\'-\')만 사용하실 수 있습니다',
    all: '모든 글', // or alternatively: All
 
    anon_1: '명 익명',    // singular
@@ -74,7 +76,7 @@ moot.language = {
 
    forumname: '포럼 이름',
    forums: '포럼',
-   help1: '첫 줄은 제목입니다',
+
    help2: '글 남기기',
    help3: '인용 문구',
    help5: '컴퓨터 코드 (자동인식)',
@@ -120,7 +122,6 @@ moot.language = {
    showing: '표시중',
    slogan: '새로운 상상력으로 만든 포럼과 댓글',
    spam: '스팸',
-   start: '요즘 어떠세요?',
    step1: '확인 메일을 보내드렸습니다. 이 단계를 완료해야 이메일이 등록될 수 있습니다!',
    step: '마지막 단계입니다',
    terms: '<a>이용 약관</a>에 동의합니다.',

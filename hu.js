@@ -5,14 +5,17 @@ moot.language = {
    $code: 'hu',
 
    /* New stuff */
-
+   start: 'Start a new topic...',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
    avatar: 'Change avatar',
    seo_update: 'The SEO pages will be updated within the hour',
@@ -31,7 +34,7 @@ moot.language = {
    /* End new stuff */
 
 
-
+   username_fail: 'Használj betűket, számokat vagy kötőjeleket',
    bolded: 'félkövér',
    italics: 'dőlt',
    monospaced: 'szélességű',
@@ -39,8 +42,7 @@ moot.language = {
    domaintip: 'Teljes URL a fórumhoz, ahol a felhasználók kereshetnek',
    learn: 'Tudj meg többet...',
    ga: 'Google Analytics azonosító',
-   gatip: 'Statikus oldalaknál használd',
-   admins: 'Adminisztrátorok',
+      admins: 'Adminisztrátorok',
    adminstip: 'Egy felhasználónév soronként',
    settings: 'Beállítások',
 
@@ -74,7 +76,7 @@ moot.language = {
 
    forumname: 'Fórum név',
    forums: 'Fórumok',
-   help1: 'Az első sor a cím',
+
    help2: 'bejegyzés',
    help3: 'idézett szöveg',
    help4: 'második sor',
@@ -122,7 +124,6 @@ moot.language = {
    showing: 'Mutasd',
    slogan: 'Fórumok és kommentek újraalkotva',
    spam: 'Spam',
-   start: 'Mi a helyzet?',
    step1: 'Elküldtünk egy megerősítő emailt. Az email címed nem frissül mielőtt el nem végzed ezt a lépést!',
    step: 'Még egy lépés',
    terms: 'Elfogadom a <a>Használati feltételeket</a>.',

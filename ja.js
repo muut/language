@@ -4,19 +4,24 @@ moot.language = {
    $code: 'ja',
 
    /* New stuff */
+   start: 'Start a new topic...',
    brand_name: 'Brand name',
    apikey: 'API key',
    apisecret: 'Secret key',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
 
 
+   username_fail: '英数字とハイフンのみ利用可能です',
    avatar: 'アバターの変更',
    seo_update: 'SEOページはもうすぐ更新されます',
    upgrade_link: 'アップグレード',
@@ -34,8 +39,7 @@ moot.language = {
    domaintip: '検索結果からリンクするために必要な、完全なURLを記入して下さい',
    learn: '詳細...',
    ga: 'Google Analytics トラッキングID',
-   gatip: '静的ページで利用されます',
-   admins: '管理者権限',
+      admins: '管理者権限',
    adminstip: '1行につき1ユーザー',
    settings: '設定',
 
@@ -68,7 +72,7 @@ moot.language = {
 
    forumname: 'フォーラム名',
    forums: 'フォーラム',
-   help1: '最初の行はタイトル',
+
    help2: '投稿',
    help3: '引用文',
    help5: 'コード、言語は自動推測',
@@ -114,7 +118,6 @@ moot.language = {
    showing: '表示中',
    slogan: 'フォーラムとディスカッションの、再創造。',
    spam: 'スパム',
-   start: '今なにしてる？',
    step1: '確認のメールを送信しました。このステップを完了しないとアドレスは更新されません！',
    step: 'もうひとつ',
    terms: '<a>利用規約</a>に同意します',

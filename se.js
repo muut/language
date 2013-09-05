@@ -4,16 +4,21 @@
    $code: 'se',
 
    /* New stuff */
+   start: 'Start a new topic...',
    brand_name: 'Brand name',
+   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
+   body: 'Body text',
+   admin: 'Admin',
    someone: 'Someone',
    writing: 'is writing...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
    fullview: 'Full view',
-   title: 'title',
+   title: 'Title',
    link: 'link',
 
+   username_fail: 'Använd bokstäver, siffror eller bindestreck',
    avatar: 'Ändra avatar',
    seo_update: 'SEO-sidorna kommer uppdateras inom en timme',
    upgrade_link: 'Uppgradera',
@@ -33,8 +38,7 @@
    domaintip: 'Hela URL:en till forumen dit användare skickas från sökresultaten',
    learn: 'Lär dig mer...',
    ga: 'Google Analytics-ID',
-   gatip: 'Används på de statiska sidorna',
-   admins: 'Administratörer',
+      admins: 'Administratörer',
    adminstip: 'Ett användarnamn per rad',
    settings: 'Inställningar',
 
@@ -67,7 +71,7 @@
 
    forumname: 'Forumnamn',
    forums: 'Forum',
-   help1: 'Första raden blir rubrik',
+
    help2: 'postar',
    help3: 'citat',
    help5: 'kod, språket gissas',
@@ -113,7 +117,6 @@
    showing: 'Visar',
    slogan: 'Forum och kommentarer på ett helt nytt sätt',
    spam: 'Spam',
-   start: 'Skapa en tråd...',
    step1: 'Vi har skickat ett en bekräftelse till din e-post. Din e-post kommer inte uppdateras förrän du slutfört detta steg!',
    step: 'Ett steg kvar',
    terms: 'Jag godkänner <a>användaravtalet</a>.',
