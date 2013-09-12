@@ -4,6 +4,9 @@ moot.language = {
    $code: 'es',
 
    /* New stuff */
+   show_old: 'Show oldest replies',
+   show_more: 'Show more replies',
+   show_new: 'Show newest replies',
    start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',

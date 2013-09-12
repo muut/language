@@ -5,6 +5,9 @@ moot.language = {
 
 
    /* New stuff */
+   show_old: 'Show oldest replies',
+   show_more: 'Show more replies',
+   show_new: 'Show newest replies',
    start: 'Start a new topic...',
    bolded: 'bolded',
    italics: 'italics',
@@ -13,7 +16,7 @@ moot.language = {
    domaintip: 'Full URL to the forums where users are pushed from search results',
    learn: 'Learn more...',
    ga: 'Google Analytics Id',
-      admins: 'Administrators',
+   admins: 'Administrators',
    adminstip: 'One username per line',
    settings: 'Settings',
    error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',

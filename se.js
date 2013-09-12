@@ -4,6 +4,9 @@
    $code: 'se',
 
    /* New stuff */
+   show_old: 'Show oldest replies',
+   show_more: 'Show more replies',
+   show_new: 'Show newest replies',
    start: 'Start a new topic...',
    brand_name: 'Brand name',
    error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',

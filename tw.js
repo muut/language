@@ -5,6 +5,9 @@ moot.language = {
 
 
    /* New stuff */
+   show_old: 'Show oldest replies',
+   show_more: 'Show more replies',
+   show_new: 'Show newest replies',
    start: 'Start a new topic...',
    error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
    body: 'Body text',

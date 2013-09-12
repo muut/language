@@ -2,6 +2,9 @@ moot.language = {
 
    $code: 'fi',
 
+   show_old: 'Näytä vanhimmat vastaukset',
+   show_more: 'Lisää vastauksia',
+   show_new: 'Näytä uusimmat vastaukset',
    start: 'Uusi aihe...',
    someone: 'Joku',
    writing: 'kirjoittaa...',
