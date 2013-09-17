@@ -34,19 +34,20 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
-
-
+   single: 'single word',
    /* End new stuff */
 
+
+
    username_fail: 'استخدم أحرف صغيرة، أرقام، أو شرطات',
-   bolded: 'بالخط العريض',
+   bold: 'بالخط العريض',
    italics: 'بالخط المائل',
    monospaced: 'أحادي المسافة',
    domain: 'رابط المنتدى',
    domaintip: 'الرابط الكامل للمنتدى سيظهر للمستخدمين في نتائج البحث',
    learn: 'تعرف أكثر...',
    ga: 'معرّف إحصائيات جوجل',
-      admins: 'المسؤولين',
+   admins: 'المسؤولين',
    adminstip: 'مستخدم واحد في كل سطر',
    settings: 'إعدادات',
 

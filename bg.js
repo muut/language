@@ -34,15 +34,17 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
-
+   single: 'single word',
    /* End new stuff */
+
+
    username_fail: 'Използвай букви, цифри или чертички',
-   bolded: 'удебелен шрифт',
+   bold: 'удебелен шрифт',
    italics: 'наклонен шрифт',
    domain: 'URL Адрес на форума',
    domaintip: 'Пълен адрес на форумите, където потребителите се препращат от резултати от търсенето',
    learn: 'Разбери още...',
-      admins: 'Администратори',
+   admins: 'Администратори',
    adminstip: 'Едно потребителско име на ред',
    settings: 'Настройки',
    all: 'Всички Статии', // or alternatively: All

@@ -22,6 +22,7 @@ moot.language = {
    fullview: 'Full view',
    title: 'Title',
    link: 'link',
+   single: 'single word',
 
 
    username_fail: '英数字とハイフンのみ利用可能です',
@@ -35,14 +36,14 @@ moot.language = {
    mootbrand: 'Mootブランディングを使用',
    sso: 'シングルサインオン',
 
-   bolded: '太字',
+   bold: '太字',
    italics: '斜体',
    monospaced: '固定幅フォント',
    domain: 'フォーラムのURL',
    domaintip: '検索結果からリンクするために必要な、完全なURLを記入して下さい',
    learn: '詳細...',
    ga: 'Google Analytics トラッキングID',
-      admins: '管理者権限',
+   admins: '管理者権限',
    adminstip: '1行につき1ユーザー',
    settings: '設定',
 

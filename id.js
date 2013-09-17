@@ -31,17 +31,18 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   single: 'single word',
    /* End new stuff */
 
    username_fail: 'Gunakan huruf kecil, angka atau strip',
-   bolded: 'tebal',
+   bold: 'tebal',
    italics: 'miring',
    monospaced: 'monospace',
    domain: 'Tautan Forum',
    domaintip: 'Tautan Penuh ke forum ketika pengguna diteruskan dari hasil pencarian',
    learn: 'Pelajari...',
    ga: 'ID Google Analytics',
-      admins: 'Para Administrator',
+   admins: 'Para Administrator',
    adminstip: 'Satu nama pengguna setiap baris',
    settings: 'Setting',
 

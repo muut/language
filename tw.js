@@ -32,18 +32,19 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   single: 'single word',
 
 
    /* End new stuff */
    username_fail: '使用小寫字母、數字或橫線',
-   bolded: '粗體',
+   bold: '粗體',
    italics: '斜體',
    monospaced: '等寬',
    domain: '論壇網址',
    domaintip: '完整版論壇的網址，使用者可透過搜尋結果而被引導至此網址',
    learn: '了解更多 ...',
    ga: 'Google Analytics 設定檔 ID',
-      admins: '管理者',
+   admins: '管理者',
    adminstip: '每行一位使用者名稱',
    settings: '設定',
 

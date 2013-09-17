@@ -20,6 +20,10 @@
    fullview: 'Full view',
    title: 'Title',
    link: 'link',
+   single: 'single word',
+
+
+
 
    username_fail: 'Använd bokstäver, siffror eller bindestreck',
    avatar: 'Ändra avatar',
@@ -34,14 +38,14 @@
    apikey: 'API-nyckel',
    apisecret: 'Hemlig nyckel',
 
-   bolded: 'fet',
+   bold: 'fet',
    italics: 'kursiv',
    monospaced: 'monospace',
    domain: 'Forum-URL',
    domaintip: 'Hela URL:en till forumen dit användare skickas från sökresultaten',
    learn: 'Lär dig mer...',
    ga: 'Google Analytics-ID',
-      admins: 'Administratörer',
+   admins: 'Administratörer',
    adminstip: 'Ett användarnamn per rad',
    settings: 'Inställningar',
 

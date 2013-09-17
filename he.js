@@ -33,9 +33,13 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   single: 'single word',
+
+
+
 
    username_fail: 'ניתן להשתמש באותיות, מספרים או מקף',
-   bolded: 'מודגש',
+   bold: 'מודגש',
    italics: 'בכתב נטוי',
    monospaced: 'תו ברוחב קבוע',
 
@@ -43,7 +47,7 @@ moot.language = {
    domaintip: 'הכתובת המלאה אליה יופנו המשתמשים מתוצאות החיפוש',
    learn: 'מידע נוסף...',
    ga: 'מזהה Google Analytics',
-      admins: 'מנהלים',
+   admins: 'מנהלים',
    adminstip: 'שם משתמש אחד בשורה',
    settings: 'הגדרות',
 

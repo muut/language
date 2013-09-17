@@ -33,18 +33,18 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
-
+   single: 'single word',
    admins: 'Administrators',
 
    /* End new stuff */
 
    username_fail: 'Gebruik letters, nummers of spaties',
    domaintip: 'Volledige URL naar de forums waar gebruikers heen worden verwezen vanaf de zoekresultaten',
-   bolded: 'vetgedrukt',
+   bold: 'vetgedrukt',
    italics: 'cursief',
    monospaced: 'onproportioneel geplaatst',
    learn: 'Kom meer te weten...',
-      adminstip: 'Een gebruikersnaam per regel',
+   adminstip: 'Een gebruikersnaam per regel',
    settings: 'Instellingen',
 
    all: 'Alle posts', // or alternatively: All

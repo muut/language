@@ -32,20 +32,21 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   single: 'single word',
 
 
    /* End new stuff */
 
 
    username_fail: 'Használj betűket, számokat vagy kötőjeleket',
-   bolded: 'félkövér',
+   bold: 'félkövér',
    italics: 'dőlt',
    monospaced: 'szélességű',
    domain: 'Fórum URL',
    domaintip: 'Teljes URL a fórumhoz, ahol a felhasználók kereshetnek',
    learn: 'Tudj meg többet...',
    ga: 'Google Analytics azonosító',
-      admins: 'Adminisztrátorok',
+   admins: 'Adminisztrátorok',
    adminstip: 'Egy felhasználónév soronként',
    settings: 'Beállítások',
 

@@ -32,20 +32,21 @@ moot.language = {
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
+   single: 'single word',
 
 
 
    /* End new stuff */
 
    username_fail: 'Use letras, números ou traços',
-   bolded: 'em negrito',
+   bold: 'em negrito',
    italics: 'itálico',
    monospaced: 'monospaçado',
    domain: 'URL do fórum',
    domaintip: 'URL do fórum onde os usuários são direcionados a partir dos resultados da pesquisa',
    learn: 'Saiba mais...',
    ga: 'Id Google Analytics',
-      admins: 'Administradores',
+   admins: 'Administradores',
    adminstip: 'Um usuário por linha',
    settings: 'Configurações',
    all: 'Todos os posts', // or alternatively: All

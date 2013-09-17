@@ -21,7 +21,7 @@ moot.language = {
    domaintip: 'Kullanıcılara sonuçların iletildiği açık domain URL',
    learn: 'Daha fazla...',
    ga: 'Google Analytics Id',
-      admins: 'Adminler',
+   admins: 'Adminler',
    adminstip: 'Satır başına bir kullanıcı',
    settings: 'Ayarlar',
    fullview: 'Tam görüntü',

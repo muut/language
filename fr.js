@@ -17,6 +17,7 @@ moot.language = {
    basic: 'Basic (free)',
    subs: 'Subscriptions',
    manage: 'Manage',
+   single: 'single word',
    /* End new stuff */
 
    upgrade_link: 'Mettre à niveau',
@@ -32,14 +33,14 @@ moot.language = {
    fullview: 'Vue complète',
 
    username_fail: 'Utilisez des lettres, des chiffres ou des tirets',
-   bolded: 'en gras',
+   bold: 'en gras',
    italics: 'en italique',
    monospaced: 'mono-espacé',
    domain: 'URL du forum',
    domaintip: 'URL complète des forums où les utilisateurs sont redirigés depuis les moteurs de recherche',
    learn: 'En savoir plus...',
    ga: 'ID Google Analytics',
-      admins: 'Administrateurs',
+   admins: 'Administrateurs',
    adminstip: 'Un nom d\'utilisateur par ligne',
    settings: 'Paramètres',
    title: 'Title',
