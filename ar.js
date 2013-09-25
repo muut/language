@@ -7,6 +7,7 @@ moot.language = {
 
 
    /* New stuff */
+   givebody: 'Body cannot be empty.',
    show_old: 'Show oldest replies',
    show_more: 'Show more replies',
    show_new: 'Show newest replies',
