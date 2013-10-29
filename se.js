@@ -109,7 +109,7 @@
    notify: 'Meddela mig om nya releaser',
    ok: 'ok',
    online: 'Online',
-   post: 'Inlägg',
+   post: 'Skicka',
    preview: 'Förhandsgranska',
    progress: ['laddar...', 'laddar mer...', 'och ännu mer...', 'ger upp'],
    reconnect: 'Ansluter igen...',
