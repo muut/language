@@ -5,20 +5,20 @@ moot.language = {
 
 
    /* New stuff */
-   givebody: 'Body cannot be empty.',
-   show_old: 'Show oldest replies',
-   show_more: 'Show more replies',
-   show_new: 'Show newest replies',
-   start: 'Start a new topic...',
-   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
-   body: 'Body text',
-   admin: 'Admin',
-   someone: 'Someone',
-   writing: 'is writing...',
-   basic: 'Basic (free)',
-   subs: 'Subscriptions',
-   manage: 'Manage',
-   single: 'single word',
+   givebody: 'Le contenu ne peut pas être vide.',
+   show_old: 'Afficher les premières réponses', // not sure
+   show_more: 'Afficher plus de réponses', // not sure
+   show_new: 'Afficher les dernières réponses', // not sure
+   start: 'Créer un nouveau sujet...',
+   error: 'Oups, une erreur s\'est produite. Copiez votre publication, actualisez la page puis réessayez. Désolé - nous allons régler ce problème !',
+   body: 'Texte du contenu',
+   admin: 'Administrateur',
+   someone: 'Quelqu\'un',
+   writing: 'est en train d\'écrire...',
+   basic: 'Basique (gratuit)',
+   subs: 'Abonnements',
+   manage: 'Gérer',
+   single: 'un seul mot',
    /* End new stuff */
 
    upgrade_link: 'Mettre à niveau',
