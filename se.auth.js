@@ -36,7 +36,7 @@ var language = {
 
    reset: 'Återställ lösenord',
    resetbtn: 'Skicka instruktioner',
-   sent: 'Vi har skickat ett mail till med instruktioner om hur du återställer ditt lösenord.',
+   sent: 'Vi har skickat ett mail till dig med instruktioner om hur du återställer ditt lösenord.',
    sent1: 'Om du inte får e-post inom en minut eller två, kontrollera din spam-folder.',
    notfound: 'Kan inte hitta detta användarnamn',
    invalidpw: 'Ogiltigt lösenord',
