@@ -4,22 +4,20 @@ moot.language = {
    $code: 'fr',
 
    /* New stuff */
-   /* End new stuff */
-
-   givebody: 'Le message ne peut pas être vide.',
-   show_old: 'Montrer les anciennes réponses',
-   show_more: 'Montrer plus de réponses',
-   show_new: 'Montrer les nouvelles réponses',
-   start: 'Démarrer un nouveau sujet…',
-   error: 'Oops, il y a une erreur. Veuillez copier le message, et rafraîchir la page. On va régler ça très vite!',
-   body: 'Texte du message',
-   admin: 'Admin',
+   givebody: 'Le contenu ne peut pas être vide.',
+   show_old: 'Afficher les premières réponses', // not sure
+   show_more: 'Afficher plus de réponses', // not sure
+   show_new: 'Afficher les dernières réponses', // not sure
+   start: 'Créer un nouveau sujet...',
+   error: 'Oups, une erreur s\'est produite. Copiez votre publication, actualisez la page puis réessayez. Désolé - nous allons régler ce problème !',
+   body: 'Texte du contenu',
+   admin: 'Administrateur',
    someone: 'Quelqu\'un',
-   writing: 'est en train d\’écrire',
+   writing: 'est en train d\'écrire...',
    basic: 'Basique (gratuit)',
-   subs: 'Souscriptions',
+   subs: 'Abonnements',
    manage: 'Gérer',
-   single: 'single word',
+   single: 'un seul mot',
 
    upgrade_link: 'Mettre à niveau',
    branding: 'Branding', // ?
