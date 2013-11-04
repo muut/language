@@ -3,27 +3,24 @@
    // the language code
    $code: 'se',
 
-   /* New stuff */
-   givebody: 'Body cannot be empty.',
-   show_old: 'Show oldest replies',
+   givebody: 'Brödtexten får inte vara tom',
+   show_old: 'Visa äldsta svar',
    show_more: 'Show more replies',
    show_new: 'Show newest replies',
-   start: 'Start a new topic...',
+   start: 'Starta ny diskussion',
    brand_name: 'Brand name',
    error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
-   body: 'Body text',
+   body: 'Brödtext',
    admin: 'Admin',
-   someone: 'Someone',
-   writing: 'is writing...',
+   someone: 'Någon',
+   writing: 'skriver...',
    basic: 'Basic (free)',
    subs: 'Subscriptions',
-   manage: 'Manage',
-   fullview: 'Full view',
-   title: 'Title',
-   link: 'link',
-   single: 'single word',
-
-
+   manage: 'Hantera',
+   fullview: 'Fullständig vy',
+   title: 'Rubrik',
+   link: 'länk',
+   single: 'enkel ord',
 
 
    username_fail: 'Använd bokstäver, siffror eller bindestreck',
@@ -109,7 +106,7 @@
    notify: 'Meddela mig om nya releaser',
    ok: 'ok',
    online: 'Online',
-   post: 'Inlägg',
+   post: 'Skicka',
    preview: 'Förhandsgranska',
    progress: ['laddar...', 'laddar mer...', 'och ännu mer...', 'ger upp'],
    reconnect: 'Ansluter igen...',

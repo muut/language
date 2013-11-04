@@ -3,23 +3,23 @@ moot.language = {
    // the language code
    $code: 'fr',
 
-
    /* New stuff */
-   givebody: 'Body cannot be empty.',
-   show_old: 'Show oldest replies',
-   show_more: 'Show more replies',
-   show_new: 'Show newest replies',
-   start: 'Start a new topic...',
-   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
-   body: 'Body text',
-   admin: 'Admin',
-   someone: 'Someone',
-   writing: 'is writing...',
-   basic: 'Basic (free)',
-   subs: 'Subscriptions',
-   manage: 'Manage',
-   single: 'single word',
    /* End new stuff */
+
+   givebody: 'Le message ne peut pas être vide.',
+   show_old: 'Montrer les anciennes réponses',
+   show_more: 'Montrer plus de réponses',
+   show_new: 'Montrer les nouvelles réponses',
+   start: 'Démarrer un nouveau sujet…',
+   error: 'Oops, il y a une erreur. Veuillez copier le message, et rafraîchir la page. On va régler ça très vite!',
+   body: 'Texte du message',
+   admin: 'Admin',
+   someone: 'Quelqu\'un',
+   writing: 'est en train d\’écrire',
+   basic: 'Basique (gratuit)',
+   subs: 'Souscriptions',
+   manage: 'Gérer',
+   single: 'single word',
 
    upgrade_link: 'Mettre à niveau',
    branding: 'Branding', // ?

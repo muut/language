@@ -10,6 +10,8 @@ moot.language = {
    show_more: 'Show more replies',
    show_new: 'Show newest replies',
    start: 'Start a new topic...',
+
+
    single: 'single word',
    bold: 'bold',
    italics: 'italics',
