@@ -3,6 +3,9 @@
    // the language code
    $code: 'se',
 
+   show: 'show',
+   hide: 'hide',
+   invisible: 'Invisible',
    givebody: 'Brödtexten får inte vara tom',
    show_old: 'Visa äldsta svar',
    show_more: 'Show more replies',

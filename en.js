@@ -3,16 +3,15 @@ moot.language = {
    // the language code
    $code: 'en',
 
-   /* Bleeding edge */
-
    banned: 'Banned account',
    banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
    banned4: 'You can no longer post on this forum.',
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
 
-
-   /* New stuff */
+   show: 'show',
+   hide: 'hide',
+   invisible: 'Invisible',
    givebody: 'Body cannot be empty.',
    show_old: 'Show oldest replies',
    show_more: 'Show more replies',
@@ -43,7 +42,7 @@ moot.language = {
    apikey: 'API key',
    apisecret: 'Secret key',
    single: 'single word',
-   /* End new stuff */
+
 
 
 

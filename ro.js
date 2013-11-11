@@ -3,16 +3,19 @@ moot.language = {
    // the language code
    $code: 'ro',
 
-   /* Bleeding edge */
+   /* New stuff */
+   show: 'show',
+   hide: 'hide',
+   invisible: 'Invisible',
 
+
+   /* Bleeding edge */
    banned: 'Cont suspendat',
    banned2: 'Esti suspendat temporar si nu mai poti scrie pe acest forum, deoarece nu ai respectat regulile. A mai ramas:',
    banned4: 'Nu mai poti scrie pe acest forum.',
    warning: 'Atentie',
    profanity: 'Nu putem permite lipsa de respect. Abuzul continuat va duce la suspendarea definitiva a contului.',
 
-
-   /* New stuff */
    givebody: 'Textul nu poate fi gol.',
    show_old: 'Arata raspunsurile cele mai vechi',
    show_more: 'Arata mai multe raspunsuri',

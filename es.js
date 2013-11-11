@@ -4,6 +4,9 @@ moot.language = {
    $code: 'es',
 
    /* New stuff */
+   show: 'show',
+   hide: 'hide',
+   invisible: 'Invisible',
    givebody: 'Cuerpo no puede ser vacio.',
    show_old: 'Muestra respuestas más antiguas',
    show_more: 'Muestra más respuestas',
