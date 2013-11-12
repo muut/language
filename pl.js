@@ -5,9 +5,9 @@ moot.language = {
 
 
    /* New stuff */
-   show: 'show',
-   hide: 'hide',
-   invisible: 'Invisible',
+   show: 'pokaż',
+   hide: 'ukryj',
+   invisible: 'Niewidoczny',
    givebody: 'Treść nie może być pusta.',
    show_old: 'Pokaż najstarsze odpowiedzi',
    show_more: 'Pokaż więcej odpowiedzi',
