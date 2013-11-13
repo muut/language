@@ -1,15 +1,12 @@
 ﻿
 var language = {
 
-   // new stuff
-   username: 'Username',
-
-
+   username: 'Nazwa użytkownika',
 
    join: 'Dołącz',
 
    changed: 'Zmieniono!',
-   loginwith: 'Zaloguj się za pomocą <a>Facebooka</a> albo',
+   loginwith: 'Zaloguj się za pomocą <a>Facebooka</a>',
 
    login: 'Zaloguj',
 
@@ -28,24 +25,24 @@ var language = {
    required: 'Proszę wypełnić to pole',
    checking: 'Sprawdzanie...',
 
-   username_done: 'Nie będziesz mógł tego zmienić później',
+   username_done: 'Nie będziesz mógł zmienić tego później',
    username_fail: 'Tylko małe litery, cyfry lub myślnik (\'-\')',
    username_taken: 'Nazwa użytkownika zajęta',
 
    email: 'Email',
    email_tip: 'Twój email nie zostanie udostępniony.',
-   email_done: 'Wyślemi Ci potwierdzenie',
+   email_done: 'Wyślemy Ci potwierdzenie',
    email_fail: 'Nieprawidłowy adres email',
    email_taken: 'Ten email jest zajęty',
 
 
    reset: 'Zresetuj hasło',
    resetbtn: 'Wyślij instrukcje',
-   sent: 'Wysłaliśmy instrukcje do zmiany hasła na Twój email.',
+   sent: 'Wysłaliśmy instrukcje do zmiany hasła na Twój adres email.',
    sent1: 'Jeśli nie otrzymałeś emaila w przeciągu kilku minut sprawdź folder spam.',
    notfound: 'Nie ma takiego użytkownika',
    invalidpw: 'Nieprawidłowe hasło',
-   passtip: 'Wpisz 6 lub więcej liter',
+   passtip: 'Wpisz 6 lub więcej znaków',
    oldpw: 'Stare hasło',
    newpw: 'Nowe hasło',
    changepw: 'Zmień hasło'
