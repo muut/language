@@ -1,51 +1,50 @@
-
 var language = {
 
    // new stuff
-   username: 'Username',
+   username: 'Kullanıcı Adı',
 
-   join: 'Katýlýn',
+   join: 'Katılın',
 
-   changed: 'Deðiþtirildi!',
-   loginwith: 'Giriþ için <a>Facebook</a> kullan veya',
+   changed: 'Değiştirildi!',
+   loginwith: 'Giriş için <a>Facebook</a> kullan veya',
 
-   login: 'Giriþ',
+   login: 'Giriş',
 
-   id: 'Email <em>veya kullanýcý adý</em>',
-   password: 'Þifre',
-   forgot: 'Þifrenizi mi unuttunuz?',
+   id: 'Email <em>veya kullanıcı adı</em>',
+   password: 'Şifre',
+   forgot: 'Şifrenizi mi unuttunuz?',
 
 
-   notify: 'Moot geliþmelerinden beni haberdar et',
-   auth_failed: 'Hatalý kullanýcý adý veya þifre',
+   notify: 'Moot gelişmelerinden beni haberdar et',
+   auth_failed: 'Hatalı kullanıcı adı veya şifre',
    invalid: 'Geçersiz bilgi',
-   terms: '<a>Kullaným koþullarý</a>ný kabul ediyorum.',
+   terms: '<a>Kullanım koşulları</a>nı kabul ediyorum.',
 
 
    minlength: 'En az {n} karakter girmelisiniz',
-   required: 'Lütfen bu alaný doldurunuz',
+   required: 'Lütfen bu alanı doldurunuz',
    checking: 'Kontrol ediliyor...',
 
-   username_done: 'Bu bilgi daha sonra deðiþtirilemez',
-   username_fail: 'Küçük harfler, sayýlar veya tireler kullanmalýsýnýz',
-   username_taken: 'Bu kullanýcý adý baþkasý tarafýndan alýnmýþ',
+   username_done: 'Bu bilgi daha sonra değiştirilemez',
+   username_fail: 'Küçük harfler, sayılar veya tireler kullanmalısınız',
+   username_taken: 'Bu kullanıcı adı başkası tarafından alınmış',
 
    email: 'Email',
-   email_tip: 'Email adresiniz asla paylaþýlmaz.',
+   email_tip: 'Email adresiniz asla paylaşılmaz.',
    email_done: 'Adresinize onay maili gönderilecektir',
    email_fail: 'Geçersiz email adresi',
-   email_taken: 'Bu email baþkasý tarafýndan alýnmýþ',
+   email_taken: 'Bu email başkası tarafından alınmış',
 
 
-   reset: 'Þifreyi sýfýrla',
-   resetbtn: 'Talimatlarý gönder',
-   sent: 'Email adresinize þifre sýfýrlama talimatlarý gönderilmiþtir.',
+   reset: 'Şifreyi sıfırla',
+   resetbtn: 'Talimatları gönder',
+   sent: 'Email adresinize şifre sıfırlama talimatları gönderilmiştir.',
    sent1: 'Bir iki dakika içerisinde email gelmez ise spam kutusunu kontrol ediniz.',
-   notfound: 'Bu kullanýcý bulunamadý',
-   invalidpw: 'Geçersiz þifre',
-   passtip: '6 veya daha fazla karakter, zor bir þifre olsun',
-   oldpw: 'Eski þifre',
-   newpw: 'Yeni þifre',
-   changepw: 'Þifre deðiþtir'
+   notfound: 'Bu kullanıcı bulunamadı',
+   invalidpw: 'Geçersiz şifre',
+   passtip: '6 veya daha fazla karakter, zor bir şifre olsun',
+   oldpw: 'Eski şifre',
+   newpw: 'Yeni şifre',
+   changepw: 'Şifre değiştir'
 
 }
