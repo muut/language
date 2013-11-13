@@ -5,14 +5,14 @@ moot.language = {
 
 
    /* New stuff */
-   show: 'show',
-   hide: 'hide',
-   invisible: 'Invisible',
-   givebody: 'Body cannot be empty.',
-   show_old: 'Show oldest replies',
-   show_more: 'Show more replies',
-   show_new: 'Show newest replies',
-   start: 'Start a new topic...',
+   show: 'göster',
+   hide: 'gizle',
+   invisible: 'Görünmez',
+   givebody: 'Mesaj kısmı boş olamaz.',
+   show_old: 'En eski cevapları göster',
+   show_more: 'Daha fazla cevap göster',
+   show_new: 'En yeni cevapları göster',
+   start: 'Yeni bir konu açın...',
 
 
    someone: 'Birisi',
