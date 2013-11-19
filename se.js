@@ -3,8 +3,12 @@
    // the language code
    $code: 'se',
 
+   // new stuff
+   upload: 'Upload images',
    show: 'show',
    hide: 'hide',
+
+
    invisible: 'Invisible',
    givebody: 'Brödtexten får inte vara tom',
    show_old: 'Visa äldsta svar',

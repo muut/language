@@ -5,6 +5,8 @@ moot.language = {
 
 
    /* New stuff */
+   upload: 'Upload images',
+
    show: 'göster',
    hide: 'gizle',
    invisible: 'Görünmez',

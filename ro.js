@@ -4,12 +4,11 @@ moot.language = {
    $code: 'ro',
 
    /* New stuff */
+   upload: 'Upload images',
    show: 'show',
    hide: 'hide',
    invisible: 'Invisible',
 
-
-   /* Bleeding edge */
    banned: 'Cont suspendat',
    banned2: 'Esti suspendat temporar si nu mai poti scrie pe acest forum, deoarece nu ai respectat regulile. A mai ramas:',
    banned4: 'Nu mai poti scrie pe acest forum.',

@@ -9,6 +9,7 @@ moot.language = {
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
 
+   upload: 'Upload images',
    show: 'show',
    hide: 'hide',
    invisible: 'Invisible',

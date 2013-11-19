@@ -4,6 +4,7 @@ moot.language = {
    $code: 'ja',
 
    /* New stuff */
+   upload: 'Upload images',
    show: 'show',
    hide: 'hide',
    invisible: 'Invisible',
