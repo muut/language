@@ -3,15 +3,15 @@ moot.language = {
    // the language code
    $code: 'uk',
 
-   banned: 'Banned account',
-   banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
-   banned4: 'You can no longer post on this forum.',
-   warning: 'Warning',
+   banned: 'Заблокований обліковий запис',
+   banned2: 'Для вашого облікового запису тимчасово заблоковано можливість писати на цьому форумі через порушення правил форума. Доведеться ще зачекати от стільки:',
+   banned4: 'Ви більше не зможете писати на цьому форумі.',
+   warning: 'Попередження',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
 
-   upload: 'Upload images',
-   show: 'show',
-   hide: 'hide',
+   upload: 'Завантажити зображення на сервер',
+   show: 'показати',
+   hide: 'сховати',
    invisible: 'Invisible',
    givebody: 'Body cannot be empty.',
    show_old: 'Show oldest replies',
@@ -78,8 +78,8 @@ moot.language = {
    comment: 'Comment...',
    edit: 'edit',
    email: 'Email',
-   email_taken: 'This email is taken',
-   emailtip: 'Your email is never shared',
+   email_taken: 'Така електронна адреса вже використовується',
+   emailtip: 'Вашу електронну адресу нікому не буде розкрито',
    enter: 'ctrl + enter',
    expired1: 'We just sent you a new one. Please check your email.', // http://d.pr/i/1OEV
    expired: 'This link has expired',
@@ -157,8 +157,8 @@ moot.language = {
    watch: 'Watch for new replies',
    welcome1: 'Please check your email to complete the registration. If you dont receive email within a minute or two, check your spam folder.',
    welcome2: 'Please provide a Moot username',
-   welcome: 'Welcome to Moot',
-   you: 'You',
+   welcome: 'Ласкаво просимо на Moot!',
+   you: 'Ви',
 
    // times
    now: 'прямо зараз',
