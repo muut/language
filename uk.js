@@ -161,12 +161,6 @@ moot.language = {
    you: 'You',
 
    // times
-   now: 'just now',
-   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
-   min: 'm',
-   hour: 'h',
-   day: 'd',
-   week: 'w'
    now: 'прямо зараз',
    months: "січ,лют,бер,кві,тра,чер,лип,сер,вер,жов,лис,гру",
    min: 'хв',
