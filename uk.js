@@ -47,21 +47,21 @@ moot.language = {
 
 
 
-   username_fail: 'Use letters, numbers or dashes',
-   bold: 'bold',
-   italics: 'italics',
-   monospaced: 'monospaced',
-   domain: 'Forum URL',
+   username_fail: 'Використовуйте букви, цифри або тире',
+   bold: 'жирний',
+   italics: 'курсив',
+   monospaced: 'моноширинний',
+   domain: 'URL-адреса форума',
    domaintip: 'Full URL to the forums where users are pushed from the search results',
-   learn: 'Learn more...',
+   learn: 'Детальніше...',
    ga: 'Google Analytics Id',
-   admins: 'Administrators',
-   adminstip: 'One username per line',
-   settings: 'Settings',
+   admins: 'Адміністратори',
+   adminstip: 'Одна назва користувача на рядок',
+   settings: 'Налаштування',
 
-   all: 'All posts', // or alternatively: All
-   anon_1: 'anonymous',    // singular
-   anon: 'anonymous',      // plural
+   all: 'Усі теми', // or alternatively: All
+   anon_1: 'анонім',    // singular
+   anon: 'аноніми',      // plural
 
    badforum: 'Invalid forum',
    c_acc1: 'Your account now works on all sites using Moot',
@@ -128,8 +128,8 @@ moot.language = {
    replybtn: 'Reply',
    save: 'Save changes',
    saved: 'saved',
-   search: 'Search',
-   select: 'Select forum',
+   search: 'Пошук',
+   select: 'Оберіть розділ на форумі',
    setup: 'Setup now',
    showing: 'Showing',
    slogan: 'Forums and commenting re-imagined',
@@ -165,7 +165,7 @@ moot.language = {
    months: "січ,лют,бер,кві,тра,чер,лип,сер,вер,жов,лис,гру",
    min: 'хв',
    hour: 'г',
-   day: 'д',
-   week: 'т'
+   day: 'дн',
+   week: 'тж'
 
 }
