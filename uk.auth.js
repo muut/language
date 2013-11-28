@@ -5,30 +5,30 @@ var language = {
 
 
    username_fail: 'Використовуйте букви, цифри або тире',
-   loginwith: 'Log in with <a>facebook</a>',
-   join: 'Join',
+   loginwith: 'Увійти через <a>facebook</a>',
+   join: 'Реєстрація',
 
-   changed: 'Changed!',
-   login: 'Log in',
-   id: 'Email <em>or username</em>',
-   password: 'Password',
-   forgot: 'Forgot it?',
+   changed: 'Змінено!',
+   login: 'Вхід',
+   id: 'Email <em>або ім’я користувача</em>',
+   password: 'Пароль',
+   forgot: 'Нагадати пароль',
 
-   notify: 'Notify me of new Moot releases',
-   auth_failed: 'Wrong username or password',
-   invalid: 'Invalid value',
-   terms: 'I agree to the <a>terms of service</a>.',
+   notify: 'Повідомляти мене про нові версії Moot',
+   auth_failed: 'Хибне ім’я користувача або пароль',
+   invalid: 'Хибне значення',
+   terms: 'Я погоджуюся <a>з правилами надання послуг</a>.',
 
    minlength: 'Наберіть {n} символів або більше',
    required: 'Будь ласка, заповніть це поле',
    checking: 'Checking...',
 
-   username_done: 'This cannot be changed later',
-   username_taken: 'This username is taken',
+   username_done: 'Це не можна буде змінити пізніше',
+   username_taken: 'Користувача з таким іменем вже зареєстровано!',
 
    email: 'Email',
    email_tip: 'Вашу електронну адресу не буде передано третім особам.',
-   email_done: 'We\'ll send you a confirmation',
+   email_done: 'Ми надішлемо вам підтвердження про реєстрацію',
    email_fail: 'Хибна електронна адреса',
    email_taken: 'Така електронна адреса вже використовується',
 
