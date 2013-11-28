@@ -61,7 +61,10 @@ moot.language = {
 
    all: 'Усі теми', // or alternatively: All
    anon_1: 'анонім',    // singular
-   anon: 'аноніми',      // plural
+   anon_2: 'аноніми',    // plural for two
+   anon_3: 'аноніми',    // plural for three
+   anon_4: 'аноніми',    // plural for four
+   anon: 'анонімів',      // plural
 
    badforum: 'Невірний форум',
    c_acc1: 'Ваш обліковий запис тепер працюватиме на всіх сайтах, що використовують Moot',
@@ -73,7 +76,10 @@ moot.language = {
    close: 'Закрити',
    collapse: 'Згорнути все',
    comm_count_1: 'коментар',   // singular: "1 comment"
-   comm_count_n: 'коментарів',  // plural: "3 comments"
+   comm_count_2: 'коментарі',   // plural: "2 comments"
+   comm_count_3: 'коментарі',   // plural: "3 comments"
+   comm_count_4: 'коментарі',   // plural: "4 comments"
+   comm_count_n: 'коментарів',  // plural: "5 and more comments"
    comment1: 'Будьте першим, хто висловить свою думку...',
    comment: 'Залишити коментар...',
    edit: 'редагувати',
