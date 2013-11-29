@@ -5,6 +5,7 @@ moot.language = {
    $code: 'hu',
 
    /* New stuff */
+   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
    upload: 'Upload images',
    show: 'show',
    hide: 'hide',
@@ -166,7 +167,7 @@ moot.language = {
    minute: 'perce',
    minutes: 'perce',
    now: 'épp most',
-   months: 'hónapja',
+
    week: 'hete',
    weeks: 'hete',
    yesterday: 'Tegnap',

@@ -129,7 +129,7 @@ moot.language = {
    unver: 'Vahvistamaton',
    unwall: 'poista kaikkien seuranta',
    unwatch: 'En seuraa',
-   upgrade2: 'Moot käyttää WebSocket tai CORS tekniikkaa. Kaikki selaimet, paitsi Opera 11 and IE7 tukee tätä.',
+   upgrade2: 'Moot käyttää WebSocket tai CORS tekniikkaa. Kaikki selaimet, paitsi Opera 11 and IE7 tukevat näitä.',
    upgrade: 'Suosittelemme päivittämään selaimesi',
    username_taken: 'Tämä tunnus on jo käytössä',
    watch: 'Seuraa tätä keskustelua',
@@ -145,7 +145,7 @@ moot.language = {
    minute: 'minuutti sitten',
    minutes: 'min',
    now: 'nyt',
-   months: 'kk',
+   months: "tammi,helmi,maalist,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu",
    week: 'viikko sitten',
    weeks: 'vk',
    yesterday: 'eilen'
