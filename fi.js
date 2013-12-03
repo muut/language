@@ -2,6 +2,10 @@ moot.language = {
 
    $code: 'fi',
 
+   max: 'Maksimi kuvakoko: 4Mb',
+   yes: 'Kyllä',
+   upload: 'Lataa kuvia',
+
    show_old: 'Näytä vanhimmat vastaukset',
    show_more: 'Lisää vastauksia',
    show_new: 'Näytä uusimmat vastaukset',

@@ -4,6 +4,8 @@ moot.language = {
    $code: 'es',
 
    /* New stuff */
+   max: 'Maximum image size is 4Mb',
+   yes: 'Yes',
    upload: 'Upload images',
    show: 'show',
    hide: 'hide',

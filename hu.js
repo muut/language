@@ -6,6 +6,8 @@ moot.language = {
 
    /* New stuff */
    months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+   max: 'Maximum image size is 4Mb',
+   yes: 'Yes',
    upload: 'Upload images',
    show: 'show',
    hide: 'hide',
