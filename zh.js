@@ -4,6 +4,8 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
+  max: '图片大小上限为 4 MB',
+  yes: '好的',
   upload: '上传图片',
   show: '显示',
   hide: '隐藏',
