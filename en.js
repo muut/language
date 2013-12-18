@@ -12,37 +12,15 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-   designer: "Designer",
-   developer: "Developer",
-
-   s3: 'Custom S3 bucket',
-   s3_tip: 'Allows custom domain for search engines and a backup storage.',
-   s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
-   s3_no_access: "moot-aws@moot.it cannot access this bucket",
-   s3_missing: "This bucket does not exist",
-
-   max:
-
    no_index: 'Disable indexing under moot.it',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
-
 
    banned: 'Banned account',
    banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
    banned4: 'You can no longer post on this forum.',
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
-
-
-   designer: "Designer",
-   developer: "Developer",
-
-   s3: 'Custom S3 bucket',
-   s3_tip: 'Allows custom domain for search engines and a backup storage.',
-   s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
-   s3_no_access: "moot-aws@moot.it cannot access this bucket",
-   s3_missing: "This bucket does not exist",
 
    max: 'Maximum image size is 4Mb',
    yes: 'Yes',
