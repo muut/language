@@ -2,6 +2,15 @@ moot.language = {
 
    $code: 'fi',
 
+   designer: "Designer",
+   developer: "Developer",
+
+   s3: 'Custom S3 bucket',
+   s3_tip: 'Allows custom domain for search engines and a backup storage.',
+   s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
+   s3_no_access: "moot-aws@moot.it cannot access this bucket",
+   s3_missing: "This bucket does not exist",
+
    max: 'Maksimi kuvakoko: 4Mb',
    yes: 'Kyllä',
    upload: 'Lataa kuvia',
