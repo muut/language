@@ -90,7 +90,7 @@ moot.language = {
    help6: 'HTMLコード',
    in_forum: 'in',
    invalid: '不正な文字が含まれています',
-   join: 'Mootに参加',
+   join: 'Mootユーザー登録',
    later: '後で…',
    less: '隠す',
    like: 'いいね！',
