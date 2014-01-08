@@ -4,10 +4,9 @@ var language = {
    // new stuff
    username: 'Username',
 
-
    username_fail: '英数字とハイフンのみ利用可能です',
    loginwith: '<a>Facebook</a>でログイン',
-   join: 'に参加',
+   join: 'ユーザー登録',
 
    changed: '変更しました',
    login: 'ログイン',
