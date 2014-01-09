@@ -3,6 +3,7 @@ moot.language = {
    // the language code
    $code: 'en',
 
+   no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
 

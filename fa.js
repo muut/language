@@ -9,6 +9,7 @@ moot.language = {
    warning: 'اخطار',
    profanity: 'لحن نامناسب باعث محرومیت شما می گردد',
 
+   no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
 

@@ -5,6 +5,7 @@ moot.language = {
 
 
    /* New stuff */
+   no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
 

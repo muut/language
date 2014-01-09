@@ -6,6 +6,7 @@ moot.language = {
 
    /* New stuff */
    months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+   no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
 

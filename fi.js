@@ -2,6 +2,7 @@ moot.language = {
 
    $code: 'fi',
 
+   no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
 
