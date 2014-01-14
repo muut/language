@@ -5,7 +5,7 @@ moot.language = {
 
 
    /* New stuff */
-   no_title: "Title must be given",
+   no_title: "Musisz podać tytuł",
    designer: "Designer",
    developer: "Developer",
 
@@ -15,9 +15,9 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-   max: 'Maximum image size is 4Mb',
-   yes: 'Yes',
-   upload: 'Upload images',
+   max: 'Maksymalny rozmiar zdjęcia to 4MB',
+   yes: 'Tak',
+   upload: 'Załącz zdjęcia',
 
 
    show: 'pokaż',
