@@ -3,11 +3,14 @@ moot.language = {
    // the language code
    $code: 'ko',
 
-
    /* New stuff */
    no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",
+
+   no_index: 'Disable indexing under moot.it',
+   mkpriv: 'Make this forum private',
+   sign: 'This forum must be <a>signed</a> first.',
 
    s3: 'Custom S3 bucket',
    s3_tip: 'Allows custom domain for search engines and a backup storage.',

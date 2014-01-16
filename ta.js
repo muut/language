@@ -9,6 +9,10 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
+   no_index: 'Disable indexing under moot.it',
+   mkpriv: 'Make this forum private',
+   sign: 'This forum must be <a>signed</a> first.',
+
    s3: 'Custom S3 bucket',
    s3_tip: 'Allows custom domain for search engines and a backup storage.',
    s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',

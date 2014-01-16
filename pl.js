@@ -3,11 +3,14 @@ moot.language = {
    // the language code
    $code: 'pl',
 
-
    /* New stuff */
    no_title: "Musisz podać tytuł",
    designer: "Designer",
    developer: "Developer",
+
+   no_index: 'Disable indexing under moot.it',
+   mkpriv: 'Make this forum private',
+   sign: 'This forum must be <a>signed</a> first.',
 
    s3: 'Custom S3 bucket',
    s3_tip: 'Allows custom domain for search engines and a backup storage.',
@@ -15,14 +18,9 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-   no_index: 'Disable indexing under moot.it',
-   mkpriv: 'Make this forum private',
-   sign: 'This forum must be <a>signed</a> first.',
-
    max: 'Maksymalny rozmiar zdjęcia to 4MB',
    yes: 'Tak',
    upload: 'Załącz zdjęcia',
-
 
    show: 'pokaż',
    hide: 'ukryj',

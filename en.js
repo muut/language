@@ -7,15 +7,16 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
+   no_index: 'Disable indexing under moot.it',
+   mkpriv: 'Make this forum private',
+   sign: 'This forum must be <a>signed</a> first.',
+
    s3: 'Custom S3 bucket',
    s3_tip: 'Allows custom domain for search engines and a backup storage.',
    s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-   no_index: 'Disable indexing under moot.it',
-   mkpriv: 'Make this forum private',
-   sign: 'This forum must be <a>signed</a> first.',
 
    banned: 'Banned account',
    banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
