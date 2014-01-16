@@ -12,6 +12,10 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
+   no_index: 'Poista indexointi moot.it- domainin alaisuudesta',
+   mkpriv: 'Estä pääsy tähän foorumiin muualta',
+   sign: 'Forumi pitää ensin <a>signeerata</a>.',
+
    max: 'Maksimi kuvakoko: 4Mb',
    yes: 'Kyllä',
    upload: 'Lataa kuvia',
