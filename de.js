@@ -21,7 +21,7 @@ moot.language = {
 
    max: 'Maximale Bildgröße 4Mb',
    yes: 'Ja',
-   upload: 'Upload images',
+   upload: 'Bilder hochladen',
    show: 'anzeigen',
    hide: 'verstecken',
    invisible: 'unsichtbar',
