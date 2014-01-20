@@ -44,7 +44,7 @@ var language = {
    sent1: 'Falls innerhalb von ein bis zwei Minuten keine Mail sichtbar ist, überprüfe Deine Spam-Folder.',
    notfound: 'Username wurde nicht gefunden',
    invalidpw: 'Falsches Passwort',
-   passtip: '6 letters or more, be tricky',
+   passtip: 'Mindestens 6 Buchstaben, sei kreativ',
    oldpw: 'Altes  Passwort',
    newpw: 'Neues Passwort',
    changepw: 'Passwort ändern'
