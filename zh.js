@@ -4,6 +4,20 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
+  no_title: "标题必填",
+  designer: "深度设计",
+  developer: "高级开发",
+
+  no_index: '禁止搜索引擎在 moot.it 域名下索引论坛内容',
+  mkpriv: '将论坛设为私有',
+  sign: '论坛必须先用私钥<a>签名</a>',
+
+  s3: '自定义 S3 bucket',
+  s3_tip: '将网页搜索结果导向自定义域名，同时备份您的数据',
+  s3_tip2: '请给予 <em>moot-aws@moot.it</em> 全部存取权限',
+  s3_no_access: "moot-aws@moot.it 无法访问此 bucket",
+  s3_missing: "此 bucket 不存在",
+
   max: '图片大小上限为 4 MB',
   yes: '好的',
   upload: '上传图片',
