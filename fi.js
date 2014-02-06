@@ -17,6 +17,7 @@ moot.language = {
    s3_missing: "This bucket does not exist",
 
 
+   img_needed: "Vain kuvatiedostot kelpaavat",
    max: 'Maksimi kuvakoko: 4Mb',
    yes: 'Kyllä',
    upload: 'Lataa kuvia',

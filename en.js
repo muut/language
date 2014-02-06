@@ -24,6 +24,7 @@ moot.language = {
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
 
+   img_needed: "Please upload an image file",
    max: 'Maximum image size is 4Mb',
    yes: 'Yes',
    upload: 'Upload images',

@@ -5,6 +5,7 @@ moot.language = {
    $code: 'fa',
 
    // new stuff
+   img_needed: "Please upload an image file",
    no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",

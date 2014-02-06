@@ -1,4 +1,8 @@
+/*
 
+   This file is deprecated, please use zh.auth.js instead
+
+*/
 var language = {
 
    join: '加入',

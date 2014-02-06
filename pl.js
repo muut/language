@@ -17,6 +17,8 @@ moot.language = {
    s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
+   img_needed: "Please upload an image file",
+
 
    max: 'Maksymalny rozmiar zdjęcia to 4MB',
    yes: 'Tak',

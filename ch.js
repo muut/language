@@ -1,10 +1,20 @@
+/*
+
+   This file is deprecated, please use zh.js instead
+
+*/
 moot.language = {
+
 
    // the language code
    $code: 'ch',
 
 
    /* New stuff */
+   img_needed: "Please upload an image file",
+
+
+
    no_title: "主题不能为空哦",
    designer: "论坛设计师",
    developer: "论坛开发者",

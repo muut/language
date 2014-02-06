@@ -4,6 +4,10 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
+  img_needed: "Please upload an image file",
+
+
+
   no_title: "标题必填",
   designer: "深度设计",
   developer: "高级开发",

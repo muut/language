@@ -19,6 +19,7 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
+   img_needed: "Please upload an image file",
    max: 'Maximum image size is 4Mb',
    yes: 'Yes',
    upload: 'Upload images',
