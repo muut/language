@@ -24,7 +24,7 @@
    warning: 'Attenzione',
    profanity: 'Il linguaggio blasfemo non è consentito su questo forum. Un comportamento contro le regole si traduce in un blocco dell\'account.',
 
-   img_needed: "Please upload an image file",
+   img_needed: "Carica un\'immagine",
    max: 'La dimensione massima per le immagini è 4Mb',
    yes: 'Si',
    upload: 'Carica immagini',
