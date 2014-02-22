@@ -35,13 +35,13 @@ var language = {
    email_taken: 'Este email está ocupado',
 
 
-   reset: 'Resetea la contraseña',
+   reset: 'Restablecer la contraseña',
    resetbtn: 'Enviar instrurcciones',
-   sent: 'Hemos enviado instrucciones para resetear la contraseña a tu dirección de email.',
+   sent: 'Hemos enviado instrucciones para restablecer la contraseña a tu dirección de email.',
    sent1: 'Si no recibes un email en un minuto o dos, revisa tu carpeta de spam.',
    notfound: 'No se pudo encontrar este usuario',
    invalidpw: 'Contraseña inválida',
-   passtip: '6 letras o más, sé complejo',
+   passtip: '6 letras o más, sé listo',
    oldpw: 'Antigua contraseña',
    newpw: 'Nueva contraseña',
    changepw: 'Cambiar contraseña'
