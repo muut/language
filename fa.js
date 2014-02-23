@@ -6,6 +6,8 @@ moot.language = {
 
    // new stuff
    img_needed: "Please upload an image file",
+   untitled: "Untitled",
+   design: "Design",
    no_title: "Title must be given",
    designer: "Designer",
    developer: "Developer",

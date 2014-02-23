@@ -2,6 +2,8 @@ moot.language = {
 
    $code: 'fi',
 
+   untitled: "Ei otsikko",
+   design: "Ulkoasu",
    no_title: "Otsikko on annettava",
    designer: "Designer",
    developer: "Developer",
@@ -54,6 +56,7 @@ moot.language = {
    domaintip: 'Foorumisi osoite jonne käyttäjät ohjataan hakutuloksista',
    learn: 'Lue lisää...',
    ga: 'Google Analytics tunnus',
+   admin: 'Ylläpitäjä',
    admins: 'Ylläpitäjät',
    adminstip: 'Yksi käyttäjätunnus per rivi',
    settings: 'Asetukset',

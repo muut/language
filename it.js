@@ -3,6 +3,8 @@
    // the language code
    $code: 'it',
 
+   untitled: "Untitled",
+   design: "Design",
    no_title: "Titolo obbligatorio",
    designer: "Disegnatore",
    developer: "Sviluppatore",

@@ -15,6 +15,8 @@ moot.language = {
 
 
 
+   untitled: "Untitled",
+   design: "Design",
    no_title: "主题不能为空哦",
    designer: "论坛设计师",
    developer: "论坛开发者",
