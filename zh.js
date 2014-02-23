@@ -4,9 +4,9 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
-  untitled: "Untitled",
-  design: "Design",
 
+  untitled: "无题",
+  design: "设计",
   img_needed: "请上传图像类文件",
   no_title: "标题必填",
   designer: "深度设计",
@@ -181,3 +181,4 @@ moot.language = {
   week: '周前'
 
 }
+
