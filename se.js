@@ -4,6 +4,7 @@
    $code: 'se',
 
    // new stuff
+   myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
    no_title: "Title must be given",

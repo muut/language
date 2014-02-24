@@ -2,7 +2,8 @@ moot.language = {
 
    $code: 'fi',
 
-   untitled: "Ei otsikko",
+   myaccount: "Oma tilini",
+   untitled: "Ei otsikkoa",
    design: "Ulkoasu",
    no_title: "Otsikko on annettava",
    designer: "Designer",

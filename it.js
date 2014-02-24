@@ -3,6 +3,7 @@
    // the language code
    $code: 'it',
 
+   myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
    no_title: "Titolo obbligatorio",

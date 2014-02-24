@@ -15,6 +15,7 @@ moot.language = {
 
 
 
+   myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
    no_title: "主题不能为空哦",

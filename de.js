@@ -9,6 +9,7 @@ moot.language = {
 
 
 
+   myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
    no_title: "Es muss einen Titel geben",

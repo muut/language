@@ -4,6 +4,7 @@ moot.language = {
    $code: 'es',
 
    /* New stuff */
+   myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
 
