@@ -5,7 +5,7 @@ var language = {
 
 
    username_fail: 'Використовуйте букви, цифри або тире',
-   loginwith: 'Увійти через <a>facebook</a>',
+
    join: 'Реєстрація',
 
    changed: 'Змінено!',

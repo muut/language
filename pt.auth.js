@@ -6,7 +6,7 @@ var language = {
    join: 'Inscrever-se',
 
    changed: 'Alterado!',
-   loginwith: 'Iniciar sessão com a sua conta de <a>Facebook</a> ou',
+
 
    login: 'Entrar',
 

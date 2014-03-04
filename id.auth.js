@@ -9,7 +9,7 @@ var language = {
    join: 'Gabung',
 
    changed: 'Diganti!',
-   loginwith: 'Masuk dengan <a>Facebook</a> atau',
+
 
    login: 'Masuk',
 

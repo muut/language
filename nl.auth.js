@@ -10,7 +10,7 @@ var language = {
    join: 'Meld je aan',
 
    changed: 'Verandert!',
-   loginwith: 'Log in met <a>Facebook</a> of',
+
 
    login: 'Log in',
 

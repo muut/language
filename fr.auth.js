@@ -9,7 +9,7 @@ var language = {
    join: 'Rejoindre',
 
    changed: 'Changé !',
-   loginwith: 'Se connecter avec <a>Facebook</a> ou',
+
 
    login: 'Se connecter',
 

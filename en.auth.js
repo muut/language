@@ -6,7 +6,7 @@ var language = {
 
 
    username_fail: 'Use letters, numbers or dashes',
-   loginwith: 'Log in with <a>facebook</a>',
+
    join: 'Join',
 
    changed: 'Changed!',

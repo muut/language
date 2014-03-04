@@ -7,7 +7,7 @@ var language = {
 
 
    username_fail: 'Använd bokstäver, siffror eller bindestreck',
-   loginwith: 'Logga in med <a>Facebook</a>',
+
    join: 'Gå med',
    changed: 'Ändrad!',
    login: 'Logga in',

@@ -6,7 +6,7 @@ var language = {
 
 
    username_fail: 'تنها از حروف، اعداد یا خط تیره استفاده کنید',
-   loginwith: '<a>فیسبوک</a> ورود با ',
+
    join: 'عضویت',
 
    changed: 'تغییر کرد!',

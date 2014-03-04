@@ -6,7 +6,7 @@ var language = {
 
 
    username_fail: 'Foloseste doar litere, cifre sau cratima',
-   loginwith: 'Conecteaza-te cu <a>facebook</a>',
+
    join: 'Participa',
 
    changed: 'Am schimbat!',

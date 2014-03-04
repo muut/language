@@ -1,7 +1,7 @@
 var language = {
 
    changed: 'Muutettu!',
-   loginwith: 'Kirjaudu <a>Facebookissa</a> tai',
+
 
    login: 'Kirjaudu',
    join: 'Liity',

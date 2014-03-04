@@ -10,7 +10,7 @@ var language = {
 
 
    changed: '已更改！',
-   loginwith: '使用 <a>Facebook</a> 账号登录或者……',
+
 
    login: '登录',
 

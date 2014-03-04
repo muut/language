@@ -6,7 +6,7 @@ var language = {
 
 
    changed: 'تم التغيير',
-   loginwith: 'تسجيل الدخول عبر',
+
 
    login: 'تسجيل الدخول',
    join: 'انضم إلى',

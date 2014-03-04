@@ -3,7 +3,7 @@ var language = {
 
    join: 'Iscriviti',
    changed: 'Modificato!',
-   loginwith: 'Accedi con <a>Facebook</a>',
+
    login: 'Accedi',
    id: 'Email <em>o username</em>',
    password: 'Password',

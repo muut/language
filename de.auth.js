@@ -8,7 +8,7 @@ var language = {
 
    join: 'Beitreten',
    changed: 'Geändert!',
-   loginwith: 'Über <a>Facebook</a> anmelden oder',
+
 
    login: 'Anmelden',
 
