@@ -2,6 +2,8 @@ moot.language = {
 
    $code: 'fi',
 
+   add: '+ Add',
+   addons: 'Add-ons',
    myaccount: "Oma tilini",
    untitled: "Ei otsikkoa",
    design: "Ulkoasu",

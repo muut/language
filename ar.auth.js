@@ -5,8 +5,6 @@ var language = {
    username: 'Username',
 
 
-
-
    changed: 'تم التغيير',
    loginwith: 'تسجيل الدخول عبر',
 

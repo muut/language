@@ -9,6 +9,8 @@ moot.language = {
 
 
 
+   add: '+ Add',
+   addons: 'Add-ons',
    myaccount: "My account",
    untitled: "Untitled",
    design: "Design",

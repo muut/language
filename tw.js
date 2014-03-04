@@ -5,6 +5,8 @@ moot.language = {
 
 
    /* New stuff */
+   add: '+ Add',
+   addons: 'Add-ons',
    myaccount: "My account",
    untitled: "Untitled",
    design: "Design",

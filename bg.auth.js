@@ -8,7 +8,7 @@ var language = {
    join: 'Присъедини',
 
    changed: 'Променено!',
-   loginwith: 'Влез чрез <a>Facebook</a> или',
+   loginwith: 'Влез чрез',
 
    login: 'Влез',
 

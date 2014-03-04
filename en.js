@@ -3,6 +3,10 @@ moot.language = {
    // the language code
    $code: 'en',
 
+   add: '+ Add',
+   addons: 'Add-ons',
+   add: '+ Add',
+   addons: 'Add-ons',
    myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
@@ -22,7 +26,7 @@ moot.language = {
 
 
    banned: 'Banned account',
-   banned2: 'You are temporarily banned from posting on this forum for violating forum policies. Time left:',
+   banned2: 'You are temporarily banned from posting on this forum.',
    banned4: 'You can no longer post on this forum.',
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
