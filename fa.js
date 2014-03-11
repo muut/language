@@ -6,6 +6,12 @@ moot.language = {
 
    // new stuff
    img_needed: "Please upload an image file",
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
@@ -25,8 +31,8 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-   banned: 'حساب کاربری بسته شده',
-   banned2: 'شما به علت تخلف از قوانین ارسال به طور موقت محروم شده اید. زمان باقیمانده:',
+   ban_acc: 'حساب کاربری بسته شده',
+   ban_msg: 'شما به علت تخلف از قوانین ارسال به طور موقت محروم شده اید. زمان باقیمانده:',
    banned4: 'شما دیگر امکان ارسال به این قسمت را ندارید',
    warning: 'اخطار',
    profanity: 'لحن نامناسب باعث محرومیت شما می گردد',

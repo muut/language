@@ -5,6 +5,14 @@ moot.language = {
 
   /* New stuff */
 
+  ban:     'Ban user',
+  banned:  'Banned',
+  ban_usr: 'Banned users',
+  ban_acc: 'Banned account',
+  ban_msg: 'You are temporarily banned from posting on this forum.',
+  days:    'Days',
+  forever: 'Forever',
+
   add: '+ 添加',
   addons: '附加组件',
   myaccount: "我的账户",

@@ -4,6 +4,14 @@ moot.language = {
    $code: 'fr',
 
    /* New stuff */
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   ban_acc: 'Banned account',
+   ban_msg: 'You are temporarily banned from posting on this forum.',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",

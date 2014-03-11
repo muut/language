@@ -4,6 +4,12 @@ moot.language = {
    $code: 'es',
 
    /* New stuff */
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
@@ -27,8 +33,8 @@ moot.language = {
    s3_missing: "Este depósito no existe",
 
 
-   banned: 'Cuenta expulsada',
-   banned2: 'Estás temporalmente expulsado de este foro por violar las políticas del foro. Tiempo restante:',
+   ban_acc: 'Cuenta expulsada',
+   ban_msg: 'Estás temporalmente expulsado de este foro por violar las políticas del foro. Tiempo restante:',
    banned4: 'Ya no puedes publicar en este foro.',
    warning: 'Atención',
    profanity: 'No están permitidas las palabrotas en este foro. El abuso continuado de está política provocará la expulsión.',

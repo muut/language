@@ -4,6 +4,12 @@ moot.language = {
    $code: 'ro',
 
    /* New stuff */
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
@@ -31,8 +37,8 @@ moot.language = {
    hide: 'hide',
    invisible: 'Invisible',
 
-   banned: 'Cont suspendat',
-   banned2: 'Esti suspendat temporar si nu mai poti scrie pe acest forum, deoarece nu ai respectat regulile. A mai ramas:',
+   ban_acc: 'Cont suspendat',
+   ban_msg: 'Esti suspendat temporar si nu mai poti scrie pe acest forum, deoarece nu ai respectat regulile. A mai ramas:',
    banned4: 'Nu mai poti scrie pe acest forum.',
    warning: 'Atentie',
    profanity: 'Nu putem permite lipsa de respect. Abuzul continuat va duce la suspendarea definitiva a contului.',

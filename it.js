@@ -3,6 +3,12 @@
    // the language code
    $code: 'it',
 
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
@@ -23,8 +29,8 @@
    s3_missing: "Questo bucket non esiste",
 
 
-   banned: 'Account bloccato',
-   banned2: 'Sei temporaneamente bloccato e non puoi pubblicare su questo forum per aver violato le regole. Tempo mancante:',
+   ban_acc: 'Account bloccato',
+   ban_msg: 'Sei temporaneamente bloccato e non puoi pubblicare su questo forum per aver violato le regole. Tempo mancante:',
    banned4: 'Non puoi pubblicare su questo forum.',
    warning: 'Attenzione',
    profanity: 'Il linguaggio blasfemo non è consentito su questo forum. Un comportamento contro le regole si traduce in un blocco dell\'account.',

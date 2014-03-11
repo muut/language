@@ -3,15 +3,48 @@ moot.language = {
    // the language code
    $code: 'ru',
 
+
    /* New stuff */
 
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   days:    'Days',
+   forever: 'Forever',
+
+   add: '+ Add',
+   addons: 'Add-ons',
+   myaccount: "My account",
+   untitled: "Untitled",
+   design: "Design",
+   no_title: "Title must be given",
+   designer: "Designer",
+   developer: "Developer",
    single: 'single word',
 
-   /* End new stuff */
+   no_index: 'Disable indexing under moot.it',
+   mkpriv: 'Make this forum private',
+   sign: 'This forum must be <a>signed</a> first.',
+
+   s3: 'Custom S3 bucket',
+   s3_tip: 'Allows custom domain for search engines and a backup storage.',
+   s3_tip2: 'Add full access permissions for <em>moot-aws@moot.it</em>',
+   s3_no_access: "moot-aws@moot.it cannot access this bucket",
+   s3_missing: "This bucket does not exist",
 
 
-   banned: 'Заблокированный аккаунт',
-   banned2: 'Вам временно запретили публиковать сообщения на этом форуме из-за нарушения его правил. Оставшееся время:',
+   img_needed: "Please upload an image file",
+   max: 'Maximum image size is 4Mb',
+   yes: 'Yes',
+   upload: 'Upload images',
+   show: 'show',
+   hide: 'hide',
+   invisible: 'Invisible',
+   givebody: 'Body cannot be empty.',
+
+
+   ban_acc: 'Заблокированный аккаунт',
+   ban_msg: 'Вам временно запретили публиковать сообщения на этом форуме из-за нарушения его правил.',
    banned4: 'Вы больше не можете публиковать сообщения на этом форуме.',
    warning: 'Предупреждение',
    profanity: 'Ненормативная лексика запрещена на этом форуме. При продолжении ее употребления Ваш аккаунт будет заблокирован.',

@@ -3,8 +3,14 @@ moot.language = {
    // the language code
    $code: 'en',
 
-   add: '+ Add',
-   addons: 'Add-ons',
+   ban:     'Ban user',
+   banned:  'Banned',
+   ban_usr: 'Banned users',
+   ban_acc: 'Banned account',
+   ban_msg: 'You are temporarily banned from posting on this forum.',
+   days:    'Days',
+   forever: 'Forever',
+
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
@@ -24,10 +30,6 @@ moot.language = {
    s3_no_access: "moot-aws@moot.it cannot access this bucket",
    s3_missing: "This bucket does not exist",
 
-
-   banned: 'Banned account',
-   banned2: 'You are temporarily banned from posting on this forum.',
-   banned4: 'You can no longer post on this forum.',
    warning: 'Warning',
    profanity: 'Profanity is not allowed on this forum. Continued abuse of this policy will result in being banned.',
 
