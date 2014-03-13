@@ -11,6 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -154,7 +155,6 @@ moot.language = {
    select: 'Sélectionnez le forum',
    setup: 'Installer maintenant',
    showing: 'Montrant',
-   slogan: 'Forums et commentaires ré-imaginés',
    spam: 'Spam',
    step1: 'Nous vous avons envoyé un e-mail de confirmation. Votre adresse e-mail ne sera pas mise à jour avant d\'avoir terminé cette étape !',
    step: 'Une dernière étape',

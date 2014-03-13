@@ -12,6 +12,7 @@ moot.language = {
   ban_msg: 'You are temporarily banned from posting on this forum.',
   days:    'Days',
   forever: 'Forever',
+  slogan:  'Free forums and commenting by Moot',
 
   add: '+ 添加',
   addons: '附加组件',
@@ -155,8 +156,7 @@ moot.language = {
   select: '选择类别',
   setup: '马上创建论坛',
   showing: '当前搜索', // Showing search results (instead) for
-  slogan: '论坛与评论系统新构想',
-  spam: '垃圾',
+    spam: '垃圾',
   step1: '我们已发出一封确认信，收到后您须按指示完成这一步才能更新您的邮箱地址',
   step: '还有一步',
   terms: '我同意<a>服务条款</a>',

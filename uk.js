@@ -9,6 +9,7 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -168,7 +169,6 @@ moot.language = {
    select: 'Оберіть розділ',
    setup: 'Налаштуйте прямо зараз',
    showing: 'Показано',
-   slogan: 'Новий погляд на форуми та коментарі',
    spam: 'Спам',
    step1: 'Ми надіслали вам електронного листа з перевірочним кодом. Вашу електронну адресу не буде оновлено, поки ви не виконаєте цю дію!',
    step: 'Ще один крок',

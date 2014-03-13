@@ -12,6 +12,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -161,7 +162,6 @@ moot.language = {
    select: 'மன்றத்தை தேர்ந்தெடுக்கவும்',
    setup: 'இப்பொழுது உருவாக்கவும்',
    showing: 'காண்பிக்கிறோம்',
-   slogan: 'மன்றங்கள், கருத்துகள். மறுபிறப்பு!',
    spam: 'கூளம்',
    step1: 'உங்கள் மின்னஞ்சலுக்கு ஒரு ஒப்புதல் பதிவை அணுப்பி உள்ளோம். ஒப்புதல் கிடைத்த பின்பே உங்கல் மின்னஞ்சல் புதுப்பிக்கப்படும்!',
    step: 'இன்னும் ஒரே படி உள்ளது',

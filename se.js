@@ -11,6 +11,7 @@
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -157,7 +158,6 @@
    select: 'Välj forum',
    setup: 'Installera nu',
    showing: 'Visar',
-   slogan: 'Forum och kommentarer på ett helt nytt sätt',
    spam: 'Spam',
    step1: 'Vi har skickat ett en bekräftelse till din e-post. Din e-post kommer inte uppdateras förrän du slutfört detta steg!',
    step: 'Ett steg kvar',

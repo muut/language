@@ -19,6 +19,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -164,7 +165,6 @@ moot.language = {
    select: '选择板块',
    setup: '设置',
    showing: '演示中',
-   slogan: '论坛和评论正在被重新布局',
    spam: '垃圾内容',
    step1: '我们已经向你发送了一封确认邮件. 在你完成这一步之前你的邮箱不会被升级',
    step: '下一步',

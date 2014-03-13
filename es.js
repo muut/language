@@ -9,14 +9,13 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
    myaccount: "My account",
    untitled: "Untitled",
    design: "Design",
-
-
 
    no_title: "El título no debe estar vacío",
    designer: "Diseñador",
@@ -161,7 +160,6 @@ moot.language = {
    select: 'Seleccionar foro',
    setup: 'Configurar ahora',
    showing: 'Mostrando',
-   slogan: 'Foros y comentarios re-imaginados',
    spam: 'Spam',
    step1: 'Hemos enviado un email de confirmación. ¡Tu email no será actualizado antes de que completes este paso!',
    step: 'Un paso más',

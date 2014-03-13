@@ -11,6 +11,7 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -162,7 +163,6 @@ moot.language = {
    select: 'انتخاب مبحث',
    setup: 'ایجاد',
    showing: 'در حال نمایش',
-   slogan: 'نگرش جدید در ایجاد مباحث و اشتراک نظرات',
    spam: 'هرز نگاری',
    step1: 'برای شما یک ایمیل تاییدیه ارسال شده است. تا زمانیکه نسبت به فعال سازی اقدام ننمایید، ایمیل شما به روز نمی گردد',
    step: 'فقط یک مرحله دیگر',

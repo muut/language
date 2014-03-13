@@ -8,6 +8,7 @@
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -159,7 +160,6 @@
    select: 'Seleziona forum',
    setup: 'Configura ora',
    showing: 'Mostra',
-   slogan: 'Forums and commenting re-imagined',
    spam: 'Spam',
    step1: 'Ti abbiamo inviato una email di conferma. La tua email non verrà aggiornata se non completi questo passaggio!',
    step: 'Ancora un passaggio',

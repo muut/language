@@ -12,6 +12,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
+   slogan:  'Free forums and commenting by Moot',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -158,7 +159,6 @@ moot.language = {
    select: 'Forum seç',
    setup: 'Şimdi ayarla',
    showing: 'Gösterilen',
-   slogan: 'Forum ve yorum anlayışı yeniden tasarlandı',
    spam: 'Spam',
    step1: 'Email hesabınıza bir onay maili gönderdik. Bu adımı tamamlamadan email bilginiz güncellenmez!',
    step: 'Bir adım daha',
