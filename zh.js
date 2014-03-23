@@ -65,7 +65,7 @@ moot.language = {
   subs: '服务',
   manage: '管理',
   fullview: '进入全文',
-  title: '链接文字',
+  title: '标题',
   link: 'URL',
   avatar: '更改头像',
   seo_update: '用于搜索优化的静态页面将在一小时内更新',
