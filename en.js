@@ -104,7 +104,7 @@ moot.language = {
    comm_count_n: 'comments',  // plural: "3 comments"
    comment1: 'Be the first to comment...',
    comment: 'Comment...',
-   edit: 'edit',
+   edit: 'Edit',
    email: 'Email',
    email_taken: 'This email is taken',
    emailtip: 'Your email is never shared',
