@@ -11,7 +11,7 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -23,7 +23,7 @@ moot.language = {
    developer: "Developer",
    single: 'single word',
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -74,7 +74,7 @@ moot.language = {
    brand_name: 'Имя бренда',
    title: 'Заголовок',
    css: 'CSS файл',
-   mootbrand: 'Брендинг Moot',
+   mootbrand: 'Брендинг Muut',
    sso: 'Единая авторизация',
    apikey: 'API ключ',
    apisecret: 'Секретный ключ',
@@ -97,7 +97,7 @@ moot.language = {
    anon: 'анонимных',      // plural
 
    badforum: 'Неправильный форум',
-   c_acc1: 'Ваш аккаунт теперь работает на всех сайтах, использующих Moot',
+   c_acc1: 'Ваш аккаунт теперь работает на всех сайтах, использующих Muut',
    c_acc: 'Аккаунт подтверждён',
    c_email: 'Email обновлён',
    cancel: 'Отмена',
@@ -183,13 +183,13 @@ moot.language = {
    unver: 'Неподтверждённый',
    unwall: 'ни за чем не следить',
    unwatch: 'Не следить',
-   upgrade2: 'Moot использует WebSockets или CORS для кросс-доменной связи. Их поддерживают все современные браузеры кроме Opera 11 и IE7.',
+   upgrade2: 'Muut использует WebSockets или CORS для кросс-доменной связи. Их поддерживают все современные браузеры кроме Opera 11 и IE7.',
    upgrade: 'Пожалуйста, обновите браузер',
    username_taken: 'Это имя уже занято',
    watch: 'Следить за новыми ответами',
    welcome1: 'Пожалуйста, проверьте почту для завершения регистрации. Проверьте папку со спамом, если Вы не получили письмо в течении нескольких минут.',
-   welcome2: 'Введите имя пользователя в Moot',
-   welcome: 'Добро пожаловать в Moot',
+   welcome2: 'Введите имя пользователя в Muut',
+   welcome: 'Добро пожаловать в Muut',
    you: 'Вы',
 
    // times

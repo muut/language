@@ -8,7 +8,7 @@
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -19,7 +19,7 @@
    designer: "Disegnatore",
    developer: "Sviluppatore",
 
-   no_index: 'Disabilitare l\'indicizzazione sotto moot.it',
+   no_index: 'Disabilitare l\'indicizzazione sotto muut.com',
    mkpriv: 'Rendere questo forum privato',
    sign: 'Questo forum deve essere <a>registrato</a> prima.',
 
@@ -68,7 +68,7 @@
    brand_name: 'Marca',
    title: 'Titolo',
    css: 'File CSS',
-   mootbrand: 'Utilizzare marchio Moot',
+   mootbrand: 'Utilizzare marchio Muut',
    sso: 'Accesso unico',
    apikey: 'Chiave API',
    apisecret: 'Chiave segreta',
@@ -92,7 +92,7 @@
    anon: 'anonimi',      // plurale
 
    badforum: 'Forum non valido',
-   c_acc1: 'Il tuo account ora funziona su tutti i siti che utilizzano Moot',
+   c_acc1: 'Il tuo account ora funziona su tutti i siti che utilizzano Muut',
    c_acc: 'Account verificato',
    c_email: 'Indirizzo email aggiornato',
    cancel: 'Cancella',
@@ -123,7 +123,7 @@
    help6: 'codice HTML',
    in_forum: 'in',
    invalid: 'Valore non valido',
-   join: 'Iscriviti a Moot',
+   join: 'Iscriviti a Muut',
    later: 'Dopo...',
    less: 'meno',
    like: 'Mi piace',
@@ -172,19 +172,19 @@
    unlike: 'Non mi piace',
    unspam: 'Segna come non spam',
    unver1: 'Account non verificato',
-   unver2: 'Controlla la tua posta in arrivo per verificare il tuo account. Gli utenti verificati possono utilizzare Moot e ricevere notifiche email sui messaggi. <a>Invia un nuovo codice di verifica...</a>',
+   unver2: 'Controlla la tua posta in arrivo per verificare il tuo account. Gli utenti verificati possono utilizzare Muut e ricevere notifiche email sui messaggi. <a>Invia un nuovo codice di verifica...</a>',
    unver3: '<a>Invia un nuovo</a> codice di verifica:',
    unver4: "Inviato. Si prega di controllare la posta in arrivo.",
    unver: 'Non verificato',
    unwall: 'Guarda tutto',
    unwatch: 'Non guardare',
-   upgrade2: 'Moot utilizza WebSockets o CORS per la comunicazione tra domini. Tutti i browser moderni successivi a Opera 11 e IE7 funzionano.',
+   upgrade2: 'Muut utilizza WebSockets o CORS per la comunicazione tra domini. Tutti i browser moderni successivi a Opera 11 e IE7 funzionano.',
    upgrade: 'Si prega di aggiornare il browser',
    username_taken: 'Username in uso con altro account',
    watch: 'Guarda nuovi messaggi',
    welcome1: 'Controlla la tua email per completare la registrazione. Se non ricevi email entro un minuto o due, controlla la tua cartella spam.',
-   welcome2: 'Si prega di fornire un nome utente Moot',
-   welcome: 'Benvenuto su Moot',
+   welcome2: 'Si prega di fornire un nome utente Muut',
+   welcome: 'Benvenuto su Muut',
    you: 'Tu',
 
    // times

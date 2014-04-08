@@ -13,7 +13,7 @@ var language = {
    password: 'Passord',
    forgot: 'Glemt passord?',
 
-   notify: 'Hold meg oppdatert om nye Moot-releaser',
+   notify: 'Hold meg oppdatert om nye Muut-releaser',
    auth_failed: 'Feil brukernavn eller passord',
    invalid: 'Feil verdi oppgitt',
    terms: 'Jeg godtar <a>brukervilkårene</a>.',

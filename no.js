@@ -13,7 +13,7 @@ moot.language = {
    designer: 'Designer',
    developer: 'Developer',
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Gjør dette forumet privat',
    sign: 'Dette forumet må <a>sign</a> først.',
 
@@ -45,7 +45,7 @@ moot.language = {
    writing: 'skriver...',
    basic: 'Basic (gratis)',
    subs: 'Oppgraderinger',
-   manage: 'Administrer'
+   manage: 'Administrer',
 
    fullview: 'Maksimer visning',
    title: 'Tittel',
@@ -60,7 +60,7 @@ moot.language = {
    logo: 'Logotype',
    bgcolor: 'Bakgrunnsfarge',
    css: 'CSS-fil',
-   mootbrand: 'Bruk Moot-branding',
+   mootbrand: 'Bruk Muut-branding',
    sso: 'Single Sign-On',
    apikey: 'API-nøkkel',
    apisecret: 'Hemmelig nøkkel',
@@ -81,7 +81,7 @@ moot.language = {
    anon: 'anonyme',      // plural
 
    badforum: 'Feil forum',
-   c_acc1: 'Din konto gjelder nå for alle nettsider som bruker Moot',
+   c_acc1: 'Din konto gjelder nå for alle nettsider som bruker Muut',
    c_acc: 'Konto bekreftet',
    c_email: 'E-postadresse oppdatert',
    cancel: 'Avbryt',
@@ -168,13 +168,13 @@ moot.language = {
    unver: 'Uverifisert',
    unwall: 'Avslutt alle abonnement',
    unwatch: 'Avslutt abonnement ',
-   upgrade2: 'Moot bruker WebSockets eller CORS för kryssdomenekommunikasjon. Alle moderne nettlesere utenom Opera 11 och IE7 fungerer.',
+   upgrade2: 'Muut bruker WebSockets eller CORS för kryssdomenekommunikasjon. Alle moderne nettlesere utenom Opera 11 och IE7 fungerer.',
    upgrade: 'Vennligst oppgrader din nettleser',
    username_taken: 'Detta brukernavnet er opptatt',
    watch: 'Abonner på nye svar',
    welcome1: 'Vennligst kontroller din e-post for å sluttføre registreringen. Om du ikke mottar en e-post innne ett minutt eller to, kontroller din spam-folder.',
-   welcome2: 'Angi et Moot-brukernavn',
-   welcome: 'Velkommen til Moot',
+   welcome2: 'Angi et Muut-brukernavn',
+   welcome: 'Velkommen til Muut',
    you: 'Du',
 
    // times

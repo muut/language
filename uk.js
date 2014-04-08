@@ -9,7 +9,7 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -20,7 +20,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -69,7 +69,7 @@ moot.language = {
    brand_name: 'Назва фірми або організації',
    title: 'Заголовок',
    css: 'CSS-файл',
-   mootbrand: 'Використовувати оформлення Moot',
+   mootbrand: 'Використовувати оформлення Muut',
    sso: 'Єдиний вхід до системи',
    apikey: 'API-ключ',
    apisecret: 'Тайний ключ',
@@ -98,7 +98,7 @@ moot.language = {
    anon: 'анонімів',      // plural
 
    badforum: 'Невірний форум',
-   c_acc1: 'Ваш обліковий запис тепер працюватиме на всіх сайтах, що використовують Moot',
+   c_acc1: 'Ваш обліковий запис тепер працюватиме на всіх сайтах, що використовують Muut',
    c_acc: 'Обліковий запис підтверджено',
    c_email: 'Електронну адресу оновлено',
    cancel: 'Відмінити',
@@ -132,7 +132,7 @@ moot.language = {
    help6: 'HTML-код',
    in_forum: 'у темі',
    invalid: 'Хибне значення',
-   join: 'Приєднуйтесь до Moot!',
+   join: 'Приєднуйтесь до Muut!',
    later: 'Пізніше...',
    less: 'менше',
    like: 'Подобається',
@@ -187,13 +187,13 @@ moot.language = {
    unver: 'Неперевірений',
    unwall: 'відмінити слідкування за всіма',
    unwatch: 'Відмінити слідкування',
-   upgrade2: 'У Moot використано WebSockets або CORS для передачі даних між кількома доменами. Всі сучасні веб-переглядачі працюватимуть (версії старші за Opera 11 та IE7).',
+   upgrade2: 'У Muut використано WebSockets або CORS для передачі даних між кількома доменами. Всі сучасні веб-переглядачі працюватимуть (версії старші за Opera 11 та IE7).',
    upgrade: 'Будь ласка, оновіть версію свого веб-переглядача',
    username_taken: 'Користувача з таким іменем вже зареєстровано',
    watch: 'Слідкувати за новими відповідями',
    welcome1: 'Будь ласка, перевірте свою пошту, щоб завершити реєстрацію. Якщо протягом наступної хвилини або двох ви не отримаєте листа, перевірте папку «Спам» у своїй поштовій скринці.',
-   welcome2: 'Вкажіть ім’я користувача в системі Moot',
-   welcome: 'Ласкаво просимо на Moot!',
+   welcome2: 'Вкажіть ім’я користувача в системі Muut',
+   welcome: 'Ласкаво просимо на Muut!',
    you: 'Ви',
 
    // times

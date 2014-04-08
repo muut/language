@@ -12,7 +12,7 @@ moot.language = {
   ban_msg: '你暂时被禁止在该论坛发言',
   days:    '天',
   forever: '永久',
-  slogan:  'Moot 免费论坛与评论',
+  slogan:  'Muut 免费论坛与评论',
 
   add: '+ 添加',
   addons: '附加组件',
@@ -75,7 +75,7 @@ moot.language = {
   bgcolor: '背景颜色',
   brand_name: '品牌名称',
   css: 'CSS 文件',
-  mootbrand: '使用默认 Moot 风格',
+  mootbrand: '使用默认 Muut 风格',
   sso: '单点登录',
   apikey: 'API 公钥',
   apisecret: '私钥',
@@ -87,7 +87,7 @@ moot.language = {
   anon_1: '个匿名用户', // singular
   anon: '个匿名用户', // plural
   badforum: '无效论坛',
-  c_acc1: '现在您的账户可以在所有嵌入 Moot 的网站上通行了',
+  c_acc1: '现在您的账户可以在所有嵌入 Muut 的网站上通行了',
   c_acc: '账户已确认',
   c_email: '邮箱地址已更新',
   cancel: '取消',
@@ -119,7 +119,7 @@ moot.language = {
   help6: 'HTML 代码',
   in_forum: '发表于',
   invalid: '无效值',
-  join: '加入 Moot',
+  join: '加入 Muut',
   later: '稍后……',
   less: '收起',
   like: '喜欢',
@@ -174,13 +174,13 @@ moot.language = {
   unver: '未验证',
   unwall: '取消所有关注',
   unwatch: '取消关注',
-  upgrade2: 'Moot 跨域通讯运用 WebSockets 以及 CORS 技术，目前 Opera 11 和 IE 7 以上版本，以及所有其他新式浏览器均能胜任',
+  upgrade2: 'Muut 跨域通讯运用 WebSockets 以及 CORS 技术，目前 Opera 11 和 IE 7 以上版本，以及所有其他新式浏览器均能胜任',
   upgrade: '请升级您的浏览器',
   username_taken: '用户名已被注册使用',
   watch: '关注最新回复',
   welcome1: '请按邮件指示完成注册！如果几分钟内没有收到，请检查您的垃圾邮件',
-  welcome2: '请选定您的 Moot 用户名',
-  welcome: '欢迎来到 Moot！',
+  welcome2: '请选定您的 Muut 用户名',
+  welcome: '欢迎来到 Muut！',
   you: '您',
 
   // times

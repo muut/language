@@ -12,7 +12,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -23,7 +23,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -66,7 +66,7 @@ moot.language = {
    bgcolor: 'Background color',
    brand_name: 'Brand name',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -89,7 +89,7 @@ moot.language = {
    anon: 'анонимни',      // plural
 
    badforum: 'Невалиден Форум',
-   c_acc1: 'Твоят акаунт вече работи на всички сайтове, ползващи Moot',
+   c_acc1: 'Твоят акаунт вече работи на всички сайтове, ползващи Muut',
    c_acc: 'Потвърден акаунт',
    c_email: 'Електронната поща е актуализирана',
    cancel: 'Отказ',
@@ -120,7 +120,7 @@ moot.language = {
    help6: 'HTML код',
    in_forum: 'в',
    invalid: 'Невалидна стойност',
-   join: 'Присъедини се към Moot',
+   join: 'Присъедини се към Muut',
    later: 'По-късно...',
    less: 'по-малко',
    like: 'Харесай',
@@ -175,13 +175,13 @@ moot.language = {
    unver: 'Непотвърдено',
    unwall: 'Спри да следиш всички',
    unwatch: 'Спри да следиш',
-   upgrade2: 'Moot ползва WebSockets или CORS за комуникация между домейни. Всеки съвременен browser освен Opera 11 и IE7 ще работи.',
+   upgrade2: 'Muut ползва WebSockets или CORS за комуникация между домейни. Всеки съвременен browser освен Opera 11 и IE7 ще работи.',
    upgrade: 'Обнови твоя WEB browser',
    username_taken: 'Това потребителско име е заето',
    watch: 'Следи за нови отговори',
    welcome1: 'Провери твоя email, за да довършиш регистрацията! Ако не получиш email до 1-2 минути, провери спам папката на твоя email.',
-   welcome2: 'Моля посочи Moot потребителско име',
-   welcome: 'Добре Дошъл в Moot',
+   welcome2: 'Моля посочи Muut потребителско име',
+   welcome: 'Добре Дошъл в Muut',
    you: 'Ти',
 
    // times

@@ -15,7 +15,7 @@ var language = {
    password: 'Lösenord',
    forgot: 'Glömt det?',
 
-   notify: 'Meddela mig om nya Moot-releaser',
+   notify: 'Meddela mig om nya Muut-releaser',
    auth_failed: 'Fel användarnamn eller lösenord',
    invalid: 'Felaktigt värde',
    terms: 'Jag godkänner <a>användaravtalet</a>.',

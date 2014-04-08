@@ -15,7 +15,7 @@ var language = {
    password: 'Password',
    forgot: 'Forgot it?',
 
-   notify: 'Notify me of new Moot releases',
+   notify: 'Notify me of new Muut releases',
    auth_failed: 'Wrong username or password',
    invalid: 'Invalid value',
    terms: 'I agree to the <a>terms of service</a>.',

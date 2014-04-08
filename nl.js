@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -65,7 +65,7 @@ moot.language = {
    bgcolor: 'Background color',
    brand_name: 'Brand name',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -89,7 +89,7 @@ moot.language = {
    anon: 'onbekenden',      // plural
 
    badforum: 'Ongeldig forum',
-   c_acc1: 'Je account werkt nu op alle sites die gebruik maken van Moot',
+   c_acc1: 'Je account werkt nu op alle sites die gebruik maken van Muut',
    c_acc: 'Account bevestigd',
    c_email: 'Email adres upgedate',
    cancel: 'Annuleer',
@@ -120,7 +120,7 @@ moot.language = {
    help6: 'HTML code',
    in_forum: 'in',
    invalid: 'Ongeldige waarde',
-   join: 'Meld je aan bij Moot',
+   join: 'Meld je aan bij Muut',
    later: 'Later...',
    less: 'minder',
    like: 'Vind ik leuk',
@@ -175,13 +175,13 @@ moot.language = {
    unver: 'Ongeverifieerd',
    unwall: 'Houd mij niet meer op de hoogte van allen',
    unwatch: 'Houd mij niet meer op de hoogte',
-   upgrade2: 'Moot gebruikt WebSockets of CORS voor cross domein communicatie. Alle moderne browsers behalve Opera 11 en IE7 werken.',
+   upgrade2: 'Muut gebruikt WebSockets of CORS voor cross domein communicatie. Alle moderne browsers behalve Opera 11 en IE7 werken.',
    upgrade: 'Upgrade u alstublieft uw browser',
    username_taken: 'Deze gebruikersnaam is bezet',
    watch: 'Kijk uit voor nieuwe reacties',
    welcome1: 'Bekijkt u alstublieft uw email om uw registratie te kunnen voltooien. Als u geen email ontvangt binnen 2 minuten, bekijkt u dan alstublieft uw spam map.',
-   welcome2: 'Geeft u alstublieft een Moot gebruikersnaam',
-   welcome: 'Welkom bij Moot',
+   welcome2: 'Geeft u alstublieft een Muut gebruikersnaam',
+   welcome: 'Welkom bij Muut',
    you: 'U',
 
    // times

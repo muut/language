@@ -9,7 +9,7 @@ moot.language = {
    ban_usr: 'Banned users',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -20,7 +20,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -69,7 +69,7 @@ moot.language = {
    brand_name: 'Brand',
    title: 'Titlu',
    css: 'Fisier CSS',
-   mootbrand: 'Foloseste branding Moot',
+   mootbrand: 'Foloseste branding Muut',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Cheie secreta',
@@ -95,7 +95,7 @@ moot.language = {
    anon: 'anonimi',      // plural
 
    badforum: 'Forum invalid',
-   c_acc1: 'Contul tau merge acum pe toate site-urile care folosesc Moot',
+   c_acc1: 'Contul tau merge acum pe toate site-urile care folosesc Muut',
    c_acc: 'Cont confirmat!',
    c_email: 'Email nou salvat',
    cancel: 'Anuleaza',
@@ -126,7 +126,7 @@ moot.language = {
    help6: 'HTML',
    in_forum: 'in',
    invalid: 'Valoare invalida',
-   join: 'Intra pe Moot',
+   join: 'Intra pe Muut',
    later: 'Mai tarziu...',
    less: 'mai putin',
    like: 'Like',
@@ -181,13 +181,13 @@ moot.language = {
    unver: 'Nu e verificat',
    unwall: 'nu mai urmari nimic',
    unwatch: 'nu mai urmari',
-   upgrade2: 'Moot foloseste WebSockets sau CORS pentru comunicare intre domenii diferite. Functioneaza toate browserele moderne peste Opera 11 si IE7.',
+   upgrade2: 'Muut foloseste WebSockets sau CORS pentru comunicare intre domenii diferite. Functioneaza toate browserele moderne peste Opera 11 si IE7.',
    upgrade: 'Va trebui sa folosesti un browser mai nou.',
    username_taken: 'Acest username este deja folosit de altcineva',
    watch: 'Urmareste discutia pe email',
    welcome1: 'Te rugam sa verifici emailul pentru a termina inregistrarea. Daca nu primesti un mail in cateva minute, verifica folderul de spam.',
-   welcome2: 'Te rog sa ne dai un username pentru Moot.',
-   welcome: 'Bine ai venit pe Moot',
+   welcome2: 'Te rog sa ne dai un username pentru Muut.',
+   welcome: 'Bine ai venit pe Muut',
    you: 'Tu',
 
    // times

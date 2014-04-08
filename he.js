@@ -12,7 +12,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -23,7 +23,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -65,7 +65,7 @@ moot.language = {
    brand_name: 'Brand name',
    title: 'Title',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -93,7 +93,7 @@ moot.language = {
    anon: 'אנונימיים',      // plural
 
    badforum: 'פורום שגוי',
-   c_acc1: 'כעת חשבון המשתמש שלך מוכן לעבודה עם כל אתרי Moot',
+   c_acc1: 'כעת חשבון המשתמש שלך מוכן לעבודה עם כל אתרי Muut',
    c_acc: 'חשבון המשתמש אומת בהצלחה',
    c_email: 'כתובת הדואר האלקטרוני עודכנה',
    cancel: 'ביטול',
@@ -124,7 +124,7 @@ moot.language = {
    help6: 'קוד HTML',
    in_forum: 'בפורום',
    invalid: 'ערך בלתי חוקי',
-   join: 'הרשמה ל-Moot',
+   join: 'הרשמה ל-Muut',
    later: 'מאוחר יותר...',
    less: 'פחות',
    like: 'אהבתי',
@@ -144,7 +144,7 @@ moot.language = {
    noresults: 'אין תוצאות עבור',
    nospam: 'אין ספאם בפורום שלך!',
    notexist: 'לא קיים.',
-   notify: 'הודע לי על גרסאות חדשות של Moot',
+   notify: 'הודע לי על גרסאות חדשות של Muut',
    ok: 'אישור',
    online: 'מחוברים ',
    post: 'שלח',
@@ -179,13 +179,13 @@ moot.language = {
    unver: 'לא מאומת',
    unwall: 'ביטול מעקב מכל הדיונים',
    unwatch: 'ביטול מעקב',
-   upgrade2: 'Moot משתמש ב-WebSockets ו-CORS לצורך ההתחברות לשירות. כל דפדפן אינטרנט עדכני למעט Opera 11 ו-IE7 צריך לספק את העבודה.',
+   upgrade2: 'Muut משתמש ב-WebSockets ו-CORS לצורך ההתחברות לשירות. כל דפדפן אינטרנט עדכני למעט Opera 11 ו-IE7 צריך לספק את העבודה.',
    upgrade: 'יש צורך בעדכון דפדפן האינטרנט שלך',
    username_taken: 'שם המשתמש תפוס',
    watch: 'עקוב אחרי הדיון',
    welcome1: 'נא לבדוק את תיבת הדואר האלקטרוני על מנת להשלים את ההרשמה. אם אינך מקבל\ת את הוראות האיפוס בתוך דקה או שתיים, יש לבדוק את תיבת דואר הזבל.',
-   welcome2: 'נא הזן את שם המשתמש שלך ב-Moot',
-   welcome: 'ברוכים הבאים ל-Moot',
+   welcome2: 'נא הזן את שם המשתמש שלך ב-Muut',
+   welcome: 'ברוכים הבאים ל-Muut',
    you: 'אתה',
 
    // times

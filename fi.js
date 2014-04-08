@@ -9,7 +9,7 @@ moot.language = {
    ban_msg: 'Et voi toistaiseksi kirjoittaa tähän yhteisöön.',
    days:    'Päivää',
    forever: 'Ikuisesti',
-   slogan:  'Moot – Ilmainen foorumi ja kommentointi',
+   slogan:  'Muut – Ilmainen foorumi ja kommentointi',
 
    add: '+ Lisää',
    addons: 'Laajennukset',
@@ -20,7 +20,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Poista indexointi moot.it- domainin alaisuudesta',
+   no_index: 'Poista indexointi muut.com- domainin alaisuudesta',
    mkpriv: 'Estä pääsy tähän foorumiin muualta',
    sign: 'Forumi pitää ensin <a>signeerata</a>.',
 
@@ -56,7 +56,7 @@ moot.language = {
    bgcolor: 'Taustaväri',
    brand_name: 'Brändisi nimi',
    css: 'CSS tiedosto',
-   mootbrand: 'Käytä Moot- brändäystä',
+   mootbrand: 'Käytä Muut- brändäystä',
    sso: 'Single Sign-On',
    apikey: 'API avain',
    apisecret: 'Salainen avain',
@@ -78,7 +78,7 @@ moot.language = {
    anon_1: 'anonyymi',  // singular
    anon: 'anonyymiä',   // plural
    badforum: 'Epäkelpo foorumi',
-   c_acc1: 'Voit nyt käyttää kaikkia sivustoja, joissa on Moot käytössä',
+   c_acc1: 'Voit nyt käyttää kaikkia sivustoja, joissa on Muut käytössä',
    c_acc: 'Sinut on vahvistettu',
    c_email: 'Osoitteesi on vahvistettu',
    cancel: 'Peru',
@@ -108,7 +108,7 @@ moot.language = {
    help6: 'html koodia',
    in_forum: 'foorumissa',
    invalid: 'Virheellinen kentän arvo',
-   join: 'Liity Moot:tiin',
+   join: 'Liity Muut:tiin',
    later: 'Myöhemmin...',
    less: 'vähemmän',
    like: 'Tykkää',
@@ -128,7 +128,7 @@ moot.language = {
    noresults: 'Ei tuloksia haulle',
    nospam: 'Ei spämmiä!',
    notexist: 'ei löydy.',
-   notify: 'Ilmoita uusista Moot-pävityksistä',
+   notify: 'Ilmoita uusista Muut-pävityksistä',
    ok: 'ok',
    online: 'Paikalla',
    post: 'Lähetä',
@@ -163,12 +163,12 @@ moot.language = {
    unver: 'Vahvistamaton',
    unwall: 'poista kaikkien seuranta',
    unwatch: 'En seuraa',
-   upgrade2: 'Moot käyttää WebSocket tai CORS tekniikkaa. Kaikki selaimet, paitsi Opera 11 and IE7 tukevat näitä.',
+   upgrade2: 'Muut käyttää WebSocket tai CORS tekniikkaa. Kaikki selaimet, paitsi Opera 11 and IE7 tukevat näitä.',
    upgrade: 'Suosittelemme päivittämään selaimesi',
    username_taken: 'Tämä tunnus on jo käytössä',
    watch: 'Seuraa tätä keskustelua',
    welcome1: 'Vahvista tilisi sinulle lähetetyssä mailissa. Jos viestiä ei näy, tarkasta vielä roskaposteista.',
-   welcome2: 'Luo Moot-käyttäjätunnus',
+   welcome2: 'Luo Muut-käyttäjätunnus',
    welcome: 'Tervetuloa Mootin käyttäjäksi',
    you: 'Sinä',
 

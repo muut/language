@@ -19,7 +19,7 @@ var language = {
    forgot: 'Vergeten?',
 
 
-   notify: 'Hou me op de hoogte wanneer Moot een nieuwe versie uitbrengt',
+   notify: 'Hou me op de hoogte wanneer Muut een nieuwe versie uitbrengt',
    auth_failed: 'Verkeerde gebruikersnaam of wachtwoord',
    invalid: 'Foute waarde',
    terms: 'Ik aanvaard de <a>gebruiksvoorwaarde</a>.',

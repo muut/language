@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -60,7 +60,7 @@ moot.language = {
    bgcolor: 'Couleur de fond',
    brand_name: 'Brand name', // ?
    css: 'Fichier CSS',
-   mootbrand: 'Use Moot branding', // ?
+   mootbrand: 'Use Muut branding', // ?
    sso: 'Single Sign-On', // same as English
    apikey: 'Clé API',
    apisecret: 'Clé secrète',
@@ -87,7 +87,7 @@ moot.language = {
    anon: 'anonymes',      // plural
 
    badforum: 'Forum invalide',
-   c_acc1: 'Votre compte fonctionne maintenant sur tous les sites utilisant Moot',
+   c_acc1: 'Votre compte fonctionne maintenant sur tous les sites utilisant Muut',
    c_acc: 'Compte vérifié',
    c_email: 'Adresse e-mail mise à jour',
    cancel: 'Annuler',
@@ -118,7 +118,7 @@ moot.language = {
    help6: 'code HTML',
    in_forum: 'dans',
    invalid: 'Valeur invalide',
-   join: 'Rejoindre Moot',
+   join: 'Rejoindre Muut',
    later: 'Plus tard...',
    less: 'moins',
    like: 'Aimer',
@@ -173,13 +173,13 @@ moot.language = {
    unver: 'Non vérifié',
    unwall: 'ne plus surveiller les Moots',
    unwatch: 'Ne plus surveiller',
-   upgrade2: 'Moot utilise les WebSockets ou CORS pour les communications cross-domain. Tous les navigateurs modernes à part Opera 11 et IE7 fonctionnent.',
+   upgrade2: 'Muut utilise les WebSockets ou CORS pour les communications cross-domain. Tous les navigateurs modernes à part Opera 11 et IE7 fonctionnent.',
    upgrade: 'Veuillez mettre à jour votre navigateur',
    username_taken: 'Ce nom d\'utilisateur est pris',
    watch: 'Surveiller les nouvelles réponses',
    welcome1: 'Veuillez vérifier vos e-mails pour finir votre inscription. Si vous ne recevez pas d\'e-mails dans une minute ou deux, vérifiez votre dossier "Spam".',
-   welcome2: 'Veuillez fournir un nom d\'utilisateur Moot',
-   welcome: 'Bienvenue sur Moot',
+   welcome2: 'Veuillez fournir un nom d\'utilisateur Muut',
+   welcome: 'Bienvenue sur Muut',
    you: 'Vous',
 
    // times

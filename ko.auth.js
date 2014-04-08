@@ -18,7 +18,7 @@ var language = {
    forgot: '잃으셨나요?',
 
 
-   notify: '새로운 Moot 릴리스가 나오면 알려주세요',
+   notify: '새로운 Muut 릴리스가 나오면 알려주세요',
    auth_failed: '아이디 혹은 비밀번호가 잘못 입력됐습니다',
    invalid: '유효하지 않은 값입니다',
    terms: '<a>이용 약관</a>에 동의합니다.',

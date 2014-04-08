@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -74,7 +74,7 @@ moot.language = {
    bgcolor: 'Background color',
    brand_name: 'Brand name',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -91,7 +91,7 @@ moot.language = {
    anon: '명 익명',      // plural
 
    badforum: '유효하지 않은 포럼입니다',
-   c_acc1: '이제 Moot가 있는 곳이면 어디든지 계정이 통용됩니다',
+   c_acc1: '이제 Muut가 있는 곳이면 어디든지 계정이 통용됩니다',
    c_acc: '계정 승인되었습니다',
    c_email: '이메일 주소가 변정됐습니다',
    cancel: '취소하기',
@@ -122,7 +122,7 @@ moot.language = {
    help6: 'HTML 코드',
    in_forum: 'in',
    invalid: '유효하지 않은 값입니다',
-   join: 'Moot에 가입하기',
+   join: 'Muut에 가입하기',
    later: '나중에...',
    less: 'less',
    like: '좋아요!',
@@ -177,13 +177,13 @@ moot.language = {
    unver: '미확인',
    unwall: '전부 지켜보기 취소',
    unwatch: '지켜보기 취소',
-   upgrade2: 'Moot는 도메인간 통신을 위해 WebSockets 또는 CORS를 사용합니다. 오페라11과 인터넷 익스플로러7을 제외하고 모든 최신 브라우저에서 정상 작동합니다.',
+   upgrade2: 'Muut는 도메인간 통신을 위해 WebSockets 또는 CORS를 사용합니다. 오페라11과 인터넷 익스플로러7을 제외하고 모든 최신 브라우저에서 정상 작동합니다.',
    upgrade: '브라우저를 업그레이드하시기 바랍니다',
    username_taken: '사용중인 아이디입니다',
    watch: '새로 달리는 댓글 지켜보기',
    welcome1: '가입을 완료하기 위해 이메일을 확인해 보세요. 1-2분 내에 이메일을 받지 못하셨다면 스팸 폴더를 확인하시기 바랍니다.',
-   welcome2: 'Moot 아이디를 입력해 주세요',
-   welcome: 'Moot에 오신 것을 환영합니다',
+   welcome2: 'Muut 아이디를 입력해 주세요',
+   welcome: 'Muut에 오신 것을 환영합니다',
    you: '당신',
 
    // times

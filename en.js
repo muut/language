@@ -10,7 +10,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -21,7 +21,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -66,7 +66,7 @@ moot.language = {
    brand_name: 'Brand name',
    title: 'Title',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -92,7 +92,7 @@ moot.language = {
    anon: 'anonymous',      // plural
 
    badforum: 'Invalid forum',
-   c_acc1: 'Your account now works on all sites using Moot',
+   c_acc1: 'Your account now works on all sites using Muut',
    c_acc: 'Account confirmed',
    c_email: 'Email address updated',
    cancel: 'Cancel',
@@ -123,7 +123,7 @@ moot.language = {
    help6: 'HTML code',
    in_forum: 'in',
    invalid: 'Invalid value',
-   join: 'Join Moot',
+   join: 'Join Muut',
    later: 'Later...',
    less: 'less',
    like: 'Like',
@@ -179,13 +179,13 @@ moot.language = {
    unver: 'Unverified',
    unwall: 'unwatch all',
    unwatch: 'Unwatch',
-   upgrade2: 'Moot uses WebSockets or CORS for cross domain communication. All modern browsers above Opera 11 and IE7 work.',
+   upgrade2: 'Muut uses WebSockets or CORS for cross domain communication. All modern browsers above Opera 11 and IE7 work.',
    upgrade: 'Please upgrade your browser',
    username_taken: 'This username is taken',
    watch: 'Watch for new replies',
    welcome1: 'Please check your email to complete the registration. If you dont receive email within a minute or two, check your spam folder.',
-   welcome2: 'Please provide a Moot username',
-   welcome: 'Welcome to Moot',
+   welcome2: 'Please provide a Muut username',
+   welcome: 'Welcome to Muut',
    you: 'You',
 
    // times

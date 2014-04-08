@@ -15,7 +15,7 @@ var language = {
    forgot: 'Şifrenizi mi unuttunuz?',
 
 
-   notify: 'Moot gelişmelerinden beni haberdar et',
+   notify: 'Muut gelişmelerinden beni haberdar et',
    auth_failed: 'Hatalı kullanıcı adı veya şifre',
    invalid: 'Geçersiz bilgi',
    terms: '<a>Kullanım koşulları</a>nı kabul ediyorum.',

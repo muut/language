@@ -15,7 +15,7 @@ var language = {
    forgot: 'Nie pamiętasz?',
 
 
-   notify: 'Powiadom o nowych wydaniach Moot',
+   notify: 'Powiadom o nowych wydaniach Muut',
    auth_failed: 'Błędna nazwa użytkownika lub hasło',
    invalid: 'Nieprawidłowa wartość',
    terms: 'Zgadzam się na <a>warunki korzystania</a>.',

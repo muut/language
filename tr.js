@@ -12,7 +12,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -23,7 +23,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -74,7 +74,7 @@ moot.language = {
    bgcolor: 'Arka plan rengi',
    brand_name: 'Marka',
    css: 'CSS dosyası',
-   mootbrand: 'Moot markasını kullan',
+   mootbrand: 'Muut markasını kullan',
    sso: 'Tek şifre girişi',
    apikey: 'API anahtarı',
    apisecret: 'Gizli anahtar',
@@ -91,7 +91,7 @@ moot.language = {
    anon: 'ziyaretçi',      // plural
 
    badforum: 'Geçersiz forum',
-   c_acc1: 'Hesabınız artık Moot kullanan tüm sitelerde geçerlidir',
+   c_acc1: 'Hesabınız artık Muut kullanan tüm sitelerde geçerlidir',
    c_acc: 'Hesap onaylandı',
    c_email: 'Email adresi güncellendi',
    cancel: 'İptal',
@@ -122,7 +122,7 @@ moot.language = {
    help6: 'HTML kodu',
    in_forum: 'kategori',
    invalid: 'Geçersiz değer',
-   join: 'Moot\'a katılın',
+   join: 'Muut\'a katılın',
    later: 'Daha sonra...',
    less: 'daha az',
    like: 'Beğen',
@@ -177,13 +177,13 @@ moot.language = {
    unver: 'Onaylanamadı',
    unwall: 'tümü için takibi bırak',
    unwatch: 'Takibi bırak',
-   upgrade2: 'Moot karşılıklı alan adı iletişimi için WebSockets veya CORS kullanmaktadır. Opera 11 ve IE7 hariç tüm modern tarayıcılarda çalışmaktadır.',
+   upgrade2: 'Muut karşılıklı alan adı iletişimi için WebSockets veya CORS kullanmaktadır. Opera 11 ve IE7 hariç tüm modern tarayıcılarda çalışmaktadır.',
    upgrade: 'Lütfen tarayıcınızı güncelleyin',
    username_taken: 'Bu kullanıcı adı baþkası tarafından alınmış',
    watch: 'Bu moot\'u takip et',
    welcome1: 'Kaydı tamamlamak için lütfen email hesabınızı kontrol edin. Bir iki dakika içerisinde email gelmez ise spam kutusunu kontrol ediniz.',
-   welcome2: 'Lütfen Moot kullanıcı adını girin',
-   welcome: 'Moot\'a hoşgeldiniz',
+   welcome2: 'Lütfen Muut kullanıcı adını girin',
+   welcome: 'Muut\'a hoşgeldiniz',
    you: 'Siz',
 
    // times

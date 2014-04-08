@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -62,7 +62,7 @@ moot.language = {
    logo: 'Logo',
    bgcolor: 'Background color',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -88,7 +88,7 @@ moot.language = {
    anon: 'anônimos',      // plural
 
    badforum: 'Fórum inválido',
-   c_acc1: 'A sua conta agora funciona em todos os sites que usam o Moot',
+   c_acc1: 'A sua conta agora funciona em todos os sites que usam o Muut',
    c_acc: 'Conta validada',
    c_email: 'Email atualizado',
    cancel: 'Cancelar',
@@ -119,7 +119,7 @@ moot.language = {
    help6: 'Código HTML',
    in_forum: 'em',
    invalid: 'Valor incorrecto',
-   join: 'Inscrever-se no Moot',
+   join: 'Inscrever-se no Muut',
    later: 'Depois...',
    less: 'menos',
    like: 'Gostar',
@@ -175,13 +175,13 @@ moot.language = {
    unver: 'Não foi validada',
    unwall: 'não seguir tudo',
    unwatch: 'Não seguir',
-   upgrade2: 'Moot usa WebSockets ou CORS para comunicação cross domain. Funciona em todos os navegadores actuais, exceto Opera 11 e IE7.',
+   upgrade2: 'Muut usa WebSockets ou CORS para comunicação cross domain. Funciona em todos os navegadores actuais, exceto Opera 11 e IE7.',
    upgrade: 'Por favor atualize o seu navegador - F5',
    username_taken: 'Nome de utilizador já está registado',
    watch: 'Acompanhar este moot',
    welcome1: 'Por favor, verifique a sua conta de email para concluir o registro. Se não receber o email dentro de um ou dois minutos, verifique a caixa de spam.',
-   welcome2: 'Por favor escolha um nome de utilizador Moot',
-   welcome: 'Bem vindo(a) ao Moot',
+   welcome2: 'Por favor escolha um nome de utilizador Muut',
+   welcome: 'Bem vindo(a) ao Muut',
    you: 'Você',
 
    // times

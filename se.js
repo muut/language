@@ -11,7 +11,7 @@
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -69,7 +69,7 @@
    logo: 'Logotyp',
    bgcolor: 'Bakgrundsfärg',
    css: 'CSS-fil',
-   mootbrand: 'Använd Moot-branding',
+   mootbrand: 'Använd Muut-branding',
    sso: 'Single Sign-On',
    apikey: 'API-nyckel',
    apisecret: 'Hemlig nyckel',
@@ -90,7 +90,7 @@
    anon: 'anonyma',      // plural
 
    badforum: 'Felaktigt forum',
-   c_acc1: 'Ditt konto fungerar nu på alla sajter som använder Moot',
+   c_acc1: 'Ditt konto fungerar nu på alla sajter som använder Muut',
    c_acc: 'Kontot bekräftat',
    c_email: 'E-postadress uppdaterad',
    cancel: 'Avbryt',
@@ -121,7 +121,7 @@
    help6: 'HTML-kod',
    in_forum: 'i',
    invalid: 'Ogiltigt värde',
-   join: 'Skapa ett Moot-konto',
+   join: 'Skapa ett Muut-konto',
    later: 'Senare...',
    less: 'färre',
    like: 'Gilla',
@@ -176,13 +176,13 @@
    unver: 'Overifierad',
    unwall: 'Sluta prenumerera på alla',
    unwatch: 'Sluta prenumerera',
-   upgrade2: 'Moot använder WebSockets eller CORS för korsdomänskommunikation. Alla moderna webbläsare utom Opera 11 och IE7 fungerar.',
+   upgrade2: 'Muut använder WebSockets eller CORS för korsdomänskommunikation. Alla moderna webbläsare utom Opera 11 och IE7 fungerar.',
    upgrade: 'Var snäll och uppgradera din webbläsare',
    username_taken: 'Detta användarnamn är taget',
    watch: 'Prenumerera på nya svar',
    welcome1: 'Var snäll och kontrollera din e-post för att slutföra registreringen. Om du inte får e-post inom en minut eller två, kontrollera din spam-folder.',
-   welcome2: 'Ange ett Moot-användarnamn',
-   welcome: 'Välkommen till Moot',
+   welcome2: 'Ange ett Muut-användarnamn',
+   welcome: 'Välkommen till Muut',
    you: 'Du',
 
    // times

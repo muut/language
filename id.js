@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -63,7 +63,7 @@ moot.language = {
    bgcolor: 'Background color',
    brand_name: 'Brand name',
    css: 'CSS file',
-   mootbrand: 'Use Moot branding',
+   mootbrand: 'Use Muut branding',
    sso: 'Single Sign-On',
    apikey: 'API key',
    apisecret: 'Secret key',
@@ -86,7 +86,7 @@ moot.language = {
    all: 'Semua', // or alternatively: All
    anon: 'anonim',
    badforum: 'Forum tidak valid',
-   c_acc1: 'Akun Anda sekarang bisa digunakan pada semua situs yang menggunakan Moot',
+   c_acc1: 'Akun Anda sekarang bisa digunakan pada semua situs yang menggunakan Muut',
    c_acc: 'Akun terkonfirmasi',
    c_email: 'Alamat Email diperbarui',
    cancel: 'Batal',
@@ -117,7 +117,7 @@ moot.language = {
    help6: 'kode html',
    in_forum: 'dalam',
    invalid: 'Nilai tidak valid',
-   join: 'Gabung Moot',
+   join: 'Gabung Muut',
    later: 'Nanti...',
    less: 'kurang',
    like: 'suka',
@@ -173,13 +173,13 @@ moot.language = {
    unver: 'Tidak terverifikasi',
    unwall: 'tidak mengamati semua',
    unwatch: 'Tidak mengamati',
-   upgrade2: 'Moot menggunakan WebSockets atau CORS untuk komunikasi silang domain. Semua peramban modern telah mendukungnya kecuali Opera 11 dan IE7.',
+   upgrade2: 'Muut menggunakan WebSockets atau CORS untuk komunikasi silang domain. Semua peramban modern telah mendukungnya kecuali Opera 11 dan IE7.',
    upgrade: 'Silakan perbarui peramban anda',
    username_taken: 'nama pengguna ini sudah dipakai',
    watch: 'Amati perbincangan ini',
    welcome1: 'Silakan periksa email anda untuk menyelesaikan pendaftaran. Jika anda tidak menerima email dalam satu atau dua menit, periksa kotak spam anda.',
-   welcome2: 'Silakan masukkan nama pengguna untuk Moot',
-   welcome: 'Selamat Datang di Moot',
+   welcome2: 'Silakan masukkan nama pengguna untuk Muut',
+   welcome: 'Selamat Datang di Muut',
    you: 'Anda',
 
    // times

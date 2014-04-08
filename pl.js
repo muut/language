@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -76,7 +76,7 @@ moot.language = {
    bgcolor: 'Kolor tła',
    brand_name: 'Nazwa marki',
    css: 'Plik CSS',
-   mootbrand: 'Użyj omarkowania Moot',
+   mootbrand: 'Użyj omarkowania Muut',
    sso: 'Pojedyncze logowanie',
    apikey: 'Klucz API',
    apisecret: 'Sekretny klucz',
@@ -93,7 +93,7 @@ moot.language = {
    anon: 'anonimowi',      // plural
 
    badforum: 'Nieprawidłowe forum',
-   c_acc1: 'Możesz teraz korzystać ze swojego konta na wszystkich stronach Moot',
+   c_acc1: 'Możesz teraz korzystać ze swojego konta na wszystkich stronach Muut',
    c_acc: 'Konto zweryfikowane',
    c_email: 'Adres email zweryfikowany',
    cancel: 'Anuluj',
@@ -124,7 +124,7 @@ moot.language = {
    help6: 'kod HTML',
    in_forum: 'w',
    invalid: 'Nieprawidłowa wartość',
-   join: 'Dołącz do Moot',
+   join: 'Dołącz do Muut',
    later: 'Później...',
    less: 'mniej',
    like: 'Lubię',
@@ -179,14 +179,14 @@ moot.language = {
    unver: 'Niezweryfikowany',
    unwall: 'przestań śledzić wszystkie',
    unwatch: 'Przestań śledzić',
-   upgrade2: 'Moot używa WebSockets albo CORS do komunikacji między domenami. Wszystkie nowoczesne przeglądarki oprócz Opery 11 i IE7 będą działać.', //?
+   upgrade2: 'Muut używa WebSockets albo CORS do komunikacji między domenami. Wszystkie nowoczesne przeglądarki oprócz Opery 11 i IE7 będą działać.', //?
    upgrade: 'Proszę zainstalować nową wersję przeglądarki',
    username_taken: 'Ta nazwa użytkownika jest zajęta',
    watch: 'Śledź nowe odpowiedzi',
    welcome1: 'Sprawdź email aby dokończyć rejestrację. Jeśli nie otrzymałeś emaila w przeciągu kilku minut sprawdź folder spam.',
 
-   welcome2: 'Proszę podać nazwę użytkownika Moot',
-   welcome: 'Witaj w Moot',
+   welcome2: 'Proszę podać nazwę użytkownika Muut',
+   welcome: 'Witaj w Muut',
    you: 'Ty',
 
    // times

@@ -11,7 +11,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -22,7 +22,7 @@ moot.language = {
    designer: "Designer",
    developer: "Developer",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Make this forum private',
    sign: 'This forum must be <a>signed</a> first.',
 
@@ -69,7 +69,7 @@ moot.language = {
    logo: 'ロゴ',
    bgcolor: '背景色',
    css: 'CSSファイル',
-   mootbrand: 'Mootブランディングを使用',
+   mootbrand: 'Muutブランディングを使用',
    sso: 'シングルサインオン',
 
    bold: '太字',
@@ -88,7 +88,7 @@ moot.language = {
    anon: '匿名',      // plural
 
    badforum: 'フォーラムが正しくありません',
-   c_acc1: 'このアカウントはMootを使ったすべてのサイトでご利用いただけます',
+   c_acc1: 'このアカウントはMuutを使ったすべてのサイトでご利用いただけます',
    c_acc: 'アカウントを確認しました',
    c_email: 'メールアドレスを更新しました',
    cancel: 'キャンセル',
@@ -119,7 +119,7 @@ moot.language = {
    help6: 'HTMLコード',
    in_forum: 'in',
    invalid: '不正な文字が含まれています',
-   join: 'Mootユーザー登録',
+   join: 'Muutユーザー登録',
    later: '後で…',
    less: '隠す',
    like: 'いいね！',
@@ -139,7 +139,7 @@ moot.language = {
    noresults: '見つかりませんでした: ',
    nospam: 'スパムはありません',
    notexist: '見つかりませんでした',
-   notify: 'Mootの新着リリースを通知する',
+   notify: 'Muutの新着リリースを通知する',
    ok: 'OK',
    online: 'オンライン',
    post: '投稿',
@@ -174,13 +174,13 @@ moot.language = {
    unver: '未確認',
    unwall: 'すべてのウォッチを解除',
    unwatch: 'ウォッチ解除',
-   upgrade2: 'MootはWebSocketsかCORSをクロスドメイン通信に使用します。Opera 11とInternet Explorer 7以外の比較的新しいブラウザで動作します。',
+   upgrade2: 'MuutはWebSocketsかCORSをクロスドメイン通信に使用します。Opera 11とInternet Explorer 7以外の比較的新しいブラウザで動作します。',
    upgrade: 'ブラウザを更新してください',
    username_taken: 'このユーザー名は既に使用されています',
    watch: 'このムートをウォッチ',
    welcome1: 'メールを確認して、登録を完了してください。数分経ってもメールが届かない場合は、迷惑メールフォルダを確認してください。',
-   welcome2: 'Mootのユーザー名を入力してください',
-   welcome: 'Mootへようこそ',
+   welcome2: 'Muutのユーザー名を入力してください',
+   welcome: 'Muutへようこそ',
    you: 'あなた',
 
    // times

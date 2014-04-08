@@ -14,7 +14,7 @@ moot.language = {
    ban_msg: 'You are temporarily banned from posting on this forum.',
    days:    'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Moot',
+   slogan:  'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -25,7 +25,7 @@ moot.language = {
    designer: "Designer",
    developer: "Entwickler",
 
-   no_index: 'Disable indexing under moot.it',
+   no_index: 'Disable indexing under muut.com',
    mkpriv: 'Dieses Forum privat schalten',
    sign: 'Dieses Forum muss zuerst <a>signiert</a> werden.',
 
@@ -76,7 +76,7 @@ moot.language = {
    bgcolor: 'Hintergrundfarbe',
    brand_name: 'Brand Name',
    css: 'CSS Datei',
-   mootbrand: 'Benutze das Moot Markenzeichen',
+   mootbrand: 'Benutze das Muut Markenzeichen',
    sso: 'Single Sign-On',
    apikey: 'API Kennwort',
    apisecret: 'Geheimes Kennwort',
@@ -93,7 +93,7 @@ moot.language = {
    anon: 'anonyme',      // plural
 
    badforum: 'Forum nicht vorhanden',
-   c_acc1: 'Dein Konto ist jetzt für alle Moot Sites aktiv',
+   c_acc1: 'Dein Konto ist jetzt für alle Muut Sites aktiv',
    c_acc: 'Konto bestätigen',
    c_email: 'Email Addresse aktualisiert',
    cancel: 'Abbrechen',
@@ -125,7 +125,7 @@ moot.language = {
    help6: 'HTML Code',
    in_forum: 'in',
    invalid: 'Ungültiger Wert',
-   join: 'Join Moot',
+   join: 'Join Muut',
    later: 'Später...',
    less: 'weniger',
    like: 'Gefällt mir',
@@ -180,13 +180,13 @@ moot.language = {
    unver: 'Unbestätigt',
    unwall: 'Alle ungelesen',
    unwatch: 'Ungelesen',
-   upgrade2: 'Moot benutzt WebSockets oder CORS für domainübergreifende Kommunikation. Alle modernen Browser außer Opera 11 and IE7 funktionieren.',
+   upgrade2: 'Muut benutzt WebSockets oder CORS für domainübergreifende Kommunikation. Alle modernen Browser außer Opera 11 and IE7 funktionieren.',
    upgrade: 'Bitte aktualisiere Deinen Browser',
    username_taken: 'Dieser Benutzername wird bereits verwendet',
    watch: 'Diesem moot folgen',
    welcome1: 'Bitte checke Deine Mails um die Registrierung abzuschließen. Falls innerhalb von ein bis zwei Minuten keine Mail sichtbar ist, überprüfe Deine Spam-Ordner.',
-   welcome2: 'Bitte gib einen Moot Benutzernamen ein',
-   welcome: 'Willkommen bei Moot',
+   welcome2: 'Bitte gib einen Muut Benutzernamen ein',
+   welcome: 'Willkommen bei Muut',
    you: 'Du',
 
    // times
