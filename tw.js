@@ -5,6 +5,7 @@ moot.language = {
 
 
    /* New stuff */
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',

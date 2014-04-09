@@ -3,6 +3,7 @@ moot.language = {
    // the language code
    $code: 'en',
 
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',

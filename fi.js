@@ -2,6 +2,7 @@ moot.language = {
 
    $code: 'fi',
 
+   mods:    'Moderators',
    ban:     'Estä',
    banned:  'Estetty',
    ban_usr: 'Estetyt käyttäjät',

@@ -3,6 +3,7 @@
    // the language code
    $code: 'it',
 
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',

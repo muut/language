@@ -5,7 +5,8 @@ moot.language = {
    $code: 'hu',
 
    /* New stuff */
-   months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
+   months:  'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec',
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',

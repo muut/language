@@ -5,7 +5,8 @@ moot.language = {
 
   /* New stuff */
 
-  ban:     '禁止该用户发言',
+  mods:    'Moderators',
+   ban:     '禁止该用户发言',
   banned:  '已被禁言',
   ban_usr: '被禁用户',
   ban_acc: '该账户已被禁言',

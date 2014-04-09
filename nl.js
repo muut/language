@@ -4,6 +4,7 @@ moot.language = {
    $code: 'nl',
 
    /* New stuff */
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',

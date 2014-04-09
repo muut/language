@@ -6,6 +6,7 @@ moot.language = {
 
    // new stuff
    img_needed: "Please upload an image file",
+   mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
    ban_usr: 'Banned users',
