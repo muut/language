@@ -136,7 +136,7 @@ moot.language = {
    ok: 'ok',
    online: 'Online',
    post: 'Post',
-   preview: 'Forhåndsvis',
+   preview: 'Forhåndsvisning',
    progress: ['laster…', 'laster fortsatt…', 'litt til…' , 'gir opp'],
    reconnect: 'kobler til på nytt…',
    removecat: 'Slett. Innegget slettes ikke.',
