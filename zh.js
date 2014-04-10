@@ -5,8 +5,8 @@ moot.language = {
 
   /* New stuff */
 
-  mods:    'Moderators',
-   ban:     '禁止该用户发言',
+  mods:    '仲裁人', // 版主不确切
+  ban:     '禁止该用户发言',
   banned:  '已被禁言',
   ban_usr: '被禁用户',
   ban_acc: '该账户已被禁言',
@@ -25,7 +25,7 @@ moot.language = {
   designer: "深度设计",
   developer: "高级开发",
 
-  no_index: '禁止搜索引擎在 moot.it 域名下索引论坛内容',
+  no_index: '禁止搜索引擎在 muut.com 域名下索引论坛内容',
   mkpriv: '将论坛设为私有',
   sign: '论坛必须先用私钥<a>签名</a>',
 
@@ -157,7 +157,7 @@ moot.language = {
   select: '选择类别',
   setup: '马上创建论坛',
   showing: '当前搜索', // Showing search results (instead) for
-    spam: '垃圾',
+  spam: '垃圾',
   step1: '我们已发出一封确认信，收到后您须按指示完成这一步才能更新您的邮箱地址',
   step: '还有一步',
   terms: '我同意<a>服务条款</a>',
