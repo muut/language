@@ -4,6 +4,8 @@ moot.language = {
    $code: 'id',
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -109,8 +111,6 @@ moot.language = {
 
    feed: 'Pribadi', // alternatives: My own, personal
 
-   forumname: 'Nama Forum',
-   forums: 'Forum',
 
    help2: 'pos',
    help3: 'teks kutipan',

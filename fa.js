@@ -6,6 +6,8 @@ moot.language = {
 
    // new stuff
    img_needed: "Please upload an image file",
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -119,8 +121,6 @@ moot.language = {
 
    feed: 'سرلیست های من', // alternatives: My own, personal
 
-   forumname: 'نام مبحث',
-   forums: 'مباحث',
 
    help2: 'ارسال',
    help3: 'نقل قول',

@@ -4,6 +4,8 @@ moot.language = {
    $code: 'ko',
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -114,8 +116,6 @@ moot.language = {
 
    feed: '구독중인 피드', // alternatives: My own, personal
 
-   forumname: '포럼 이름',
-   forums: '포럼',
 
    help2: '글 남기기',
    help3: '인용 문구',

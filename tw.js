@@ -5,6 +5,8 @@ moot.language = {
 
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -111,8 +113,6 @@ moot.language = {
 
    feed: '我的發文', // alternatives: My own, personal
 
-   forumname: '論壇名稱',
-   forums: '論壇',
 
    help2: '發文',
    help3: '引用文字',

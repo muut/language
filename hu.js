@@ -6,6 +6,8 @@ moot.language = {
 
    /* New stuff */
    months:  'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec',
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -116,8 +118,6 @@ moot.language = {
 
    feed: 'Saját', // alternatives: My own, personal
 
-   forumname: 'Fórum név',
-   forums: 'Fórumok',
 
    help2: 'bejegyzés',
    help3: 'idézett szöveg',

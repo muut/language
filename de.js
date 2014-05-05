@@ -7,6 +7,8 @@ moot.language = {
    /* New stuff */
    img_needed: "Please upload an image file",
 
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -117,8 +119,6 @@ moot.language = {
 
    feed: 'Mein Feed', // alternatives: My own, personal
 
-   forumname: 'Forenname',
-   forums: 'Foren',
 
    help2: 'Veröffentlichen',
    help3: 'Zitat',

@@ -7,6 +7,8 @@ moot.language = {
 
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -115,8 +117,6 @@ moot.language = {
 
    feed: 'ما يتعلق بي', // alternatives: تغذيتي الخاصة, مواضيع مشترك بها
 
-   forumname: 'اسم المنتدى',
-   forums: 'المنتديات',
 
    help2: 'المشاركة',
    help3: 'النص المقتبس',

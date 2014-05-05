@@ -3,6 +3,8 @@
    // the language code
    $code: 'it',
 
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -115,8 +117,6 @@
 
    feed: 'Le mie attività', // alternatives: Attività personale
 
-   forumname: 'Nome del forum',
-   forums: 'Forum',
 
    help2: 'messaggio',
    help3: 'quota',

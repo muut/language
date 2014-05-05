@@ -4,6 +4,8 @@
    $code: 'se',
 
    // new stuff
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -113,8 +115,6 @@
 
    feed: 'Mitt flöde', // alternatives: My own, personal
 
-   forumname: 'Forumnamn',
-   forums: 'Forum',
 
    help2: 'postar',
    help3: 'citat',

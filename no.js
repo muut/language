@@ -103,8 +103,6 @@ moot.language = {
 
    feed: 'Mine innlegg ', // alternatives: My own, personal
 
-   forumname: 'Forumnavn',
-   forums: 'Forum',
 
    help2: 'poster',
    help3: 'sitat',

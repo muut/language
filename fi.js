@@ -2,7 +2,9 @@ moot.language = {
 
    $code: 'fi',
 
-   mods:    'Moderators',
+   channels: 'Kanavat',
+   ch_name: 'Kanavan nimi',
+   mods:    'Moderaattorit',
    ban:     'Estä',
    banned:  'Estetty',
    ban_usr: 'Estetyt käyttäjät',
@@ -100,8 +102,6 @@ moot.language = {
    expired1: 'Lähetimme sinulle juuri mailitse uuden',
    expired: 'Vanhentunut vahvistuskoodi',
    feed: 'Omat',
-   forumname: 'Foorumin nimi',
-   forums: 'Foorumit',
 
    help2: 'lähetä',
    help3: 'lainaus',

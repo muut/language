@@ -5,6 +5,8 @@ moot.language = {
 
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Moderators',
    ban:     'Ban user',
    banned:  'Banned',
@@ -112,8 +114,6 @@ moot.language = {
 
    feed: 'Новини', // alternatives: My own, personal
 
-   forumname: 'Име на форума',
-   forums: 'Форуми',
 
    help2: 'статия',
    help3: 'цитиран',

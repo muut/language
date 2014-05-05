@@ -3,15 +3,17 @@ moot.language = {
    // the language code
    $code: 'en',
 
-   mods:    'Moderators',
-   ban:     'Ban user',
-   banned:  'Banned',
+   channels: 'Channels',
+   ch_name: 'Channel name',
+   mods: 'Moderators',
+   ban: 'Ban user',
+   banned: 'Banned',
    ban_usr: 'Banned users',
    ban_acc: 'Banned account',
    ban_msg: 'You are temporarily banned from posting on this forum.',
-   days:    'Days',
+   days: 'Days',
    forever: 'Forever',
-   slogan:  'Free forums and commenting by Muut',
+   slogan: 'Free forums and commenting by Muut',
 
    add: '+ Add',
    addons: 'Add-ons',
@@ -115,8 +117,6 @@ moot.language = {
 
    feed: 'My feed', // alternatives: My own, personal
 
-   forumname: 'Forum name',
-   forums: 'Forums',
 
    help2: 'post',
    help3: 'quoted',

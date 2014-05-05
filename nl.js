@@ -4,6 +4,8 @@ moot.language = {
    $code: 'nl',
 
    /* New stuff */
+   channels: 'Channels',
+   ch_name: 'Channel name',
    mods:    'Beheerders',
    ban:     'Ban gebruiker',
    banned:  'Verbannen',
@@ -112,8 +114,6 @@ moot.language = {
 
    feed: 'Mijn feed', // alternatives: My own, personal
 
-   forumname: 'Forum naam',
-   forums: 'Forums',
 
    help2: 'bericht',
    help3: 'geciteerd bericht',

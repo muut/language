@@ -5,7 +5,9 @@ moot.language = {
 
   /* New stuff */
 
-  mods:    '仲裁人', // 版主不确切
+  channels: 'Channels',
+   ch_name: 'Channel name',
+   mods:    '仲裁人', // 版主不确切
   ban:     '禁止该用户发言',
   banned:  '已被禁言',
   ban_usr: '被禁用户',
@@ -111,8 +113,6 @@ moot.language = {
 
   feed: '关注中', // same as watching/following
 
-  forumname: '论坛名称',
-  forums: '论坛',
 
   help2: '发表',
   help3: '引用内容',
