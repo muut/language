@@ -36,8 +36,8 @@ var language = {
 
 
    reset: 'Restablecer la contraseña',
-   resetbtn: 'Enviar instrurcciones',
-   sent: 'Hemos enviado instrucciones para restablecer la contraseña a tu dirección de email.',
+   resetbtn: 'Enviar instrucciones',
+   sent: 'Hemos enviado instrucciones para reestablecer la contraseña a tu dirección de email.',
    sent1: 'Si no recibes un email en un minuto o dos, revisa tu carpeta de spam.',
    notfound: 'No se pudo encontrar este usuario',
    invalidpw: 'Contraseña inválida',
