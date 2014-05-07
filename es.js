@@ -39,7 +39,7 @@ moot.language = {
    ban_msg: 'Estás temporalmente expulsado de este foro por violar las políticas del foro. Tiempo restante:',
    banned4: 'Ya no puedes publicar en este foro.',
    warning: 'Atención',
-   profanity: 'No están permitidas las palabrotas en este foro. El abuso continuado de está política provocará la expulsión.',
+   profanity: 'No están permitidas los insultos en este foro. El abuso continuado de está política provocará su expulsión.',
 
    img_needed: "Por favor sube una imagen",
    max: 'El tamaño máximo de imagen es 4MB',
@@ -115,7 +115,7 @@ moot.language = {
    expired1: 'Hemos enviado uno nuevo. Por favor revisa tu email.',
    expired: 'Este enlace ha expirado',
 
-   feed: 'Mis novedades', // alternatives: My own, personal
+   feed: 'Personal', // alternatives: My own, personal
 
 
    help2: 'enviar',
