@@ -90,7 +90,7 @@ moot.language = {
 
    /* End new stuff */
    username_fail: 'Usar letras, números o guiones',
-   all: 'Todas las entradas', // or alternatively: All
+   all: 'Todo', // or alternatively: All
    anon_1: 'anónimo',
    anon: 'anónimos',
    badforum: 'Foro no válido',
