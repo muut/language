@@ -86,7 +86,7 @@ moot.language = {
    mootbrand: 'Usa branding de Muut',
    sso: 'Single Sign-On',
    apikey: 'Clave de API',
-   apisecret: 'Clave secreto',
+   apisecret: 'Clave secreta',
 
    /* End new stuff */
    username_fail: 'Usar letras, números o guiones',
@@ -115,7 +115,7 @@ moot.language = {
    expired1: 'Hemos enviado uno nuevo. Por favor revisa tu email.',
    expired: 'Este enlace ha expirado',
 
-   feed: 'Mis novedades', // alternatives: My own, personal
+   feed: 'Propios', // alternatives: My own, personal
 
 
    help2: 'enviar',
@@ -128,7 +128,7 @@ moot.language = {
    later: 'Más tarde...',
    less: 'menos',
    like: 'Me gusta',
-   likepost: 'Me gusta esta entrada',
+   likepost: 'Me gusta ésta entrada',
    loading: 'Cargando...',
    login: 'Iniciar sesión',
    login1: 'Primero iniciar sesión',
@@ -148,7 +148,7 @@ moot.language = {
    ok: 'ok',
    online: 'Online',
    post: 'Enviar',
-   preview: 'Preview',
+   preview: 'Previo',
    progress: ['cargando...', 'todavía trabajando...', 'y trabajando...', 'abandonando'],
    reconnect: 'Reconectando...',
    removecat: 'Eliminar. No se eliminarán las entradas',
