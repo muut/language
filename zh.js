@@ -5,17 +5,17 @@ moot.language = {
 
   /* New stuff */
 
-  channels: 'Channels',
-   ch_name: 'Channel name',
-   mods:    '仲裁人', // 版主不确切
-  ban:     '禁止该用户发言',
-  banned:  '已被禁言',
-  ban_usr: '被禁用户',
-  ban_acc: '该账户已被禁言',
-  ban_msg: '你暂时被禁止在该论坛发言',
-  days:    '天',
-  forever: '永久',
-  slogan:  'Muut 免费论坛与评论',
+  channels: '频道',
+  ch_name:  '频道名称',
+  mods:     '仲裁人', // 版主不确切
+  ban:      '禁止该用户发言',
+  banned:   '已被禁言',
+  ban_usr:  '被禁用户',
+  ban_acc:  '该账户已被禁言',
+  ban_msg:  '你暂时被禁止在该论坛发言',
+  days:     '天',
+  forever:  '永久',
+  slogan:   'Muut 免费论坛与评论',
 
   add: '+ 添加',
   addons: '附加组件',
