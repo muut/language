@@ -1,6 +1,8 @@
 moot.language = {
-
+   
+   
    // the language code
+   <script src="//cdn.moot.it/1/moot.zh.min.js"></script>
    $code: 'en',
 
    channels: 'Channels',
