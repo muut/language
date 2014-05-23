@@ -4,7 +4,6 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
-
   channels: '频道',
   ch_name:  '频道名称',
   mods:     '仲裁人', // 版主不确切
@@ -26,17 +25,6 @@ moot.language = {
   no_title: "标题必填",
   designer: "深度设计",
   developer: "高级开发",
-
-  no_index: '禁止搜索引擎在 muut.com 域名下索引论坛内容',
-  mkpriv: '将论坛设为私有',
-  sign: '论坛必须先用私钥<a>签名</a>',
-
-  s3: '自定义 S3 bucket',
-  s3_tip: '将网页搜索结果导向自定义域名，同时备份您的数据',
-  s3_tip2: '请给予 <em>moot-aws@moot.it</em> 全部存取权限',
-  s3_no_access: "moot-aws@moot.it 无法访问此 bucket",
-  s3_missing: "此 bucket 不存在",
-
   max: '图片大小上限为 4 MB',
   yes: '好的',
   upload: '上传图片',
@@ -52,12 +40,7 @@ moot.language = {
   bold: '粗体',
   italics: '斜体',
   monospaced: '等宽体',
-  domain: '论坛网址',
-  domaintip: '在搜索得到的静态论坛页面中，用户将由此网址进入动态论坛',
   learn: '进一步了解……',
-  ga: 'Google Analytics 识别号',
-  admins: '管理员组',
-  adminstip: '每行一个用户名',
   settings: '设置',
   error: '出故障了……请备份当前帖子内容，然后刷新页面，再试一次。很抱歉，我们会解决这个问题！',
   body: '正文',
@@ -71,17 +54,10 @@ moot.language = {
   title: '标题',
   link: 'URL',
   avatar: '更改头像',
-  seo_update: '用于搜索优化的静态页面将在一小时内更新',
   upgrade_link: '升级',
   branding: '品牌定制',
   logo: '标志',
-  bgcolor: '背景颜色',
-  brand_name: '品牌名称',
   css: 'CSS 文件',
-  mootbrand: '使用默认 Muut 风格',
-  sso: '单点登录',
-  apikey: 'API 公钥',
-  apisecret: '私钥',
   /* End new stuff */
 
 
@@ -135,7 +111,6 @@ moot.language = {
   mean: '您是指',
   name: '显示名',
   nametip: '建议用真名，好让朋友们认出你',
-  newcat: '新类别',
   newpass: '新密码',
   noresults: '找不到',
   nospam: '您的论坛没有垃圾！',
@@ -147,7 +122,6 @@ moot.language = {
   preview: '预览',
   progress: ['加载中……', '仍在努力……', '继续努力……', '放弃'],
   reconnect: '重新连接中……',
-  removecat: '删除（其中帖子不会被删除）',
   removepost: '删除',
   reply: '回复……',
   replybtn: '回复',
