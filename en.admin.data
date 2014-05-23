@@ -1,0 +1,100 @@
+accept: Accept
+access_control: Access control
+add: Add
+add_url: Add URL
+api_key: API key
+auto_spam_filter: Automatic spam filtering
+auto_spam_filter_tip: Automatic spam filtering and some more to come
+banned: Banned
+brand_color: Brand color
+brand_color_tip: Brand color and some more to come
+brand_name: Brand name
+brand_name_tip: Brand name and some more to come
+cancel: Cancel
+channel_name: Channel name
+channels: Channels
+designer_needed: Designer upgrade needed
+designer_upgrade: Upgrade to Designer
+developer_needed: Developer upgrade needed
+developer_upgrade: Upgrade to Developer
+disable: Disable
+disable_under: Disable under
+disabled: Disabled
+domain_name: Domain name
+domain_name_tip: Domain name and some more to come domain name and some more to come domain name and some more to come
+enable: Enable
+events: Events
+facebook_thumbnail: Facebook thumbnail
+facebook_thumbnail_tip: Facebook thumbnail and some more to come
+forum_url: Forum URL
+forum_url_tip: Where users are pushed from the search results and some more to come
+from_address: From address
+from_address_tip: From address and some more to come
+from_name: From name
+from_name_tip: From name and some more to come
+general: General
+google_analytics_id: Google Analytics Id
+google_analytics_tip: Google Analytics Id and some more to come
+help_accepted_users: Only accepted users can access the community
+help_banned_users: Posting, liking and replying is disabled
+help_channels: Your forum discussion areas. Single word titles are the best.
+help_moderators: Ability to change settings, remove posts and ban users
+help_signed: Allow embedding with API key only
+help_webhooks: Webhooks allow external services to be notified when certain events happen on Muut. When the specified events happen, we'll send a POST request in JSON format to each of the URLs you provide.
+hide: Hide
+hide_channel: Hide channel "{title}"?
+hide_channel_help: No data is removed.
+invalid_value: Invalid field value
+indexing: Indexing
+indexing_tip: Indexing and some more to come
+integrations: Integrations
+language: Language
+language_tip: Language and some more to come
+make_private: Make private
+make_private_desc: All users will need to request for access
+make_private_title: Switch to user access list forums?
+make_public: Make public
+make_public_desc: Everyone can access the community. User access settings will be remembered.
+make_public_title: Make this community public?
+moderators: Moderators
+name: Name
+not_banned: Allow posting for {name}?
+not_moderator: Remove moderator rights from {name}?
+notification_emails: Notification emails
+password: Password
+password_protected: Password protected
+reject: Reject
+remove_hook: Remove webhook
+remove_webhook: Remove webhook "{name}"?
+reply_to_address: Reply-to address
+reply_to_address_tip: Reply to address and some more to come
+s3_bucket: Custom S3 bucket
+s3_bucket_tip: For backup and custom domain name and some more to come
+s3_missing: This bucket does not exist
+s3_no_access: moot-aws@moot.it cannot access this bucket
+save: Save
+saved: Saved!
+secret: Secret
+secret: Secret
+secret_key: Secret key
+seo: Search engine optimization
+settings: Settings
+sharing: Sharing
+sharing_buttons: Sharing buttons
+sharing_buttons_tip: Sharing buttons and some more to come
+sharing_tip: Sharing and some more to come
+signed: Secure embedding
+signed_tip: Allow embedding with API key only...
+twitter_handle: Twitter handle
+twitter_handle_tip: Twitter handle and some more to come
+upload_banner: Upload banner
+upload_banner_help: The banner image must be foobaz and barrriel
+upload_logo: Upload logo
+user_access: User access
+username: Username
+users: Users
+webhook_events_tip: The events you are interested of
+webhook_name_tip: The webhook name
+webhook_secret_tip: The header is balkjalsfdkfj
+webhook_url_tip: The location where envets are pushed
+webhooks: Webhooks
