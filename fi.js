@@ -174,15 +174,11 @@ moot.language = {
    you: 'Sinä',
 
    // times
-   days: 'pv',
-   hour: 'tunti sitten',
-   hours: 'h',
-   minute: 'minuutti sitten',
-   minutes: 'min',
    now: 'nyt',
    months: "tammi,helmi,maalist,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu",
-   week: 'viikko sitten',
-   weeks: 'vk',
-   yesterday: 'eilen'
+   min: 'm',
+   hour: 'h',
+   day: 'pv',
+   week: 'vk'
 
 }

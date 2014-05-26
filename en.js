@@ -158,7 +158,7 @@ moot.language = {
    save: 'Save changes',
    saved: 'saved',
    search: 'Search',
-   select: 'Select forum',
+   select: 'Select channel',
    setup: 'Setup now',
    showing: 'Showing',
 

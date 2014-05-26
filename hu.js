@@ -190,22 +190,11 @@ moot.language = {
    welcome2: 'Kérünk, adj meg egy Muut felhasználónevet!',
    welcome: 'Üdvözlünk a Muut oldalán',
    you: 'Te',
-
-   // times
-   days: 'napja',
-   hour: 'órája',
-   hours: 'órája',
-   minute: 'perce',
-   minutes: 'perce',
-   now: 'épp most',
-
-   week: 'hete',
-   weeks: 'hete',
-   yesterday: 'Tegnap',
-
    inpage: 'Itt:',
    anon_1: 'vendég', // singular
 
+   // times
+   now: 'épp most',
    months: 'Jan,Feb,Már,Ápr,Máj,Jún,Júl,Aug,Szep,Okt,Nov,Dec',
    min: 'p',
    hour: 'ó',
