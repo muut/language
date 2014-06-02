@@ -4,12 +4,12 @@ add: Add
 add_url: Add URL
 api_key: API key
 auto_spam_filter: Automatic spam filtering
-auto_spam_filter_tip: Automatic spam filtering and some more to come
+auto_spam_filter_tip: Posts are automatically filtered for spam by Akismet. Check to disable.
 banned: Banned
 brand_color: Brand color
-brand_color_tip: Brand color and some more to come
+brand_color_tip: Brand color appears on the hosted forum header, email headers, and authorisation dialogues.
 brand_name: Brand name
-brand_name_tip: Brand name and some more to come
+brand_name_tip: Brand name appears on notification emails and hosted forums headers if no logo is uploaded.
 cancel: Cancel
 channel_name: Channel name
 channels: Channels
@@ -21,42 +21,43 @@ disable: Disable
 disable_under: Disable under
 disabled: Disabled
 domain_name: Domain name
-domain_name_tip: Domain name and some more to come domain name and some more to come domain name and some more to come
+domain_name_tip: This is the domain under which your hosted forums are.
 enable: Enable
 events: Events
 facebook_thumbnail: Facebook thumbnail
-facebook_thumbnail_tip: Facebook thumbnail and some more to come
+facebook_thumbnail_tip: The picture that is shown when a user shares a thread on Facebook.
 forum_url: Forum URL
-forum_url_tip: Where users are pushed from the search results and some more to come
+forum_url_tip: Where users are pushed from search engines’ result listings.
 from_address: From address
-from_address_tip: From address and some more to come
+from_address_tip: The email address from which notification emails appear to be sent from.
 from_name: From name
-from_name_tip: From name and some more to come
+from_name_tip: The sender name from whom the notification emails appear to be sent from.
 general: General
-google_analytics_id: Google Analytics Id
-google_analytics_tip: Google Analytics Id and some more to come
-help_accepted_users: Only accepted users can access the community
-help_banned_users: Posting, liking and replying is disabled
+google_analytics_id: Google Analytics ID
+google_analytics_tip: Your Google Analytics account ID.
+help_accepted_users: Only accepted users can access the community (view, post, reply, or like posts).
+help_banned_users: Posting, liking and replying is disabled for these users.
 help_channels: Your forum discussion areas. Single word titles are the best.
-help_moderators: Ability to change settings, remove posts and ban users
-help_signed: Allow embedding with API key only
+help_moderators: Ability to change settings, remove posts, and ban users.
+help_signed: Allow embedding with API key only.
 help_webhooks: Webhooks allow external services to be notified when certain events happen on Muut. When the specified events happen, we'll send a POST request in JSON format to each of the URLs you provide.
 hide: Hide
 hide_channel: Hide channel "{title}"?
-hide_channel_help: No data is removed.
-invalid_value: Invalid field value
+hide_channel_help: Channel is hidden from the forum navigation. No data is removed. Threads will still appear in My feed for users who participated in them.
 indexing: Indexing
-indexing_tip: Indexing and some more to come
+indexing_tip: You can disable indexing to prevent your discussions from appearing in search engines’ results.
 integrations: Integrations
+invalid_value: Invalid field value
 language: Language
-language_tip: Language and some more to come
+language_tip: Select the language of your forum.
 make_private: Make private
-make_private_desc: All users will need to request for access
+make_private_desc: All users will need to request for access to view, post, reply, or like posts on your forum.
 make_private_title: Switch to user access list forums?
 make_public: Make public
-make_public_desc: Everyone can access the community. User access settings will be remembered.
+make_public_desc: Everyone can access the community. The access settings will be remembered.
 make_public_title: Make this community public?
 moderators: Moderators
+more_info: More info
 name: Name
 not_banned: Allow posting for {name}?
 not_moderator: Remove moderator rights from {name}?
@@ -67,9 +68,9 @@ reject: Reject
 remove_hook: Remove webhook
 remove_webhook: Remove webhook "{name}"?
 reply_to_address: Reply-to address
-reply_to_address_tip: Reply to address and some more to come
+reply_to_address_tip: The email address where users’ replies to notifications are sent.
 s3_bucket: Custom S3 bucket
-s3_bucket_tip: For backup and custom domain name and some more to come
+s3_bucket_tip: The S3 bucket the discussions are stored into so the search engines crawl the content under your own domain. Also good for backups
 s3_missing: This bucket does not exist
 s3_no_access: moot-aws@moot.it cannot access this bucket
 save: Save
@@ -81,20 +82,20 @@ seo: Search engine optimization
 settings: Settings
 sharing: Sharing
 sharing_buttons: Sharing buttons
-sharing_buttons_tip: Sharing buttons and some more to come
-sharing_tip: Sharing and some more to come
+sharing_buttons_tip: Disable Facebook and Twitter share buttons.
 signed: Secure embedding
 signed_tip: Allow embedding with API key only...
 twitter_handle: Twitter handle
-twitter_handle_tip: Twitter handle and some more to come
+twitter_handle_tip: When someone shares a discussion on Twitter, the tweet will have “via @twitterhandle” at the end.
 upload_banner: Upload banner
-upload_banner_help: The banner image must be foobaz and barrriel
+upload_banner_help: The banner image for your forum. Optimal image size is 720x200.
+upload_image: Upload image
 upload_logo: Upload logo
 user_access: User access
 username: Username
 users: Users
-webhook_events_tip: The events you are interested of
+webhook_events_tip: The events you want this webhook to fire notifications.
 webhook_name_tip: The webhook name
-webhook_secret_tip: The header is balkjalsfdkfj
-webhook_url_tip: The location where envets are pushed
+webhook_secret_tip: A secret key for your webhook; you can use any random string of characters and numbers.
+webhook_url_tip: The location the event notifications are pushed to.
 webhooks: Webhooks
