@@ -1,0 +1,100 @@
+accept: 接受
+access_control: 访问控制
+add: 添加
+add_url: 添加 URL
+api_key: API 公钥
+auto_spam_filter: 自动垃圾过滤
+auto_spam_filter_tip: 垃圾内容将自动被 Akismet 系统过滤； 打勾禁用此功能
+banned: 被禁用户
+brand_color: 品牌主色
+brand_color_tip: 品牌主色将出现在论坛与邮件的标题位置以及用户认证界面中
+brand_name: 品牌名称
+brand_name_tip: 若未上传品牌标志，论坛与邮件的标题位置则显示此品牌名称字样
+cancel: 取消
+channel_name: 频道名称
+channels: 频道
+designer_needed: 须升级至深度设计
+designer_upgrade: 升级到深度设计
+developer_needed: 须升级至高级开发
+developer_upgrade: 升级到高级开发
+disable: 禁用
+disable_under: 不在 Muut 域名下索引内容
+disabled: 已禁用
+domain_name: 域名
+domain_name_tip: Muut 在此域名下代管您的论坛
+enable: 启用
+events: 事件
+facebook_thumbnail: Facebook 缩略图
+facebook_thumbnail_tip: 分享论坛内容至 Facebook 时附带这张图片
+forum_url: 论坛 URL
+forum_url_tip: Where users are pushed from search engines’ result listings.
+from_address: 发信人地址
+from_address_tip: 论坛通知邮件上显示的发信人地址
+from_name: 发信人名字
+from_name_tip: 论坛通知邮件上显示的发信人名字
+general: 全局
+google_analytics_id: Google Analytics 识别号
+google_analytics_tip: 您的 Google Analytics 跟踪识别号 (tracking ID)
+help_accepted_users: 仅被接受用户有权访问论坛，包括查看、发表等
+help_banned_users: 以下用户已无法发布或喜欢任何内容
+help_channels: 论坛内容分类
+help_moderators: 以下用户有权删除内容、禁止用户、更改设置
+help_signed: 必须使用私钥才能嵌入论坛
+help_webhooks: Webhooks 能将指定的 Muut 事件通报给其他服务； 某一特定事件发生后，我们将向您提供的第三方 URL 发出一则 JASON 格式的 HTTP POST 请求
+hide: 隐藏
+hide_channel: 隐藏频道“{title}”？
+hide_channel_help: 此频道将不再显示于论坛右侧频道列表中，但频道中的数据不受影响；您正在关注/参与的话题依然能在“关注中”板块里找到
+indexing: 内容索引
+indexing_tip: 禁用索引后论坛内容将不会被搜索引擎获取
+integrations: 整合
+invalid_value: 无效值
+language: 语言
+language_tip: 选择论坛界面语言
+make_private: 设为私有
+make_private_desc: 用户须申请且经准许后才能访问论坛，包括查看、发布以及喜欢论坛内容
+make_private_title: 启用用户访问控制？
+make_public: 设为公开
+make_public_desc: 任何人都将能访问此论坛；当然之前设置的用户访问控制并不会丢失
+make_public_title: 公开此论坛？
+moderators: 管理员组
+more_info: 更多信息
+name: 名称
+not_banned: 允许 {name} 发帖？
+not_moderator: 取消 {name} 管理员权限？
+notification_emails: 通知邮件
+password: 密码
+password_protected: 已受密码保护
+reject: 拒绝
+remove_hook: 删除 Webhook
+remove_webhook: 删除 Webhook "{name}"?
+reply_to_address: 回复地址
+reply_to_address_tip: 用户回复邮件的目标地址
+s3_bucket: 自定义 S3 Bucket
+s3_bucket_tip: 指定个人 S3 Bucket 来贮存静态论坛内容，从而让搜索引擎在你拥有的域名下发现并获取内容；同时也起到数据备份的作用
+s3_missing: 找不到 S3 Bucket
+s3_no_access: moot-aws@moot.it 无法访问此 S3 Bucket
+save: 保存
+saved: 保存完毕
+secret: 机密
+secret_key: 私钥
+seo: 搜索引擎优化
+settings: 设置
+sharing: 分享
+sharing_buttons: 分享按钮
+sharing_buttons_tip: 禁用 Facebook 与 Twitter 分享按钮
+signed: 安全嵌入
+signed_tip: 禁止第三方在别处嵌入你的论坛
+twitter_handle: Twitter 用户名
+twitter_handle_tip: 将论坛内容分享至 Twitter 时在末尾附加 "via @username"
+upload_banner: 上传横幅
+upload_banner_help: 置于论坛顶端的品牌横幅；最佳像素尺寸为 720 x 200
+upload_image: 上传图片
+upload_logo: 上传标志
+user_access: 访问权限
+username: 用户名
+users: 用户
+webhook_events_tip: 被勾选的事件将会由此 Webhook 向相应服务作通报
+webhook_name_tip: Webhook 名称
+webhook_secret_tip: 用于对发送的消息作签名认证
+webhook_url_tip: 事件通报的目标地址
+webhooks: Webhooks
