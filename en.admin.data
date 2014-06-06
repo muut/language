@@ -39,7 +39,7 @@ help_accepted_users: Only accepted users can access the community (view, post, r
 help_banned_users: Posting, liking and replying is disabled for these users.
 help_channels: Your forum discussion areas. Single word titles are the best.
 help_moderators: Ability to change settings, remove posts, and ban users.
-help_signed: Allow embedding with API key only.
+help_signed: Allow embedding with the secret key only.
 help_webhooks: Webhooks allow external services to be notified when certain events happen on Muut. When the specified events happen, we'll send a POST request in JSON format to each of the URLs you provide.
 hide: Hide
 hide_channel: Hide channel "{title}"?
@@ -76,7 +76,6 @@ s3_no_access: moot-aws@moot.it cannot access this bucket
 save: Save
 saved: Saved!
 secret: Secret
-secret: Secret
 secret_key: Secret key
 seo: Search engine optimization
 settings: Settings
@@ -84,7 +83,7 @@ sharing: Sharing
 sharing_buttons: Sharing buttons
 sharing_buttons_tip: Disable Facebook and Twitter share buttons.
 signed: Secure embedding
-signed_tip: Allow embedding with API key only...
+signed_tip: Prohibits 3rd parties to embed these forums elsewhere
 twitter_handle: Twitter handle
 twitter_handle_tip: When someone shares a discussion on Twitter, the tweet will have “via @twitterhandle” at the end.
 upload_banner: Upload banner
@@ -96,6 +95,6 @@ username: Username
 users: Users
 webhook_events_tip: The events you want this webhook to fire notifications.
 webhook_name_tip: The webhook name
-webhook_secret_tip: A secret key for your webhook; you can use any random string of characters and numbers.
+webhook_secret_tip: When provided the messages are signed with this key.
 webhook_url_tip: The location the event notifications are pushed to.
 webhooks: Webhooks
