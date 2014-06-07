@@ -2,7 +2,7 @@
 var language = {
 
    // new stuff
-   username: 'Username',
+   username: 'ユーザー名',
 
    username_fail: '英数字とハイフンのみ利用可能です',
 
