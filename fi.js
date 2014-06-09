@@ -2,6 +2,15 @@ moot.language = {
 
   $code: 'fi',
 
+  is_private: "Suljettu yhteisö",
+  owner_msg: "Viestisi ylläpitäjälle... (Ei pakollinen)",
+  req_access: "Haluan sisään",
+  req_sent: "Kiitos. Pyyntö vastaanotettu",
+  or_join: "tai <a>Liity</a> yhteisöön",
+  save_with: "Maksa vuosittain ja säästä 20%",
+  rem_post: "Poista tämä kommentti?",
+  is_spam: "Tämä kommentti on spämmiä?",
+
   channels: 'Kanavat',
   ch_name: 'Kanavan nimi',
   ban:  'Estä',

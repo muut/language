@@ -5,6 +5,15 @@ moot.language = {
 
 
   /* New stuff */
+  is_private: "This community is private",
+  owner_msg: "Your message to the forum owner... (Optional)",
+  req_access: "Request access",
+  req_sent: "Access request sent",
+  or_join: "or <a>Join</a> to access the community.",
+  save_with: "Save 20% with yearly billing",
+  rem_post: "Remove this post?",
+  is_spam: "This post is spam?",
+
   channels: 'Channels',
   ch_name: 'Channel name',
   ban:  'Ban user',

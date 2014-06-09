@@ -4,6 +4,15 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
+  is_private: "This community is private",
+  owner_msg: "Your message to the forum owner... (Optional)",
+  req_access: "Request access",
+  req_sent: "Access request sent",
+  or_join: "or <a>Join</a> to access the community.",
+  save_with: "Save 20% with yearly billing",
+  rem_post: "Remove this post?",
+  is_spam: "This post is spam?",
+
   channels: '频道',
   ch_name:  '频道名称',
   mods:     '仲裁人', // 版主不确切
