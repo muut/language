@@ -31,9 +31,6 @@ moot.language = {
   designer: "Diseñador",
   developer: "Desarrollador",
 
-
-
-
   ban_acc: 'Cuenta expulsada',
   ban_msg: 'Estás temporalmente expulsado de este foro por violar las políticas del foro. Tiempo restante:',
   banned4: 'Ya no puedes publicar en este foro.',
@@ -102,7 +99,7 @@ moot.language = {
   expired1: 'Hemos enviado uno nuevo. Por favor revisa tu email.',
   expired: 'Este enlace ha expirado',
 
-  feed: 'Propios', // alternatives: My own, personal
+  feed: 'Míos',
 
   help2: 'enviar',
   help3: 'citado',

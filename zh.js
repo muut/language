@@ -137,7 +137,7 @@ moot.language = {
   save: '保存',
   saved: '已保存',
   search: '搜索',
-  select: '选择类别',
+  select: '选择频道',
   setup: '马上创建论坛',
   showing: '当前搜索', // Showing search results (instead) for
   spam: '垃圾',
