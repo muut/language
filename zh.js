@@ -4,11 +4,11 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
-  is_private: "此论坛不对访客开放",
-  owner_msg: "给论坛管理员的短信……（非必需）",
+  is_private: "此社群不对访客开放",
+  owner_msg: "给管理员的短信……（非必需）",
   req_access: "申请访问权限",
   req_sent: "访问权限申请已发出",
-  or_join: "或先 <a>加入</a> 以访问论坛",
+  or_join: "或先 <a>加入</a> 以访问社群",
   save_with: "按年付费方案可节省 20%",
   rem_post: "删除此帖？",
   is_spam: "此帖含垃圾内容？",
