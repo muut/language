@@ -4,7 +4,7 @@ add: Ajouter
 add_url: Ajouter une URL
 api_key: Clé API
 auto_spam_filter: Filtre anti-spam automatique
-auto_spam_filter_tip: Toutes les publications seront automatiquement filtrées par Akismet. Cocher pour désactiver. 
+auto_spam_filter_tip: Toutes les publications seront automatiquement filtrées par Akismet. Cocher pour désactiver.
 banned: Banni
 brand_color: Couleur de la marque
 brand_color_tip: Elle apparaît dans le header du forum, des e-mails et les autorisations.
@@ -26,7 +26,7 @@ enable: Autoriser
 events: Evénements
 facebook_thumbnail: Vignette Facebook
 facebook_thumbnail_tip: Vignette affihchée quand un utilisateur partage un sujet de discussion sur Facebook
-forum_url: URL du forum 
+forum_url: URL du forum
 forum_url_tip: Là où les utiisateurs seront redirigés depuis les résultats des moteurs de recherche
 from_address: Adresse d'expéditeur
 from_address_tip: L'adresse e-mail utilisée pour envoyer les e-mails de notification
@@ -35,50 +35,50 @@ from_name_tip: Le nom d'expéditeur utilisé pour envoyer les e-mails de notific
 general: Général
 google_analytics_id: ID Google Anlytics
 google_analytics_tip: ID de votre compte Google Analytics
-help_accepted_users: Seuls les utilisateurs vérifiés peuvent acccéder à la communauté (consulter, publier, aimer ou répondre à des publications). 
+help_accepted_users: Seuls les utilisateurs vérifiés peuvent acccéder à la communauté (consulter, publier, aimer ou répondre à des publications).
 help_banned_users: Ces utilisateurs ne pourront plus publier, aimer et répondre à des publications.
-help_channels: Les espaces de discussion de votre forum. Des noms contenant un seul mot sont recommandés. 
+help_channels: Les espaces de discussion de votre forum. Des noms contenant un seul mot sont recommandés.
 help_moderators: Possibilité de modifier les paramètres, supprimer des publications et de bannir des utilisateurs.
 help_signed: Autorise uniquement l'intégration avec la clé secrète.
-help_webhooks: Ils permettent d'être notifiés lors d'événéments particuliers sur Muut. Quand l'événement se produit, nous vous enverrons une requête POST au format JSON pour chacune des URL que vous aurez fournis. 
+help_webhooks: Ils permettent d'être notifiés lors d'événéments particuliers sur Muut. Quand l'événement se produit, nous vous enverrons une requête POST au format JSON pour chacune des URL que vous aurez fournis.
 hide: Masquer
 hide_channel: Masquer le canal "{title}"?
-hide_channel_help: Le canal a été masqué de la barre de navigation. Aucune donnée n'a été supprimée. Les sujets de discussion continueront dans d'apparaître dans My feed pour les utilisateurs qui les auront alimentés. 
+hide_channel_help: Le canal a été masqué de la barre de navigation. Aucune donnée n'a été supprimée. Les sujets de discussion continueront dans d'apparaître dans My feed pour les utilisateurs qui les auront alimentés.
 indexing: Indexation
-indexing_tip: Vous pouvez désactiver l'indexation pour empêcher que vos discussions remontent dans les résultats des moteurs de recherche. 
+indexing_tip: Vous pouvez désactiver l'indexation pour empêcher que vos discussions remontent dans les résultats des moteurs de recherche.
 integrations: Intégrations
 invalid_value: Valeur du champ invalide
 language: Langue
 language_tip: Sélectionner la langue de votre forum
 make_private: Rendre privé
 make_private_desc: Tout utilisateur devra s'identifier pour consulter, publier, répondre ou aimer des publications sur votre forum
-make_private_title: Passer à la liste des accès utilisateurs ? 
+make_private_title: Passer à la liste des accès utilisateurs ?
 make_public: Rendre public
 make_public_desc: Tout le monde peut accéder à cette communauté. Les accès utilisateurs seront mémorisés.
-make_public_title: Souhaitez-vous rendre cette communité publique ? 
+make_public_title: Souhaitez-vous rendre cette communité publique ?
 moderators: Modérateurs
 more_info: Plus d'informations
 name: Nom
-not_banned: Autoriser la publication pour {name}?
-not_moderator: Retirer les droits de modérateur à {name}?
+not_banned: Autoriser la publication pour {displayname}?
+not_moderator: Retirer les droits de modérateur à {displayname}?
 notification_e-mails: e-mails de notification
 password: Mot de passe
 password_protected: Protégé par mot de passe
 reject: Rejeter
 remove_hook: Retirer webhook
-remove_webhook: Retirer webhook "{name}"?
+remove_webhook: Retirer webhook "{displayname}"?
 reply_to_address: Adresse de réponse
 reply_to_address_tip: Adresse à laquelle les utilisateurs pourront répondre depuis un e-mail de notification.
 s3_bucket: Custom S3 bucket
 s3_bucket_tip: Les discussions sont stockées en sorte que les moteurs de recherche puissent explorer le contenu associé à votre nom de domaine. Fonctionne également pour les sauvegardes.  crawl the content under your own domain.
 s3_missing: Ce bucket n'existe pas
 s3_no_access: moot-aws@moot.it ne peut accéder à ce bucket
-save: Sauvegarder 
-saved: Sauvegardé! 
+save: Sauvegarder
+saved: Sauvegardé!
 secret: Secret
 secret_key: Clé secrète
 seo: seo
-settings: Paramètres 
+settings: Paramètres
 sharing: Partage
 sharing_buttons: Boutons de partage
 sharing_buttons_tip: Désactiver les boutons de partage Facebook et Twitter.
@@ -93,8 +93,8 @@ upload_logo: Télécharger un logo
 user_access: Accès utilisateur
 username: Utilisateur
 users: Utilisateurs
-webhook_events_tip: Les événements dont vous souhaitez être notifié. 
+webhook_events_tip: Les événements dont vous souhaitez être notifié.
 webhook_name_tip: Le nom du webhook
 webhook_secret_tip: Si elle a été fournie, les messages sont signés avec cette clé.
-webhook_url_tip: Les URL vers lesquels sont renvoyées les notifications suite à un événement. 
+webhook_url_tip: Les URL vers lesquels sont renvoyées les notifications suite à un événement.
 webhooks: Webhooks

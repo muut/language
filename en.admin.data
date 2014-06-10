@@ -59,14 +59,14 @@ make_public_title: Make this community public?
 moderators: Moderators
 more_info: More info
 name: Name
-not_banned: Allow posting for {name}?
-not_moderator: Remove moderator rights from {name}?
+not_banned: Allow posting for {displayname}?
+not_moderator: Remove moderator rights from {displayname}?
 notification_emails: Notification emails
 password: Password
 password_protected: Password protected
 reject: Reject
 remove_hook: Remove webhook
-remove_webhook: Remove webhook "{name}"?
+remove_webhook: Remove webhook "{displayname}"?
 reply_to_address: Reply-to address
 reply_to_address_tip: The email address where users’ replies to notifications are sent.
 s3_bucket: Custom S3 bucket
