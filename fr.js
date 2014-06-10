@@ -1,50 +1,50 @@
-moot.language = {
+tmoot.language = {
 
   // the language code
   $code: 'fr',
 
   /* New stuff */
-  is_private: "This community is private",
-  owner_msg: "Your message to the forum owner... (Optional)",
-  req_access: "Request access",
-  req_sent: "Access request sent",
-  or_join: "or <a>Join</a> to access the community.",
-  save_with: "Save 20% with yearly billing",
-  rem_post: "Remove this post?",
-  is_spam: "This post is spam?",
+  is_private: "Cette communauté est privée",
+  owner_msg: "Votre message à l'administrateur du forum... (Facultatif)",
+  req_access: "Demander l'accès",
+  req_sent: "Demande d'accès envoyée",
+  or_join: "ou <a>S'inscrire</a> pour rejoindre la communauté.",
+  save_with: "Economisez 20% sur l'abonnement annuel",
+  rem_post: "Souhaitez-vous supprimer cette publication?",
+  is_spam: "S'agit-il d'un spam?",
 
-  channels: 'Channels',
-  ch_name: 'Channel name',
-  ban:  'Ban user',
-  banned:  'Banned',
-  ban_acc: 'Banned account',
-  ban_msg: 'You are temporarily banned from posting on this forum.',
-  days:  'Days',
-  forever: 'Forever',
-  slogan:  'Free forums and commenting by Muut',
+  channels: 'Canaux',
+  ch_name: 'Nom du canal',
+  ban:  'Utilisateur banni',
+  banned:  'Banni',
+  ban_acc: 'Compte banni',
+  ban_msg: 'Vous êtes temporairement banni du forum.',
+  days:  'Jours',
+  forever: 'De manière permanente', // not sure - it depends on the context - alternatively : pour toujours, à jamais 
+  slogan:  'Animer des forums et commenter gratuitement avec Muut', // not sure // verbs > nouns
 
   add: '+ Add',
   addons: 'Add-ons',
-  myaccount: "My account",
-  untitled: "Untitled",
-  design: "Design",
-  no_title: "Title must be given",
+  myaccount: "Mon compte",
+  untitled: "Titre non défini",
+  design: "Design,"
+  no_title: "Veuillez donner un titre",
   designer: "Designer",
   developer: "Developer",
 
 
 
-  img_needed: "Please upload an image file",
-  max: 'Maximum image size is 4Mb',
-  yes: 'Yes',
-  upload: 'Upload images',
-  show: 'show',
-  hide: 'hide',
+  img_needed: "Veuillez télécharger une image",
+  max: 'La taille maximale est de 4Mb',
+  yes: 'Oui',
+  upload: 'Télécharger des images',
+  show: 'afficher',
+  hide: 'masquer',
   invisible: 'Invisible',
   givebody: 'Le contenu ne peut pas être vide.',
-  show_old: 'Afficher les premières réponses', // not sure
-  show_more: 'Afficher plus de réponses', // not sure
-  show_new: 'Afficher les dernières réponses', // not sure
+  show_old: 'Afficher les premières réponses', 
+  show_more: 'Afficher plus de réponses', 
+  show_new: 'Afficher les dernières réponses',
   start: 'Créer un nouveau sujet...',
   error: 'Oups, une erreur s\'est produite. Copiez votre publication, actualisez la page puis réessayez. Désolé - nous allons régler ce problème !',
   body: 'Texte du contenu',
@@ -120,7 +120,7 @@ moot.language = {
   mark: 'Offensif ou spam',
   mean: 'Vouliez-vous dire',
   name: 'Nom',
-  nametip: 'Votre vrai nom, pour que les gens vous reconaissent',
+  nametip: 'Votre vrai nom, pour que les gens vous reconnaissent',
   newpass: 'Nouveau mot de passe',
   noresults: 'Aucun résultat pour',
   nospam: 'Aucun spam sur votre forum !',
@@ -130,7 +130,7 @@ moot.language = {
   online: 'En ligne',
   post: 'Publier',
   preview: 'Prévisualisation',
-  progress: ['Chargement...', 'encore...', 'et encore...', 'abondon'],
+  progress: ['Chargement...', 'encore...', 'et encore...', 'abandon'],
   reconnect: 'Reconnexion...',
   removepost: 'Supprimer',
   reply: 'Répondre...',
