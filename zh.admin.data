@@ -59,14 +59,14 @@ make_public_title: 公开此论坛？
 moderators: 管理员组
 more_info: 更多信息
 name: 名称
-not_banned: 允许 {name} 发帖？
-not_moderator: 取消 {name} 管理员权限？
+not_banned: 允许 {displayname} 发帖？
+not_moderator: 取消 {displayname} 管理员权限？
 notification_emails: 通知邮件
 password: 密码
 password_protected: 已受密码保护
 reject: 拒绝
 remove_hook: 删除 Webhook
-remove_webhook: 删除 Webhook "{name}"?
+remove_webhook: 删除 Webhook "{displayname}"?
 reply_to_address: 回复地址
 reply_to_address_tip: 用户回复邮件的目标地址
 s3_bucket: 自定义 S3 Bucket
