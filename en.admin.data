@@ -88,7 +88,7 @@ sharing: Sharing
 sharing_buttons: Sharing buttons
 sharing_buttons_tip: Disable Facebook and Twitter share buttons.
 signed: Secure embedding
-signed_tip: Prohibits 3rd parties to embed these forums elsewhere
+signed_tip: Prohibits 3rd parties to embed these forums elsewhere. This forum must be signed first. <a>How to sign this forum?</a>
 twitter_handle: Twitter handle
 twitter_handle_tip: When someone shares a discussion on Twitter, the tweet will have “via @twitterhandle” at the end.
 upload_banner: Upload banner

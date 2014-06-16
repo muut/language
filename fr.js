@@ -20,14 +20,14 @@ tmoot.language = {
   ban_acc: 'Compte banni',
   ban_msg: 'Vous êtes temporairement banni du forum.',
   days:  'Jours',
-  forever: 'De manière permanente', // not sure - it depends on the context - alternatively : pour toujours, à jamais 
+  forever: 'De manière permanente', // not sure - it depends on the context - alternatively : pour toujours, à jamais
   slogan:  'Animer des forums et commenter gratuitement avec Muut', // not sure // verbs > nouns
 
   add: '+ Add',
   addons: 'Add-ons',
   myaccount: "Mon compte",
   untitled: "Titre non défini",
-  design: "Design,"
+  design: "Design",
   no_title: "Veuillez donner un titre",
   designer: "Designer",
   developer: "Developer",
@@ -42,8 +42,8 @@ tmoot.language = {
   hide: 'masquer',
   invisible: 'Invisible',
   givebody: 'Le contenu ne peut pas être vide.',
-  show_old: 'Afficher les premières réponses', 
-  show_more: 'Afficher plus de réponses', 
+  show_old: 'Afficher les premières réponses',
+  show_more: 'Afficher plus de réponses',
   show_new: 'Afficher les dernières réponses',
   start: 'Créer un nouveau sujet...',
   error: 'Oups, une erreur s\'est produite. Copiez votre publication, actualisez la page puis réessayez. Désolé - nous allons régler ce problème !',
