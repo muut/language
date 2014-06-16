@@ -33,7 +33,7 @@ moot.language = {
   design: "Design",
   no_title: "Es muss einen Titel geben",
   designer: "Designer",
-  developer: "Entwickler",
+  developer: "Developer",
 
 
 
