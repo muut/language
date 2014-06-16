@@ -35,7 +35,12 @@ from_name_tip: The sender name from whom the notification emails appear to be se
 general: General
 google_analytics_id: Google Analytics ID
 google_analytics_tip: Your Google Analytics account ID.
-help_accepted_users: Only accepted users can access the community (view, post, reply, or like posts).
+
+help_accepted_users: Only accepted users can access this community.
+help_public_users: Everyone can access this community.
+is_private: This community is private
+is_public: This community is public
+
 help_banned_users: Posting, liking and replying is disabled for these users.
 help_channels: Your forum discussion areas. Single word titles are the best.
 help_moderators: Ability to change settings, remove posts, and ban users.
@@ -51,8 +56,8 @@ invalid_value: Invalid field value
 language: Language
 language_tip: Select the language of your forum.
 make_private: Make private
-make_private_desc: All users will need to request for access to view, post, reply, or like posts on your forum.
-make_private_title: Switch to user access list forums?
+make_private_desc: Users need to request for access to view, post, reply, or like posts on your community.
+make_private_title: Switch to member only community?
 make_public: Make public
 make_public_desc: Everyone can access the community. The access settings will be remembered.
 make_public_title: Make this community public?
