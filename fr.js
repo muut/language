@@ -15,7 +15,7 @@ tmoot.language = {
 
   channels: 'Canaux',
   ch_name: 'Nom du canal',
-  ban:  'Utilisateur banni',
+  ban:  'Bannir',
   banned:  'Banni',
   ban_acc: 'Compte banni',
   ban_msg: 'Vous êtes temporairement banni du forum.',
