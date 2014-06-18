@@ -1,4 +1,4 @@
-tmoot.language = {
+moot.language = {
 
   // the language code
   $code: 'fr',

@@ -71,7 +71,7 @@ password: Password
 password_protected: Password protected
 reject: Reject
 remove_hook: Remove webhook
-remove_webhook: Remove webhook "{displayname}"?
+remove_webhook: Remove webhook "{name}"?
 reply_to_address: Reply-to address
 reply_to_address_tip: The email address where users’ replies to notifications are sent.
 s3_bucket: Custom S3 bucket
