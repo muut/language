@@ -9,7 +9,7 @@ moot.language = {
   owner_msg: "Sua mensagem para o responsável do forum...(Opcional)",
   req_access: "Solicitar acesso",
   req_sent: "Solicitação de acesso enviada",
-  or_join: "ou <a>Cadastre-se</a> para tera acesso a comunidade.",
+  or_join: "ou <a>Cadastre-se</a> para ter acesso a comunidade.",
   save_with: "Economize 20% no plano anual",
   rem_post: "Remover este post?",
   is_spam: "Este post é spam?",
