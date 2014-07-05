@@ -157,7 +157,7 @@ moot.language = {
   unlike: 'Unlike',
   unspam: 'Not spam',
   unver1: 'Unverified account',
-  unver2: 'Please check your email to verify your account. Verified users can watch moots and receive email notifications. <a>Send a new verification code...</a>',
+  unver2: 'Please check your email to verify your account. Verified users can watch threads and receive email notifications. <a>Send a new verification code...</a>',
   unver3: '<a>Send a new</a> verification code to:',
   unver4: "Sent. Please check your inbox.",
   unver: 'Unverified',
