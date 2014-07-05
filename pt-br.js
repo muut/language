@@ -5,17 +5,17 @@ moot.language = {
 
 
   /* New stuff */
-  is_private: "This community is private",
-  owner_msg: "Your message to the forum owner... (Optional)",
-  req_access: "Request access",
-  req_sent: "Access request sent",
-  or_join: "or <a>Join</a> to access the community.",
-  save_with: "Save 20% with yearly billing",
-  rem_post: "Remove this post?",
-  is_spam: "This post is spam?",
+  is_private: "Esta comunidade é privada",
+  owner_msg: "Sua mensagem para o responsável do forum...(Opcional)",
+  req_access: "Solicitar acesso",
+  req_sent: "Solicitação de acesso enviada",
+  or_join: "ou <a>Cadastre-se</a> para ter acesso a comunidade.",
+  save_with: "Economize 20% no plano anual",
+  rem_post: "Remover este post?",
+  is_spam: "Este post é spam?",
 
-  channels: 'Channels',
-  ch_name: 'Channel name',
+  channels: 'Canais',
+  ch_name: 'Nome do canal',
   ban:  'Banir usuário',
   banned:  'Banido',
   ban_acc: 'Conta banida',
@@ -24,14 +24,14 @@ moot.language = {
   forever: 'Para Sempre',
   slogan:  'Fóruns e comentários gratuitos  por Muut',
 
-  add: '+ Add',
+  add: '+ Adicionar',
   addons: 'Add-ons',
   myaccount: "Minha conta",
   untitled: "Sem título",
   design: "Design",
   no_title: "Necessário título",
   designer: "Designer",
-  developer: "Developer",
+  developer: "Desenvolvedor",
 
 
 
@@ -63,7 +63,7 @@ moot.language = {
   branding: 'Branding',
   logo: 'Logo',
   css: 'CSS file',
-  single: 'single word',
+  single: 'uma palavra',
 
 
 
