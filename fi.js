@@ -30,6 +30,9 @@ moot.language = {
   designer: "Designer",
   developer: "Developer",
 
+  givebody: 'Sisältö on annettava.',
+  body: 'Sisältö',
+  invisible: 'Piilossa',
 
   img_needed: "Vain kuvatiedostot kelpaavat",
   max: 'Maksimi kuvakoko: 4Mb',

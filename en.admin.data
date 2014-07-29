@@ -1,3 +1,10 @@
+
+admins: Administrators
+help_admins: Ability to change settings, remove posts, and ban users.
+help_moderators: Ability to remove posts and ban users.
+not_admin: Remove administration rights from {displayname}?
+
+
 accept: Accept
 access_control: Access control
 add: Add
@@ -43,7 +50,7 @@ is_public: This community is public
 
 help_banned_users: Posting, liking and replying is disabled for these users.
 help_channels: Your forum discussion areas. Single word titles are the best.
-help_moderators: Ability to change settings, remove posts, and ban users.
+
 help_signed: Allow embedding with the secret key only.
 help_webhooks: Webhooks allow external services to be notified when certain events happen on Muut. When the specified events happen, we'll send a POST request in JSON format to each of the URLs you provide.
 hide: Hide
