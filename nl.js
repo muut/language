@@ -4,14 +4,14 @@ moot.language = {
   $code: 'nl',
 
   /* New stuff */
-  is_private: "This community is private",
-  owner_msg: "Your message to the forum owner... (Optional)",
-  req_access: "Request access",
-  req_sent: "Access request sent",
-  or_join: "or <a>Join</a> to access the community.",
-  save_with: "Save 20% with yearly billing",
-  rem_post: "Remove this post?",
-  is_spam: "This post is spam?",
+  is_private: "Dit forum is niet publiek beschikbaar",
+  owner_msg: "Uw bericht aan de forum eigenaar... (Optioneel)",
+  req_access: "Verzoek toegang",
+  req_sent: "Toegang verzoek is verstuurd",
+  or_join: "of <a>word lid</a> to access the community.",
+  save_with: "Bespaar 20% middels jaarlijks betaling",
+  rem_post: "Verwijder post?",
+  is_spam: "Markeer als spam?",
 
   channels: 'Channels',
   ch_name: 'Channel name',
