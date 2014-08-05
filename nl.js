@@ -4,17 +4,17 @@ moot.language = {
   $code: 'nl',
 
   /* New stuff */
-  is_private: "Dit forum is niet publiek beschikbaar",
+  is_private: "Dit onderwerp is niet publiek beschikbaar", // hm.. what to call it.. "Community" seems to suck ; revert to "Subject" (onderwerp)..?
   owner_msg: "Uw bericht aan de forum eigenaar... (Optioneel)",
   req_access: "Verzoek toegang",
   req_sent: "Toegang verzoek is verstuurd",
-  or_join: "of <a>word lid</a> to access the community.",
+  or_join: "of <a>lid worden</a>.",
   save_with: "Bespaar 20% middels jaarlijks betaling",
   rem_post: "Verwijder post?",
   is_spam: "Is dit spam?",
 
-  channels: 'Channels',
-  ch_name: 'Channel name',
+  channels: 'Forums', // hm.. what to call it.. "channel" sucks. "subject" (onderwerp) sucks ; revert to forum.. Maybe discussiegroepen?
+  ch_name: 'Forum',// hm.. what to call it.. "channel" sucks. "subject" (onderwerp) sucks ; revert to forum.. Maybe discussiegroep?
   ban:  'Ban gebruiker',
   banned:  'Verbannen',
   ban_acc: 'Verbannen account',
