@@ -11,7 +11,7 @@ moot.language = {
   or_join: "of <a>word lid</a> to access the community.",
   save_with: "Bespaar 20% middels jaarlijks betaling",
   rem_post: "Verwijder post?",
-  is_spam: "Markeer als spam?",
+  is_spam: "Is dit spam?",
 
   channels: 'Channels',
   ch_name: 'Channel name',
