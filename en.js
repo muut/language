@@ -10,9 +10,9 @@ moot.language = {
   or_join: "or <a>Join</a> to access the community.",
   save_with: "Save 20% with yearly billing",
   rem_post: "Remove this post?",
-  is_spam: "This post is spam?",
+  is_spam: "This post is spa?",
 
-  channels: 'Channels',
+  channels: 'Kanallar',
   ch_name: 'Channel name',
   ban: 'Ban user',
   banned: 'Banned',
@@ -27,7 +27,7 @@ moot.language = {
   myaccount: "My account",
   untitled: "Untitled",
   design: "Design",
-  no_title: "Title must be given",
+  no_title: "Başlıq verilməlidir",
   designer: "Designer",
   developer: "Developer",
 
@@ -43,20 +43,20 @@ moot.language = {
   hide: 'hide',
   invisible: 'Invisible',
   givebody: 'Body cannot be empty.',
-  show_old: 'Show oldest replies',
-  show_more: 'Show more replies',
-  show_new: 'Show newest replies',
-  start: 'Start a new topic...',
+  show_old: 'Köhnə cavabları göstər',
+  show_more: 'Daha çox cavab göstər',
+  show_new: 'Ən yeni cavabları göstər',
+  start: 'Yeni mövzu aç...',
   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
   body: 'Body text',
   admin: 'Admin',
-  someone: 'Someone',
-  title: 'Title',
-  writing: 'is writing...',
+  someone: 'Kimsə',
+  title: 'Başlıq',
+  writing: 'yazır...',
   basic: 'Basic (free)',
   subs: 'Subscriptions',
   manage: 'Manage',
-  fullview: 'Full view',
+  fullview: 'Tam görünüş',
   link: 'link',
   avatar: 'Change avatar',
 
@@ -76,24 +76,24 @@ moot.language = {
 
   settings: 'Settings',
 
-  all: 'All posts', // or alternatively: All
-  anon_1: 'anonymous',  // singular
-  anon: 'anonymous',  // plural
+  all: 'Bütün', // or alternatively: All
+  anon_1: 'anonim',  // singular
+  anon: 'anonim',  // plural
 
   badforum: 'Invalid forum',
   c_acc1: 'Your account now works on all sites using Muut',
   c_acc: 'Account confirmed',
   c_email: 'Email address updated',
-  cancel: 'Cancel',
-  change: 'Change',
+  cancel: 'Ləğv',
+  change: 'Ləğv',
   changepw: 'Change password',
   close: 'Close',
-  collapse: 'Collapse all',
-  comm_count_1: 'comment',  // singular: "1 comment"
-  comm_count_n: 'comments',  // plural: "3 comments"
-  comment1: 'Be the first to comment...',
-  comment: 'Comment...',
-  edit: 'Edit',
+  collapse: 'Hamısını yığ',
+  comm_count_1: 'şərh',  // singular: "1 comment"
+  comm_count_n: 'şərhlər',  // plural: "3 comments"
+  comment1: 'İlk şərh edən siz olun...',
+  comment: 'şərh...',
+  edit: 'Düzəlt',
   email: 'Email',
   email_taken: 'This email is taken',
   emailtip: 'Your email is never shared',
@@ -111,14 +111,14 @@ moot.language = {
   join: 'Join Muut',
   later: 'Later...',
   less: 'less',
-  like: 'Like',
+  like: 'Bəyən',
   likepost: 'Like this post',
-  loading: 'Loading...',
-  login: 'Log in',
+  loading: 'Yüklənir...',
+  login: 'Gir',
   login1: 'Log in first',
-  login_and: "Login and",
+  login_and: "Gir və",
 
-  logout: 'Log out',
+  logout: 'Çıx',
   mark: 'Offensive or spam',
   mean: 'Did you mean',
   name: 'Display name',
@@ -132,16 +132,16 @@ moot.language = {
   ok: 'ok',
   online: 'Online',
   post: 'Post',
-  preview: 'Preview',
-  progress: ['loading...', 'still working...', 'and working...', 'giving up'],
-  reconnect: 'Reconnecting...',
-  removepost: 'Remove',
-  reply: 'Reply...',
-  replybtn: 'Reply',
+  preview: 'Görünüş',
+  progress: ['yüklənir...', 'çalışır...', 'və çalışır...', 'alınmır'],
+  reconnect: 'Yenidən qoşulur...',
+  removepost: 'Sil',
+  reply: 'Cavab...',
+  replybtn: 'Cavab',
 
-  saved: 'saved',
-  search: 'Search',
-  select: 'Select channel',
+  saved: 'saxlandı',
+  search: 'Axtar',
+  select: 'Kanal seçin',
   setup: 'Setup now',
   showing: 'Showing',
 
@@ -149,7 +149,7 @@ moot.language = {
   step1: 'We have sent you a confirmation email. Your email is not updated before you complete this step!',
   step: 'One more step',
   terms: 'I agree to the <a>terms of service</a>.',
-  thanks: 'Thanks!',
+  thanks: 'Çox sağolun!',
   uname_len: 'Type 6 characters or more',
   uname_taken: 'This username is taken!',
   unametip: 'This cannot be changed later',
@@ -173,11 +173,11 @@ moot.language = {
   you: 'You',
 
   // times
-  now: 'just now',
-  months: "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec",
-  min: 'm',
-  hour: 'h',
-  day: 'd',
-  week: 'w'
+  now: 'indicə',
+  months: "Yan,Fev,Mar,Apr,May,İyn,İyl,Avq,Sen,Okt,Noy,Dek",
+  min: 'dəq',
+  hour: 'saat',
+  day: 'gün',
+  week: 'həftə'
 
 }
