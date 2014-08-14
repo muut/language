@@ -15,7 +15,7 @@ moot.language = {
   rem_post: "Remove this post?",
   is_spam: "This post is spam?",
 
-  channels: 'Channels',
+  channels: 'Разделы',
   ch_name: 'Channel name',
   ban:  'Ban user',
   banned:  'Banned',
