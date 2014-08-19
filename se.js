@@ -56,7 +56,7 @@
   admin: 'Admin',
   someone: 'Någon',
   writing: 'skriver...',
-  manage: 'Manage', 'Hantera',
+  manage: 'Hantera',
   fullview: 'Fullständig vy',
   title: 'Rubrik',
   link: 'länk',

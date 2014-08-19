@@ -55,7 +55,7 @@ moot.language = {
   admin: '管理者',
   someone: '誰か',
   writing: 'が記入中です...',
-  manage: 'Manage', '管理',
+  manage: '管理',
   fullview: '全体表示',
   title: 'タイトル',
   link: 'リンク',

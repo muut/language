@@ -55,7 +55,7 @@ moot.language = {
   admin: 'Admin',
   someone: 'Alguém',
   writing: 'está escrevendo…',
-  manage: 'Manage', 'Gerenciar',
+  manage: 'Gerenciar',
   fullview: 'Ver por completo',
   title: 'Título',
   link: 'link',

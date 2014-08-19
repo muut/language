@@ -60,7 +60,7 @@ moot.language = {
   admin: '관리자',
   someone: '누군가',
   writing: '작성 중...',
-  manage: 'Manage', '관리자',
+  manage: '관리자',
   fullview: '전체 보기',
   title: '제목',
   link: '링크',

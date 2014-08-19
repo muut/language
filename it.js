@@ -59,7 +59,7 @@
   someone: 'Qualcuno',
   title: 'Titolo',
   writing: 'sta scrivendo...',
-  manage: 'Manage', 'Gestisci',
+  manage: 'Gestisci',
   fullview: 'Vista completa',
   link: 'collegamento',
   avatar: 'Cambia avatar',

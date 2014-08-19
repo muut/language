@@ -59,7 +59,7 @@ moot.language = {
   admin: '管理员',
   someone: '某人',
   writing: '正在写……',
-  manage: 'Manage', '管理',
+  manage: '管理',
   fullview: '进入全文',
   title: '标题',
   link: 'URL',

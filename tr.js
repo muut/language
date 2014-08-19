@@ -55,7 +55,7 @@ moot.language = {
 
   someone: 'Birisi',
   writing: 'yazıyor...',
-  manage: 'Manage', 'Yönet',
+  manage: 'Yönet',
   bolded: 'koyu',
   italics: 'yatık',
   monospaced: 'monospace',

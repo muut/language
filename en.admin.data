@@ -41,10 +41,8 @@ google_analytics_tip: Your Google Analytics account ID.
 
 help_accepted_users: Only accepted users can access this community.
 help_public_users: Everyone can access this community.
-plan: 'Plan',
-  trial: 'Start free trial',
 
-  is_private: This community is private
+is_private: This community is private
 is_public: This community is public
 
 help_banned_users: Posting, liking and replying is disabled for these users.

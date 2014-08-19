@@ -61,7 +61,7 @@ moot.language = {
   someone: 'شخص  ثالث',
   title: 'سرتیتر',
   writing: 'در حال نگارش ...',
-  manage: 'Manage', 'مدیریت',
+  manage: 'مدیریت',
   fullview: 'نمای کامل',
   link: 'لینک',
   avatar: 'تغییر تصویر کاربری',

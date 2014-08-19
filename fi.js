@@ -48,7 +48,7 @@ moot.language = {
   start: 'Uusi aihe...',
   someone: 'Joku',
   writing: 'kirjoittaa...',
-  manage: 'Manage', 'Ylläpito',
+  manage: 'Ylläpito',
   fullview: 'Näytä kokonaan',
   title: 'Otsikko',
   link: 'linkki',

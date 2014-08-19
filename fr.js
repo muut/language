@@ -54,7 +54,7 @@ moot.language = {
   admin: 'Administrateur',
   someone: 'Quelqu\'un',
   writing: 'est en train d\'écrire...',
-  manage: 'Manage', 'Gérer',
+  manage: 'Gérer',
   single: 'un seul mot',
 
   upgrade_link: 'Mettre à niveau',

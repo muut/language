@@ -3,6 +3,19 @@ moot.language = {
   // the language code
   $code: 'da',
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
+  is_private: "This community is private",
+  owner_msg: "Your message to the forum owner... (Optional)",
+  req_access: "Request access",
+  req_sent: "Access request sent",
+  or_join: "or <a>Join</a> to access the community.",
+  save_with: "Save 20% with yearly billing",
+  rem_post: "Remove this post?",
+  is_spam: "This post is spam?",
+
+
   channels: 'Kanaler',
   ch_name: 'Kanalnavn',
   mods: 'Moderatorer',
@@ -49,7 +62,7 @@ moot.language = {
   someone: 'Nogen',
   title: 'Titel',
   writing: 'skriver...',
-  manage: 'Manage', 'Håndter',
+  manage: 'Håndter',
   fullview: 'Fuldskærm',
   link: 'link',
   avatar: 'Skift billede',
