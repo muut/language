@@ -4,8 +4,8 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
-  plan: 'Plan',
-  trial: 'Start free trial',
+  plan: '服务计划',
+  trial: '开始免费试用',
 
   is_private: "此社群不对访客开放",
   owner_msg: "给管理员的短信……（非必需）",
