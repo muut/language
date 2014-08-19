@@ -5,6 +5,9 @@ moot.language = {
 
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "Esta comunidade é privada",
   owner_msg: "Sua mensagem para o responsável do forum...(Opcional)",
   req_access: "Solicitar acesso",
@@ -52,9 +55,7 @@ moot.language = {
   admin: 'Admin',
   someone: 'Alguém',
   writing: 'está escrevendo…',
-  basic: 'Básico (grátis)',
-  subs: 'Assinaturas',
-  manage: 'Gerenciar',
+  manage: 'Manage', 'Gerenciar',
   fullview: 'Ver por completo',
   title: 'Título',
   link: 'link',

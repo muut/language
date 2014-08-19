@@ -6,6 +6,9 @@ moot.language = {
 
   /* New stuff */
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -62,9 +65,7 @@ moot.language = {
   someone: 'Кто-то',
   title: 'Заголовок',
   writing: 'пишет...',
-  basic: 'Базовая (бесплатная)',
-  subs: 'Подписки',
-  manage: 'Управление',
+  manage: 'Manage', 'Управление',
   fullview: 'Полный вид',
   link: 'ссылка',
   avatar: 'Изменить аватар',

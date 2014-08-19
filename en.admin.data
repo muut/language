@@ -3,7 +3,7 @@ admins: Administrators
 help_admins: Ability to change settings, remove posts, and ban users.
 help_moderators: Ability to remove posts and ban users.
 not_admin: Remove administration rights from {displayname}?
-
+plan_needed: plan needed
 
 accept: Accept
 access_control: Access control
@@ -20,10 +20,6 @@ brand_name_tip: Brand name appears on notification emails and hosted forums head
 cancel: Cancel
 channel_name: Channel name
 channels: Channels
-designer_needed: Designer upgrade needed
-designer_upgrade: Upgrade to Designer
-developer_needed: Developer upgrade needed
-developer_upgrade: Upgrade to Developer
 disable: Disable
 disable_under: Disable under
 disabled: Disabled
@@ -45,7 +41,10 @@ google_analytics_tip: Your Google Analytics account ID.
 
 help_accepted_users: Only accepted users can access this community.
 help_public_users: Everyone can access this community.
-is_private: This community is private
+plan: 'Plan',
+  trial: 'Start free trial',
+
+  is_private: This community is private
 is_public: This community is public
 
 help_banned_users: Posting, liking and replying is disabled for these users.

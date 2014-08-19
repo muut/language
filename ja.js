@@ -4,6 +4,9 @@ moot.language = {
   $code: 'ja',
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -52,9 +55,7 @@ moot.language = {
   admin: '管理者',
   someone: '誰か',
   writing: 'が記入中です...',
-  basic: 'ベーシック (無料)',
-  subs: '定期利用',
-  manage: '管理',
+  manage: 'Manage', '管理',
   fullview: '全体表示',
   title: 'タイトル',
   link: 'リンク',

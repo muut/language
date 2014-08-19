@@ -4,6 +4,9 @@ moot.language = {
   $code: 'nl',
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -51,8 +54,7 @@ moot.language = {
   admin: 'Beheerder',
   someone: 'Iemand',
   writing: 'typt...',
-  basic: 'Basic (gratis)',
-  subs: 'Subscriptions',// no translation (makes documentation  more applicable ???)
+    subs: 'Subscriptions',// no translation (makes documentation  more applicable ???)
   manage: 'Beheer',
   fullview: 'Full view', // @TODO need to find context within muut
   title: 'Titel',

@@ -4,6 +4,9 @@ moot.language = {
   $code: 'fr',
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "Cette communauté est privée",
   owner_msg: "Votre message à l'administrateur du forum... (Facultatif)",
   req_access: "Demander l'accès",
@@ -51,9 +54,7 @@ moot.language = {
   admin: 'Administrateur',
   someone: 'Quelqu\'un',
   writing: 'est en train d\'écrire...',
-  basic: 'Basique (gratuit)',
-  subs: 'Abonnements',
-  manage: 'Gérer',
+  manage: 'Manage', 'Gérer',
   single: 'un seul mot',
 
   upgrade_link: 'Mettre à niveau',

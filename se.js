@@ -4,6 +4,9 @@
   $code: 'se',
 
   // new stuff
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -53,9 +56,7 @@
   admin: 'Admin',
   someone: 'Någon',
   writing: 'skriver...',
-  basic: 'Basic (gratis)',
-  subs: 'Prenumerationer',
-  manage: 'Hantera',
+  manage: 'Manage', 'Hantera',
   fullview: 'Fullständig vy',
   title: 'Rubrik',
   link: 'länk',

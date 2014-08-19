@@ -2,6 +2,9 @@ moot.language = {
 
   $code: 'fi',
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "Suljettu yhteisö",
   owner_msg: "Viestisi ylläpitäjälle... (Ei pakollinen)",
   req_access: "Haluan sisään",
@@ -45,9 +48,7 @@ moot.language = {
   start: 'Uusi aihe...',
   someone: 'Joku',
   writing: 'kirjoittaa...',
-  basic: 'Perus (ilmainen)',
-  subs: 'Tilaukset',
-  manage: 'Ylläpito',
+  manage: 'Manage', 'Ylläpito',
   fullview: 'Näytä kokonaan',
   title: 'Otsikko',
   link: 'linkki',

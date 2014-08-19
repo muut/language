@@ -6,6 +6,9 @@ moot.language = {
 
   /* New stuff */
   months:  'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec',
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -53,8 +56,6 @@ moot.language = {
   admin: 'Admin',
   someone: 'Someone',
   writing: 'is writing...',
-  basic: 'Basic (free)',
-  subs: 'Subscriptions',
   manage: 'Manage',
   fullview: 'Full view',
   title: 'Title',

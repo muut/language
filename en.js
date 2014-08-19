@@ -3,6 +3,12 @@ moot.language = {
   // the language code
   $code: 'en',
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -53,8 +59,6 @@ moot.language = {
   someone: 'Someone',
   title: 'Title',
   writing: 'is writing...',
-  basic: 'Basic (free)',
-  subs: 'Subscriptions',
   manage: 'Manage',
   fullview: 'Full view',
   link: 'link',

@@ -12,6 +12,9 @@ moot.language = {
   /* New stuff */
   img_needed: "Please upload an image file",
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -64,9 +67,7 @@ moot.language = {
   admin: '管理员',
   someone: '有人',
   writing: '正在输入...',
-  basic: '基础版 (免费)',
-  subs: '付费',
-  manage: '管理',
+  manage: 'Manage', '管理',
   fullview: '完整视图',
   title: '主题',
   link: '链接',

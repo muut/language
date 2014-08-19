@@ -5,6 +5,9 @@ moot.language = {
 
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -52,9 +55,7 @@ moot.language = {
 
   someone: 'Birisi',
   writing: 'yazıyor...',
-  basic: 'Temel (Ücretsiz)',
-  subs: 'Abonelikler',
-  manage: 'Yönet',
+  manage: 'Manage', 'Yönet',
   bolded: 'koyu',
   italics: 'yatık',
   monospaced: 'monospace',

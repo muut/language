@@ -4,6 +4,9 @@ moot.language = {
   $code: 'zh',
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "此社群不对访客开放",
   owner_msg: "给管理员的短信……（非必需）",
   req_access: "申请访问权限",
@@ -56,9 +59,7 @@ moot.language = {
   admin: '管理员',
   someone: '某人',
   writing: '正在写……',
-  basic: '基本（免费）',
-  subs: '服务',
-  manage: '管理',
+  manage: 'Manage', '管理',
   fullview: '进入全文',
   title: '标题',
   link: 'URL',

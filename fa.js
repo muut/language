@@ -6,6 +6,9 @@ moot.language = {
 
   // new stuff
   img_needed: "Please upload an image file",
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -58,9 +61,7 @@ moot.language = {
   someone: 'شخص  ثالث',
   title: 'سرتیتر',
   writing: 'در حال نگارش ...',
-  basic: 'پایه - رایگان',
-  subs: 'اشتراک',
-  manage: 'مدیریت',
+  manage: 'Manage', 'مدیریت',
   fullview: 'نمای کامل',
   link: 'لینک',
   avatar: 'تغییر تصویر کاربری',

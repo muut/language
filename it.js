@@ -3,6 +3,9 @@
   // the language code
   $code: 'it',
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -56,9 +59,7 @@
   someone: 'Qualcuno',
   title: 'Titolo',
   writing: 'sta scrivendo...',
-  basic: 'Base (gratuito)',
-  subs: 'Abbonamento',
-  manage: 'Gestisci',
+  manage: 'Manage', 'Gestisci',
   fullview: 'Vista completa',
   link: 'collegamento',
   avatar: 'Cambia avatar',

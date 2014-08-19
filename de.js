@@ -7,6 +7,9 @@ moot.language = {
   /* New stuff */
   img_needed: "Bitte lade ein Bild hoch",
 
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "Diese Community ist Privat",
   owner_msg: "Deine Nachricht an den Forum Besitzer... (Optional)",
   req_access: "Zugang beantragen",
@@ -59,9 +62,7 @@ moot.language = {
   admin: 'Admin',
   someone: 'Irgendjemand',
   writing: 'schreibt gerade...',
-  basic: 'Basic (free)',
-  subs: 'Subscriptions',
-  manage: 'Verwalten',
+  manage: 'Manage', 'Verwalten',
   fullview: 'Vollansicht',
   title: 'Titel',
   link: 'Link',

@@ -4,6 +4,9 @@ moot.language = {
   $code: 'uk',
 
   // new stuff
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "This community is private",
   owner_msg: "Your message to the forum owner... (Optional)",
   req_access: "Request access",
@@ -57,9 +60,7 @@ moot.language = {
   someone: 'Хтось',
   title: 'Заголовок',
   writing: 'пише...',
-  basic: 'Проста (безкоштовна)',
-  subs: 'Підписки',
-  manage: 'Керувати',
+  manage: 'Manage', 'Керувати',
   fullview: 'Показати все',
   link: 'ланка',
   avatar: 'Змінити аватарку',

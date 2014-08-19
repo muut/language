@@ -4,6 +4,9 @@ moot.language = {
   $code: 'ko',
 
   /* New stuff */
+  plan: 'Plan',
+  trial: 'Start free trial',
+
   is_private: "비공개 포럼",
   owner_msg: "포럼 관리자에게 메시지 보내기... (선택사항)",
   req_access: "접근 요청",
@@ -57,9 +60,7 @@ moot.language = {
   admin: '관리자',
   someone: '누군가',
   writing: '작성 중...',
-  basic: '기본 (무료)',
-  subs: '유료 가입',
-  manage: '관리자',
+  manage: 'Manage', '관리자',
   fullview: '전체 보기',
   title: '제목',
   link: '링크',

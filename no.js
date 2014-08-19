@@ -34,9 +34,7 @@ moot.language = {
   admin: 'Admin',
   someone: 'Noen',
   writing: 'skriver...',
-  basic: 'Basic (gratis)',
-  subs: 'Oppgraderinger',
-  manage: 'Administrer',
+  manage: 'Manage', 'Administrer',
 
   fullview: 'Maksimer visning',
   title: 'Tittel',
