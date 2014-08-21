@@ -2,8 +2,8 @@ moot.language = {
 
   $code: 'fi',
 
-  plan: 'Plan',
-  trial: 'Start free trial',
+  plan: 'Tilaus',
+  trial: 'Kokeile ilmaiseksi',
 
   is_private: "Suljettu yhteisö",
   owner_msg: "Viestisi ylläpitäjälle... (Ei pakollinen)",
@@ -120,6 +120,8 @@ moot.language = {
   notify: 'Ilmoita uusista Muut-pävityksistä',
   ok: 'ok',
   online: 'Paikalla',
+  show: 'näytä',
+  hide: 'piilota',
   post: 'Lähetä',
   preview: 'Esikatselu',
   progress: ['ladataan...', 'edelleen...', 'yhä vielä...', 'luovutetaan'],
