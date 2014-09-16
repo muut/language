@@ -151,7 +151,7 @@ moot.language = {
   step: 'Bir adım daha',
   terms: '<a>Kullanım koşulları</a>nı kabul ediyorum.',
   thanks: 'Teşekkürler!',
-  uname_len: '6 veya daha fazla karakter giriniz',
+  uname_len: '4 veya daha fazla karakter giriniz',
   uname_taken: 'Bu kullanıcı adı başkası tarafından alınmış!',
   unametip: 'Bu bilgi daha sonra değiştirilemez',
   undo: 'Geri al',

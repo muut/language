@@ -151,7 +151,7 @@ moot.language = {
   step: '마지막 단계입니다',
   terms: '<a>이용 약관</a>에 동의합니다.',
   thanks: '감사합니다',
-  uname_len: '6 글자 이상이어야 합니다',
+  uname_len: '4 글자 이상이어야 합니다',
   uname_taken: '아이디가 사용중이래요!',
   unametip: '나중에 변경할 수 없습니다',
   undo: '취소',

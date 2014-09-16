@@ -150,7 +150,7 @@
   step: 'Ett steg kvar',
   terms: 'Jag godkänner <a>användaravtalet</a>.',
   thanks: 'Tackar!',
-  uname_len: 'Skriv sex tecken eller mer',
+  uname_len: 'Skriv fyra tecken eller mer',
   uname_taken: 'Detta användarnamn är upptaget!',
   unametip: 'Detta kan inte ändras i efterhand',
   undo: 'Ångra',

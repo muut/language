@@ -146,7 +146,7 @@ moot.language = {
   step: '还有一步',
   terms: '我同意<a>服务条款</a>',
   thanks: '谢谢！',
-  uname_len: '请输入至少 6 个字符',
+  uname_len: '请输入至少 4 个字符',
   uname_taken: '用户名已被注册使用',
   unametip: '提交以后用户名无法更改',
   undo: '撤销',

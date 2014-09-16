@@ -151,7 +151,7 @@ moot.language = {
   step: 'Nog een stap',
   terms: 'Ik aanvaard de <a>servicevoorwaarden</a>.',
   thanks: 'Bedankt!',
-  uname_len: 'Typ 6 karakters of meer',
+  uname_len: 'Typ 4 karakters of meer',
   uname_taken: 'Dit naam is al bezet!',
   unametip: 'Dit kan later niet meer worden veranderd',
   undo: 'Ongedaan maken',

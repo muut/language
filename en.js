@@ -3,6 +3,10 @@ moot.language = {
   // the language code
   $code: 'en',
 
+  address_now: 'Your address is now: ',
+  open_pw: 'Please hit the button below to open a password change dialog',
+  non_anon: 'You need to be logged in to perform this action',
+
   plan: 'Plan',
   trial: 'Start free trial',
 
@@ -151,7 +155,7 @@ moot.language = {
   step: 'One more step',
   terms: 'I agree to the <a>terms of service</a>.',
   thanks: 'Thanks!',
-  uname_len: 'Type 6 characters or more',
+  uname_len: 'Type 4 characters or more',
   uname_taken: 'This username is taken!',
   unametip: 'This cannot be changed later',
   undo: 'Undo',

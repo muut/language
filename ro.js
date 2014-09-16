@@ -155,7 +155,7 @@ moot.language = {
   step: 'Inca un pas',
   terms: 'Sunt de acord cu <a>termenii si conditiile</a>.',
   thanks: 'Mersi!',
-  uname_len: 'Scrie 6 caractere sau mai mult!',
+  uname_len: 'Scrie 4 caractere sau mai mult!',
   uname_taken: 'Acest nume e folosit!',
   unametip: 'Nu va putea fi schimbat mai tarziu',
   undo: 'Undo',

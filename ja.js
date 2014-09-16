@@ -149,7 +149,7 @@ moot.language = {
   step: 'もうひとつ',
   terms: '<a>利用規約</a>に同意します',
   thanks: 'ありがとう!',
-  uname_len: '6文字以上',
+  uname_len: '4文字以上',
   uname_taken: 'このユーザー名は既に使われています',
   unametip: 'この項目は後から変更できません',
   undo: '取り消す',

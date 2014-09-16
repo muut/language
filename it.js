@@ -152,7 +152,7 @@
   step: 'Ancora un passaggio',
   terms: 'Accetto i <a>termini di servizio</a>.',
   thanks: 'Grazie!',
-  uname_len: 'Digita almeno 6 lettere',
+  uname_len: 'Digita almeno 4 lettere',
   uname_taken: 'Username in uso con altro account!',
   unametip: 'Questo non può essere modificato successivamente',
   undo: 'Annullare',

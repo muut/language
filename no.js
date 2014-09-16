@@ -148,7 +148,7 @@ moot.language = {
   step: 'Ett steg igjen',
   terms: 'Jeg godkjenner <a>Brukeravtalen</a>.',
   thanks: 'Tusen takk!',
-  uname_len: 'Skriv seks tegn eller mer',
+  uname_len: 'Skriv 4 tegn eller mer',
   uname_taken: 'Dette brukernavnet er opptatt!',
   unametip: 'Dette kan ikke endraes i etterkant',
   undo: 'Angre',

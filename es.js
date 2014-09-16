@@ -149,7 +149,7 @@ moot.language = {
   step: 'Un paso más',
   terms: 'Acepto los <a>términos del servicio</a>.',
   thanks: '¡Gracias!',
-  uname_len: 'Escribe 6 caracteres o más',
+  uname_len: 'Escribe 4 caracteres o más',
   uname_taken: '¡Este nombre de usuario está ocupado!',
   unametip: 'Esto no puede ser cambiado luego',
   undo: 'Deshacer',

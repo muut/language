@@ -140,7 +140,7 @@ moot.language = {
   step1: 'Osoitteesi päivittyy, kun klikkaat mailissa olevaa linkkiä.',
   terms: 'Hyväksyn <a>käyttäjäehdot</a>.',
   thanks: 'Kiitos!',
-  uname_len: '6 kirjainta tai enemmän',
+  uname_len: '4 kirjainta tai enemmän',
   uname_taken: 'Tämä tunnus on jo varattu!',
   unametip: 'Tunnusta ei voi muuttaa myöhemmin',
   undo: 'Peru',
@@ -165,8 +165,8 @@ moot.language = {
   // times
   now: 'nyt',
   months: "tammi,helmi,maalist,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu",
-  min: 'm',
-  hour: 'h',
+  min: 'min',
+  hour: 't',
   day: 'pv',
   week: 'vk'
 

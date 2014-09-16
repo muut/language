@@ -155,7 +155,7 @@ moot.language = {
   step: 'Még egy lépés',
   terms: 'Elfogadom a <a>Használati feltételeket</a>.',
   thanks: 'Köszönjük!',
-  uname_len: 'Adj meg legalább 6 karaktert',
+  uname_len: 'Adj meg legalább 4 karaktert',
   uname_taken: 'A felhasználónév foglalt!',
   unametip: 'Ezt később nem változtathatod meg',
   undo: 'Vissza',

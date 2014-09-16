@@ -147,7 +147,7 @@ moot.language = {
   step: 'Satu langkah lagi',
   terms: 'Saya setuju dengan <a>syarat dan ketentuan</a>.',
   thanks: 'Terima Kasih!',
-  uname_len: 'Ketik 6 karakter atau lebih',
+  uname_len: 'Ketik 4 karakter atau lebih',
   uname_taken: 'Nama pengguna ini sudah dipakai!',
   unametip: 'Ini tidak bisa diganti lagi',
   undo: 'Kembalikan',

@@ -5,6 +5,9 @@ help_moderators: Ability to remove posts and ban users.
 not_admin: Remove administration rights from {displayname}?
 plan_needed: plan needed
 
+domain_name2: Alternate domain name
+domain_name_tip2: An optional secondary domain name for your hosted forum
+
 accept: Accept
 access_control: Access control
 add: Add

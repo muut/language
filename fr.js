@@ -147,7 +147,7 @@ moot.language = {
   step: 'Une dernière étape',
   terms: 'J\'accepte les <a>modalités du service</a>.',
   thanks: 'Merci !',
-  uname_len: 'Tapez 6 caractères ou plus',
+  uname_len: 'Tapez 4 caractères ou plus',
   uname_taken: 'Ce nom d\'utilisateur est pris !',
   unametip: 'Ceci ne pourra être changé par la suite',
   undo: 'Annuler',
