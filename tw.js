@@ -5,6 +5,10 @@ moot.language = {
 
 
   /* New stuff */
+  address_now: 'Your address is now: ',
+  open_pw: 'Please hit the button below to open a password change dialog',
+  non_anon: 'You need to be logged in to perform this action',
+
   plan: 'Plan',
   trial: 'Start free trial',
 
