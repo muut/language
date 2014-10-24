@@ -132,7 +132,6 @@ moot.language = {
   noresults: 'Sin resultados para',
   nospam: '¡Sin spam en tu foro!',
   notexist: 'no existe.',
-  notify: 'Notificarme novedades sobre Muut',
   ok: 'ok',
   online: 'Online',
   post: 'Enviar',

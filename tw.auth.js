@@ -18,7 +18,6 @@ var language = {
   forgot: '忘記了？',
 
 
-  notify: '通知我新的 Muut 發佈消息',
   auth_failed: '錯誤的使用者名稱或密碼',
   invalid: '無效值',
   terms: '我同意 <a>服務條款</a>',

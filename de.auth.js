@@ -17,7 +17,6 @@ var language = {
   forgot: 'Vergessen?',
 
 
-  notify: 'Über neue Versionen informieren',
   auth_failed: 'Falscher Benutzername oder Passwort',
   invalid: 'Ungültiger Wert',
   terms: 'Ich stimme den <a>Nutzungsbedingungen</a> zu.',

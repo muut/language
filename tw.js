@@ -131,7 +131,6 @@ moot.language = {
   noresults: '沒有搜尋到關於',
   nospam: '您的論壇中無垃圾內容！',
   notexist: '不存在',
-  notify: '有新的發佈消息通知我',
   ok: 'ok',
   online: '線上',
   post: '發文',

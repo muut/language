@@ -11,7 +11,6 @@ var language = {
   forgot: 'Unohtuiko?',
 
 
-  notify: 'Ilmoita uusista Muut-päivityksistä',
   auth_failed: 'Väärä tunnus tai salasana',
   invalid: 'Virheellinen kentän arvo',
   terms: 'Hyväksyn <a>käyttäjäehdot</a>.',

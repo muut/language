@@ -135,7 +135,6 @@
   noresults: 'Nessun risultato per',
   nospam: 'Nessun messaggio spam sul tuo forum!',
   notexist: 'non esiste.',
-  notify: 'Segnalatemi nuove versioni',
   ok: 'ok',
   online: 'Online',
   post: 'Messaggio',

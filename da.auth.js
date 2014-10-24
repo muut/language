@@ -15,7 +15,6 @@ var language = {
   password: 'Adgangskode',
   forgot: 'Glemt den?',
 
-  notify: 'Send mig nyheder om nye opdateringer',
   auth_failed: 'Forkert brugernavn eller adgangskode',
   invalid: 'Forkert indtastning',
   terms: 'Jeg accepterer <a>servicevilkår</a>.',

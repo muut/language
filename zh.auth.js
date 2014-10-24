@@ -11,7 +11,6 @@ var language = {
   password: '密码',
   forgot: '忘记了密码？',
 
-  notify: 'Muut 发布新版本时通知我',
   auth_failed: '用户名或密码出错',
   invalid: '无效值',
   terms: '我同意<a>服务条款</a>',

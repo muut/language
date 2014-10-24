@@ -135,7 +135,6 @@ moot.language = {
   noresults: 'אין תוצאות עבור',
   nospam: 'אין ספאם בפורום שלך!',
   notexist: 'לא קיים.',
-  notify: 'הודע לי על גרסאות חדשות של Muut',
   ok: 'אישור',
   online: 'מחוברים ',
   post: 'שלח',

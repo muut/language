@@ -134,7 +134,6 @@ moot.language = {
   noresults: 'Sonuç bulunamadı',
   nospam: 'Spamsiz forum!',
   notexist: 'bulunmuyor.',
-  notify: 'Gelişmelerinden beni haberdar et',
   ok: 'tamam',
   online: 'Çevrimiçi',
   post: 'Yayınla',

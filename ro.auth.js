@@ -15,7 +15,6 @@ var language = {
   password: 'Parola',
   forgot: 'Ai uitat?',
 
-  notify: 'Anunta-ma cand apare o noua versiune de Muut',
   auth_failed: 'Nume sau parola gresite',
   invalid: 'Valoare invalida',
   terms: 'Sunt de acord cu <a>termenii si conditiile</a>.',

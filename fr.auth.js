@@ -18,7 +18,6 @@ var language = {
   forgot: 'Oublié ?',
 
 
-  notify: 'Informez-moi des nouvelles versions de Muut',
   auth_failed: 'Mauvais nom d\'utilisateur ou mot de passe',
   invalid: 'Valeur invalide',
   terms: 'J\'accepte les <a>modalités du service</a>.',

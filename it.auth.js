@@ -8,7 +8,6 @@ var language = {
   id: 'Email <em>o username</em>',
   password: 'Password',
   forgot: 'Dimenticato?',
-  notify: 'Comunicatemi il rilascio di una nuova versione di Muut',
   auth_failed: 'Username o password errati',
   invalid: 'Valore non valido',
   terms: 'Accetto i <a>termini di servizio</a>.',

@@ -134,7 +134,6 @@ moot.language = {
   noresults: '검색결과가 없습니다:',
   nospam: '포럼에 스팸이 없습니다!',
   notexist: '존재하지 않습니다.',
-  notify: '새 버전이 나올때 알림받기',
   ok: '확인',
   online: '온라인',
   post: '글 남기기',

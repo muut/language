@@ -130,7 +130,6 @@ moot.language = {
   noresults: 'Tidak ada hasil untuk',
   nospam: 'Tidak ada spam di forum anda!',
   notexist: 'tidak eksis.',
-  notify: 'Beritahu saya ketika ada versi baru',
   ok: 'ok',
   online: 'Online',
   post: 'Pos',

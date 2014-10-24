@@ -138,7 +138,6 @@ moot.language = {
   noresults: 'Nincs találat',
   nospam: 'Nincs spam a fórumodon!',
   notexist: 'nem létezik.',
-  notify: 'Értesíts az új fejlesztésekről',
   ok: 'ok',
   online: 'Online',
   post: 'Bejegyzés',

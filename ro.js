@@ -138,7 +138,6 @@ moot.language = {
   noresults: 'Nu sunt rezultate pentru',
   nospam: 'Forumul tau nu are spam!',
   notexist: 'nu exista.',
-  notify: 'Anunta-ma cand apar versiuni noi',
   ok: 'ok',
   online: 'Online',
   post: 'Post',

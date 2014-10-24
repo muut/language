@@ -133,7 +133,6 @@
   noresults: 'Inga resultat på',
   nospam: 'Ingen spam på ditt forum!',
   notexist: 'existerar inte.',
-  notify: 'Meddela mig om nya releaser',
   ok: 'ok',
   online: 'Online',
   post: 'Skicka',

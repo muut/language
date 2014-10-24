@@ -14,7 +14,6 @@ var language = {
   password: 'パスワード',
   forgot: 'パスワードを忘れた場合',
 
-  notify: 'Muutの新着情報を受け取る',
   auth_failed: 'ユーザー名かパスワードが間違っています',
   invalid: '入力内容が不正です',
   terms: '<a>利用規約</a>に同意します',

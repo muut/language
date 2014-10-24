@@ -58,7 +58,7 @@ moot.language = {
   admin: 'Beheerder',
   someone: 'Iemand',
   writing: 'typt...',
-    subs: 'Subscriptions',// no translation (makes documentation  more applicable ???)
+  subs: 'Subscriptions',// no translation (makes documentation  more applicable ???)
   manage: 'Beheer',
   fullview: 'Full view', // @TODO need to find context within muut
   title: 'Titel',
@@ -134,7 +134,6 @@ moot.language = {
   noresults: 'Geen resultaten voor',
   nospam: 'Geen spam op uw forum!',
   notexist: 'bestaat niet.',
-  notify: 'Hou mij op de hoogte van nieuwe versies',
   ok: 'oké',
   online: 'Online',
   post: 'Posten', // could be "Plaatsen" though this anglification is in popular use

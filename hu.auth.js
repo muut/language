@@ -13,7 +13,6 @@ var language = {
   forgot: 'Elfelejtetted a jelszavad?',
 
 
-  notify: 'Értesítést kérek a Muut újabb fejlesztéseiről',
   auth_failed: 'Hibás felhasználónév vagy jelszó',
   invalid: 'Érvénytelen érték',
   terms: 'Elfogadom a <a>Használati feltételeket</a>.',

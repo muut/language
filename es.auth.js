@@ -13,7 +13,6 @@ var language = {
   forgot: '¿Te olvidaste?',
 
 
-  notify: 'Notificarme nuevas actualizaciones',
   auth_failed: 'Nombre de usuario o contraseña inválidos',
   invalid: 'Valor no válido',
   terms: 'Adhiero a los <a>términos del servicio</a>.',

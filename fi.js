@@ -121,7 +121,6 @@ moot.language = {
   noresults: 'Ei tuloksia haulle',
   nospam: 'Ei spämmiä!',
   notexist: 'ei löydy.',
-  notify: 'Ilmoita uusista Muut-pävityksistä',
   ok: 'ok',
   online: 'Paikalla',
   show: 'näytä',

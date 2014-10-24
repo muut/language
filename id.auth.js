@@ -18,7 +18,6 @@ var language = {
   forgot: 'Lupa?',
 
 
-  notify: 'Beritahu saya ketika moot versi baru dirilis',
   auth_failed: 'Nama pengguna atau sandi salah',
   invalid: 'Nilai tidak valid',
   terms: 'Saya setuju dengan <a>syarat dan ketentuan</a>.',

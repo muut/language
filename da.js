@@ -93,7 +93,7 @@ moot.language = {
 
   all: 'Alle opslag', // or alternatively: All
   anon_1: 'anonym',   // singular
-  anon: 'anonyme',    // plural
+  anon: 'anonyme',  // plural
 
   badforum: 'Forkert forum',
   c_acc1: 'Din konto fungerer nu med alle sider, der bruger Muut',
@@ -145,7 +145,6 @@ moot.language = {
   noresults: 'Ingen resultater for',
   nospam: 'Ingen spam i dit forum!',
   notexist: 'findes ikke.',
-  notify: 'Send mig nyheder om nye opdateringer',
   ok: 'okay',
   online: 'På forum',
   post: 'Slå op',

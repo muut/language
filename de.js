@@ -137,7 +137,6 @@ moot.language = {
   noresults: 'Keine Treffer für',
   nospam: 'Kein Spam in Deinem Forum!',
   notexist: 'ist nicht vorhanden.',
-  notify: 'Über neue Versionen benachrichtigen',
   ok: 'ok',
   online: 'Online',
   post: 'Antworten',

@@ -22,13 +22,13 @@ moot.language = {
 
   channels: '频道',
   ch_name:  '频道名称',
-  mods:     '仲裁人', // 版主不确切
-  ban:      '禁止该用户发言',
+  mods:   '仲裁人', // 版主不确切
+  ban:    '禁止该用户发言',
   banned:   '已被禁言',
   ban_usr:  '被禁用户',
   ban_acc:  '该账户已被禁言',
   ban_msg:  '你暂时被禁止在该论坛发言',
-  days:     '天',
+  days:   '天',
   forever:  '永久',
   slogan:   'Muut 免费论坛与评论',
 
@@ -129,7 +129,6 @@ moot.language = {
   noresults: '找不到',
   nospam: '您的论坛没有垃圾！',
   notexist: '不存在',
-  notify: '发布新版本时通知我',
   ok: 'OK',
   online: '在线',
   post: '发表',
