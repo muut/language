@@ -5,12 +5,12 @@ moot.language = {
 
 
   /* New stuff */
-  address_now: 'Thank you! Your email address has been confirmed.',
-  open_pw: 'Please hit the button below to open a password change dialog',
-  non_anon: 'You need to be logged in to perform this action',
+  address_now: 'Obrigado! Seu email foi confirmado.',
+  open_pw: 'Por Favor, clique no botão abaixo para o procedimento de alteração da senha',
+  non_anon: 'Você precisa estar logado para efetuar esta ação',
 
-  plan: 'Plan',
-  trial: 'Start free trial',
+  plan: 'Plano',
+  trial: 'Iniciar teste gratuito',
 
   is_private: "Esta comunidade é privada",
   owner_msg: "Sua mensagem para o responsável do forum...(Opcional)",
