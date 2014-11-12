@@ -4,6 +4,7 @@
   $code: 'se',
 
   // new stuff
+  post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',
   non_anon: 'You need to be logged in to perform this action',

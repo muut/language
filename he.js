@@ -5,6 +5,7 @@ moot.language = {
 
 
   /** NEW **/
+  post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'אנא לחץ על הכפתור למטה כדי לפתוח את הדו שיח שינוי סיסמא',
   non_anon: 'את/ה צריך להיות מחובר/ת כדי לבצע פעולה זו',

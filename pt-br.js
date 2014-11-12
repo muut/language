@@ -5,6 +5,7 @@ moot.language = {
 
 
   /* New stuff */
+  post_in: 'Post in',
   address_now: 'Obrigado! Seu email foi confirmado.',
   open_pw: 'Por Favor, clique no botão abaixo para o procedimento de alteração da senha',
   non_anon: 'Você precisa estar logado para efetuar esta ação',
