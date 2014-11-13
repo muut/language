@@ -2,7 +2,7 @@
 var language = {
 
   // new stuff
-  username: 'Username',
+  username: 'Nom d'utilisateur',
 
 
 
