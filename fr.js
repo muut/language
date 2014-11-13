@@ -4,13 +4,13 @@ moot.language = {
   $code: 'fr',
 
   /* New stuff */
-  post_in: 'Post in',
-  address_now: 'Thank you! Your email address has been confirmed.',
-  open_pw: 'Please hit the button below to open a password change dialog',
-  non_anon: 'You need to be logged in to perform this action',
+  post_in: 'Publier',
+  address_now: 'Merci! Votre adresse e-mail a bien été validée.',
+  open_pw: 'Merci de cliquer sur le bouton ci-dessous pour ouvrir la boîte de dialogue vous permettant de changer votre mot de passe',
+  non_anon: 'Vous devez vous connecter pour réaliser cette action',
 
-  plan: 'Plan',
-  trial: 'Start free trial',
+  plan: 'Compte',
+  trial: 'Commencez votre essai gratuit',
 
   is_private: "Cette communauté est privée",
   owner_msg: "Votre message à l'administrateur du forum... (Facultatif)",
