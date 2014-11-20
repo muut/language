@@ -2,6 +2,7 @@ moot.language = {
 
   $code: 'fi',
 
+  my_profile: 'My profile',
   post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',

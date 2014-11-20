@@ -4,6 +4,9 @@ moot.language = {
   $code: 'fr',
 
   /* New stuff */
+  my_profile: 'My profile',
+
+
   post_in: 'Publier',
   address_now: 'Merci! Votre adresse e-mail a bien été validée.',
   open_pw: 'Merci de cliquer sur le bouton ci-dessous pour ouvrir la boîte de dialogue vous permettant de changer votre mot de passe',
