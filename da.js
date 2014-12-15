@@ -3,6 +3,12 @@ moot.language = {
   // the language code
   $code: 'da',
 
+  moderator: 'Moderator',
+  mkadmin: 'Make administrator',
+  mkmod: 'Make moderator',
+  upgrade_mod: 'to make this user a moderator',
+  upgrade_admin: 'to make this user administrator or moderator',
+
   my_profile: 'My profile',
   post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',

@@ -5,6 +5,12 @@ moot.language = {
 
 
   /* New stuff */
+  moderator: 'Moderator',
+  mkadmin: 'Make administrator',
+  mkmod: 'Make moderator',
+  upgrade_mod: 'to make this user a moderator',
+  upgrade_admin: 'to make this user administrator or moderator',
+
   my_profile: 'My profile',
   post_in: 'Post in',
   address_now: 'Obrigado! Seu email foi confirmado.',

@@ -2,9 +2,7 @@
 var language = {
 
   // new stuff
-  username: 'Nom d'utilisateur',
-
-
+  username: 'Nom d\'utilisateur',
 
   join: 'Rejoindre',
 
