@@ -60,7 +60,21 @@ moderators: 管理员组
 more_info: 更多信息
 name: 名称
 not_banned: 允许 {displayname} 发帖？
-not_moderator: 取消 {displayname} 管理员权限？
+not_trial_left: 'left of free trial.',
+  after_trial: 'After the trial ends you can continue using Muut with the',
+  free_plan: 'Free plan',
+  reward: 'Referral reward',
+  off33: 'Upgrade now and get 33% off all our paid plans!',
+  spread: 'Spread the word!',
+  invite: 'Invite a friend to start a Muut community and you’ll both get rewarded!',
+  start_now: 'Start your own community now – it\'s free!',
+  start_btn: 'Create',
+  reserve: 'Reserve your forum name',
+  free_acc: 'Free account',
+  no_dialog: 'and remove this dialogue',
+  click_change: 'Click to change',
+
+  moderator: 取消 {displayname} 管理员权限？
 notification_emails: 通知邮件
 password: 密码
 password_protected: 已受密码保护

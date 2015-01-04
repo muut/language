@@ -2,6 +2,20 @@ moot.language = {
 
   $code: 'fi',
 
+  trial_left: 'left of free trial.',
+  after_trial: 'After the trial ends you can continue using Muut with the',
+  free_plan: 'Free plan',
+  reward: 'Referral reward',
+  off33: 'Upgrade now and get 33% off all our paid plans!',
+  spread: 'Spread the word!',
+  invite: 'Invite a friend to start a Muut community and you’ll both get rewarded!',
+  start_now: 'Start your own community now – it\'s free!',
+  start_btn: 'Create',
+  reserve: 'Reserve your forum name',
+  free_acc: 'Free account',
+  no_dialog: 'and remove this dialogue',
+  click_change: 'Click to change',
+
   moderator: 'Moderator',
   mkadmin: 'Make administrator',
   mkmod: 'Make moderator',
@@ -12,7 +26,7 @@ moot.language = {
   post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',
-  non_anon: 'You need to be logged in to perform this action',
+  non_anon: 'Kirjaudu ensin sisään!',
 
   plan: 'Tilaus',
   trial: 'Kokeile ilmaiseksi',
