@@ -5,7 +5,7 @@ moot.language = {
 
   /* New stuff */
   trial_left: 'restante del periodo de prueba.',
-  after_trial: 'Cuando finalice el periodo de pruebe puedes seguir usando Muut con el',
+  after_trial: 'Cuando finalice el periodo de prueba puedes seguir usando Muut con el',
   free_plan: 'Plan gratuito',
   reward: 'Premio por referencia',
   off33: '¡Actualiza ahora y obtenga 33% de descuento en cualquier plan de pago!',
