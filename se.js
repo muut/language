@@ -54,7 +54,7 @@
 
   add: '+ Add',
   addons: 'Add-ons',
-  myaccount: "My account",
+  myaccount: "Account",
   untitled: "Untitled",
   design: "Design",
   no_title: "Title must be given",

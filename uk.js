@@ -52,7 +52,7 @@ moot.language = {
 
   add: '+ Add',
   addons: 'Add-ons',
-  myaccount: "My account",
+  myaccount: "Tilini",
   untitled: "Untitled",
   design: "Design",
   no_title: "Title must be given",
