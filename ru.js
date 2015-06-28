@@ -3,84 +3,75 @@ moot.language = {
   // the language code
   $code: 'ru',
 
+  trial_left: 'осталось на бесплатном испытании.',
+  after_trial: 'После окончания испытания вы можете продолжить использовать Muut с',
+  free_plan: 'Бесплатный план',
+  reward: 'Вознаграждение за реферала',
+  off33: 'Повысьте уровень прямо сейчас и получите скидку 33% на все наши оплачиваемые планы!',
+  spread: 'Расскажите об этом!',
+  invite: 'Пригласите друга, чтобы организовать сообщество Muut, и вы оба будете вознаграждены!',
+  start_now: 'Организуйте ваше сообщество прямо сейчас – бесплатно!',
+  start_btn: 'Создать',
+  reserve: 'Зарезервируйте ваше имя на форуме',
+  free_acc: 'Бесплатный аккаунт',
+  no_dialog: 'и убрать этот диалог',
+  click_change: 'Кликните, чтобы изменить',
 
-  /* New stuff */
+  moderator: 'Модератор',
+  mkadmin: 'Сделать администратором',
+  mkmod: 'Сделать модератором',
+  upgrade_mod: 'чтобы сделать пользователя модератором',
+  upgrade_admin: 'чтобы сделать пользователя администратором или модератором',
 
-  trial_left: 'left of free trial.',
-  after_trial: 'After the trial ends you can continue using Muut with the',
-  free_plan: 'Free plan',
-  reward: 'Referral reward',
-  off33: 'Upgrade now and get 33% off all our paid plans!',
-  spread: 'Spread the word!',
-  invite: 'Invite a friend to start a Muut community and you’ll both get rewarded!',
-  start_now: 'Start your own community now – it\'s free!',
-  start_btn: 'Create',
-  reserve: 'Reserve your forum name',
-  free_acc: 'Free account',
-  no_dialog: 'and remove this dialogue',
-  click_change: 'Click to change',
+  my_profile: 'Мой профиль',
+  post_in: 'Опубликовано в',
+  address_now: 'Спасибо! Ваш email подтверждён.',
+  open_pw: 'Пожалуйста, нажмите кнопку, расположенную ниже, чтобы открыть диалог смены пароля',
+  non_anon: 'Вы должны войти, чтобы выполнить это действие',
 
-  moderator: 'Moderator',
-  mkadmin: 'Make administrator',
-  mkmod: 'Make moderator',
-  upgrade_mod: 'to make this user a moderator',
-  upgrade_admin: 'to make this user administrator or moderator',
+  plan: 'План',
+  trial: 'Опробовать бесплатно',
 
-  my_profile: 'My profile',
-  post_in: 'Post in',
-  address_now: 'Thank you! Your email address has been confirmed.',
-  open_pw: 'Please hit the button below to open a password change dialog',
-  non_anon: 'You need to be logged in to perform this action',
-
-  plan: 'Plan',
-  trial: 'Start free trial',
-
-  is_private: "This community is private",
-  owner_msg: "Your message to the forum owner... (Optional)",
-  req_access: "Request access",
-  req_sent: "Access request sent",
-  or_join: "or <a>Join</a> to access the community.",
-  save_with: "Save 20% with yearly billing",
-  rem_post: "Remove this post?",
-  is_spam: "This post is spam?",
+  is_private: "Это сообщество приватно",
+  owner_msg: "Ваше сообщение владельцу форума... (Не обязательно)",
+  req_access: "Запросить доступ",
+  req_sent: "Запрос доступа выслан",
+  or_join: "или <a>Присоединяйтесь</a>, чтобы вступить в сообщество.",
+  save_with: "Сэкономьте 20%, оплачивая за год",
+  rem_post: "Удалить запись?",
+  is_spam: "Эта запись - спам?",
 
   channels: 'Разделы',
-  ch_name: 'Channel name',
-  ban:  'Ban user',
-  banned:  'Banned',
-  days:  'Days',
-  forever: 'Forever',
-  slogan:  'Free forums and commenting by Muut',
-
-  add: '+ Add',
-  addons: 'Add-ons',
-  myaccount: "Account",
-  untitled: "Untitled",
-  design: "Design",
-  no_title: "Title must be given",
-  designer: "Designer",
-  developer: "Developer",
-  single: 'single word',
-
-
-
-
-  img_needed: "Please upload an image file",
-  max: 'Maximum image size is 4Mb',
-  yes: 'Yes',
-  upload: 'Upload images',
-  show: 'show',
-  hide: 'hide',
-  invisible: 'Invisible',
-  givebody: 'Body cannot be empty.',
-
-
+  ch_name: 'Название канала',
+  ban:  'Забанить пользователя',
+  banned:  'Забанен',
   ban_acc: 'Заблокированный аккаунт',
   ban_msg: 'Вам временно запретили публиковать сообщения на этом форуме из-за нарушения его правил.',
-  banned4: 'Вы больше не можете публиковать сообщения на этом форуме.',
+  days:  'Дней',
+  forever: 'Навсегда',
+  slogan:  'Свободные форумы и комментарии Muut',
+
+  add: '+ Добавить',
+  addons: 'Расширения',
+  myaccount: "Аккаунт",
+  untitled: "Без заголовка",
+  design: "Дизайн",
+  no_title: "Необходимо указать заголовок",
+  designer: "Дизайнер",
+  developer: "Девелопер",
+
+
   warning: 'Предупреждение',
   profanity: 'Ненормативная лексика запрещена на этом форуме. При продолжении ее употребления Ваш аккаунт будет заблокирован.',
 
+  img_needed: "Пожалуйста, загрузите файл изображения",
+  max: 'Максимальный размер изображения 4Мб',
+  yes: 'Да',
+  upload: 'Загрузить изображения',
+  show: 'показать',
+  hide: 'скрыть',
+  invisible: 'Невидим',
+  givebody: 'Тело сообщения не может быть пустым.',
   show_old: 'Показать старые ответы',
   show_more: 'Показать еще ответы',
   show_new: 'Показать новые ответы',
@@ -95,18 +86,21 @@ moot.language = {
   fullview: 'Полный вид',
   link: 'ссылка',
   avatar: 'Изменить аватар',
+
   upgrade_link: 'Апгрейд',
   branding: 'Брендинг',
   logo: 'Логотип',
+
   title: 'Заголовок',
   css: 'CSS файл',
 
+  single: 'отдельное слово',
 
   username_fail: 'Используйте маленькие латинские символы, цифры или тире',
   bold: 'жирный',
   italics: 'курсив',
   monospaced: 'моноширинный',
-  learn: 'Подробнее...',
+
   settings: 'Настройки',
 
   all: 'Все записи', // or alternatively: All
@@ -133,9 +127,7 @@ moot.language = {
   enter: 'ctrl + enter',
   expired1: 'Мы только что отправили ещё одну. Пожалуйста, проверьте почту.', // http://d.pr/i/1OEV
   expired: 'Ссылка больше не работает',
-
   feed: 'Моя лента', // alternatives: My own, personal
-
 
   help2: 'отправить',
   help3: 'цитата',
@@ -158,6 +150,7 @@ moot.language = {
   mean: 'Вы имели ввиду',
   name: 'Отображаемое имя',
   nametip: 'Ваше настоящее имя, чтобы люди узнали Вас',
+
   newpass: 'Новый пароль',
   noresults: 'Нет результатов для',
   nospam: 'На вашем форуме нет спама!',
@@ -171,12 +164,13 @@ moot.language = {
   removepost: 'Удалить',
   reply: 'Ответить...',
   replybtn: 'Ответить',
-  save: 'Сохранить изменения',
+
   saved: 'сохранено',
   search: 'Поиск',
   select: 'Выберите форум',
   setup: 'Настроить сейчас',
   showing: 'Показывается',
+
   spam: 'Спам',
   step1: 'Мы отправили Вам подтверждающее письмо. Ваш email не будет обновлён, пока вы не завершите этот шаг!',
   step: 'Ещё один шаг',
