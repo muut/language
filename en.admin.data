@@ -72,7 +72,27 @@ moderators: Moderators
 more_info: More info
 name: Name
 not_banned: Allow posting for {displayname}?
-not_trial_left: 'left of free trial.',
+not_move: 'Move thread',
+  moved: 'Thread moved',
+  custom_path1: 'Custom path',
+  custom_path: 'Enter custom path',
+  invalid_path: 'Invalid custom path',
+  from: 'From',
+  to: 'To',
+
+  retire: 'Retire',
+  retire_title: 'Retire thread',
+  retire_desc: 'Retired threads no longer get bumped to top in the feeds they appear in.',
+  retired_desc: 'This thread is retired. New replies no longer bump it to the top of the feed.',
+  is_retired: 'This thread has been retired',
+
+  unretire: 'Unretire',
+  unretire_title: 'Unretire thread',
+  unretire_desc: 'This thread will be bumped to top in the feeds they appear in.',
+  quote_help1: 'Select',
+  quote_help2: 'to quote or share',
+
+  trial_left: 'left of free trial.',
   after_trial: 'After the trial ends you can continue using Muut with the',
   free_plan: 'Free plan',
   reward: 'Referral reward',
