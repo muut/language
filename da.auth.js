@@ -23,21 +23,21 @@ var language = {
   required: 'Indtast venligst noget i feltet',
   checking: 'Kontrollerer...',
 
-  username_done: 'Brugernavn kan ikke ændres senere',
+  username_done: 'Dit brugernavn kan ikke ændres senere',
   username_taken: 'Dette brugernavn er optaget',
 
   email: 'E-mail',
   email_tip: 'Din e-mailadresse deles aldrig.',
-  email_done: 'Vi sender dig en bekræftigelse',
+  email_done: 'Vi sender dig en bekræftelse',
   email_fail: 'Ugyldig e-mailadresse',
-  email_taken: 'Denne e-mailadresse er optaget',
+  email_taken: 'Denne e-mailadresse er allerede i brug',
 
 
   reset: 'Nulstil password',
-  resetbtn: 'Send instruktioner for nulstilling af password',
-  sent: 'Vi har sendt dig en mail med instruktioner om, hvordan du nulstiller dit password.',
+  resetbtn: 'Send instruktioner for nulstilling af dit password',
+  sent: 'Vi har sendt dig en mail med instrukser om, hvordan du nulstiller dit password.',
   sent1: 'Hvis du ikke modtager en e-mail indenfor et par minutter, kontroller din spam-mappe.',
-  notfound: 'Brugernavnet kunne ikke findes',
+  notfound: 'Dette brugernavn kunne ikke findes',
   invalidpw: 'Ugyldigt password',
   passtip: '6 tegn eller mere; gør ikke passwordet enkelt',
   oldpw: 'Gammelt password',
