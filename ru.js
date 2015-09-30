@@ -3,21 +3,21 @@ moot.language = {
   // the language code
   $code: 'ru',
 
-  move: 'Move thread',
-  moved: 'Thread moved',
+  move: 'Переместить',
+  moved: 'Перемещён',
   custom_path1: 'Custom path',
   custom_path: 'Enter custom path',
   invalid_path: 'Invalid custom path',
-  from: 'From',
-  to: 'To',
+  from: 'От',
+  to: 'Кому',
 
   retire: 'Retire',
-  retire_title: 'Retire thread',
+  retire_title: 'Заблокировать',
   retire_desc: 'Retired threads no longer get bumped to top in the feeds they appear in.',
   retired_desc: 'This thread is retired. New replies no longer bump it to the top of the feed.',
   is_retired: 'This thread has been retired',
 
-  unretire: 'Unretire',
+  unretire: 'Разблокировать',
   unretire_title: 'Unretire thread',
   unretire_desc: 'This thread will be bumped to top in the feeds they appear in.',
   quote_help1: 'Select',
