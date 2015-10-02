@@ -29,23 +29,23 @@ var language = {
   checking: 'Checkt...',
 
   username_done: 'Dit kan later niet worden veranderd',
-  username_fail: 'Gebruik letters, nummers of spaties',
-  username_taken: 'Dit gebruikersnaam is al bezet',
+  username_fail: 'Alleen letters en cijfers zijn toegestaan',
+  username_taken: 'Deze gebruikersnaam is al bezet',
 
   email: 'E-mailadres',
   email_tip: 'Uw e-mailadres zal nooit worden gedeeld.',
   email_done: 'We sturen u een bevestiging',
   email_fail: 'Ongeldig e-mailadres',
-  email_taken: 'Dit e-mailadres is al gebruikt',
+  email_taken: 'Dit e-mailadres is al in gebruik',
 
 
-  reset: 'Wachtwoord resetten',
-  resetbtn: 'Instructies verzenden',
-  sent: 'We hebben u instructies om uw wachtwoord te resetten gestuurd naar uw e-mailadres.',
-  sent1: 'Als u binnen 2 minuten geen email ontvangt, bekijkt u dan alstublieft uw spam map.',
+  reset: 'Wachtwoord veranderen',
+  resetbtn: 'Verzenden',
+  sent: 'We hebben de link, om uw wachtwoord te veranderen, naar uw e-mailadres gestuurd.',
+  sent1: 'Indien u binnen 2 minuten geen email heeft ontvangen, controleer dan uw spam map.',
   notfound: 'Kan deze gebruiker niet vinden',
   invalidpw: 'Ongeldig wachtwoord',
-  passtip: '6 letters of meer, word onvoorspelbaar',
+  passtip: 'Minimaal 6 tekens',
   oldpw: 'Oud wachtwoord',
   newpw: 'Nieuw wachtwoord',
   changepw: 'Wachtwoord veranderen'
