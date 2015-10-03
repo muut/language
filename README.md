@@ -23,12 +23,12 @@ https://raw.github.com/moot/language/master/en.js
 
 https://raw.github.com/moot/language/master/en.auth.js
 
-on your PC and then proceed with steps 2 and 3 above. Then send the modified files to tero@moot.it
+on your PC and then proceed with steps 2 and 3 above. Then send the modified files to tero@muut.comm
 
 
 ### Updates
 
-Muut is constantly updating and improving. Your language files will contain English placeholders on top of the files once new content is added. See for example [es.js](es.js#L7). Please update the new language by making a pull request or send the updates directly to tero@moot.it . Thank you!
+Muut is constantly updating and improving. Your language files will contain English placeholders on top of the files once new content is added. See for example [es.js](es.js#L7). Please update the new language by making a pull request or send the updates directly to tero@muut.com . Thank you!
 
 
 ### Testing
