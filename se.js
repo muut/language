@@ -4,13 +4,13 @@
   $code: 'se',
 
   // new stuff
-  move: 'Move thread',
-  moved: 'Thread moved',
+  move: 'Flytta diskussionstråd',
+  moved: 'Diskussionstråd flyttad',
   custom_path1: 'Custom path',
   custom_path: 'Enter custom path',
   invalid_path: 'Invalid custom path',
-  from: 'From',
-  to: 'To',
+  from: 'Från',
+  to: 'Till',
 
   retire: 'Retire',
   retire_title: 'Retire thread',
@@ -44,7 +44,7 @@
   upgrade_mod: 'to make this user a moderator',
   upgrade_admin: 'to make this user administrator or moderator',
 
-  my_profile: 'My profile',
+  my_profile: 'Min profil',
   post_in: 'Post in',
   address_now: 'Thank you! Your email address has been confirmed.',
   open_pw: 'Please hit the button below to open a password change dialog',
@@ -83,15 +83,15 @@
 
 
 
-  img_needed: "Please upload an image file",
-  max: 'Maximum image size is 4Mb',
-  yes: 'Yes',
-  upload: 'Upload images',
-  show: 'show',
-  hide: 'hide',
+  img_needed: "Vänligen ladda upp en bild",
+  max: 'Bildens max. vikt 4 MB',
+  yes: 'Ja',
+  upload: 'Ladda upp bild',
+  show: 'visa',
+  hide: 'dölj',
 
 
-  invisible: 'Invisible',
+  invisible: 'Osynlig',
   givebody: 'Brödtexten får inte vara tom',
   show_old: 'Visa äldsta svar',
   show_more: 'Visa fler svar',
@@ -106,7 +106,7 @@
   fullview: 'Fullständig vy',
   title: 'Rubrik',
   link: 'länk',
-  single: 'enkelord',
+  single: 'enstaka ord',
 
 
   username_fail: 'Använd bokstäver, siffror eller bindestreck',
@@ -118,7 +118,7 @@
 
   bold: 'fet',
   italics: 'kursiv',
-  monospaced: 'monospace',
+  monospaced: 'fast bredd', // the term "monospaced" is unfortunate, should be "fixed width"
   learn: 'Lär dig mer...',
   settings: 'Inställningar',
 
