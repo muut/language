@@ -114,13 +114,13 @@ moot.language = {
 
   /* End new stuff */
 
-  username_fail: 'Gebruik alleen letters, nummers of spaties',
+  username_fail: 'Alleen letters en cijfers zijn toegestaan',
   bold: 'vetgedrukt',
   italics: 'cursief',
   monospaced: 'onproportioneel geplaatst',
-	learn: 'Meer weten...',
-	adminstip: 'Één gebruikersnaam per regel',
-	settings: 'Instellingen',
+    learn: 'Meer weten...',
+    adminstip: 'Één gebruikersnaam per regel',
+    settings: 'Instellingen',
 
   all: 'Alle posts', // or alternatively: All
 
@@ -133,7 +133,7 @@ moot.language = {
   c_email: 'E-mailadres geupdate',
   cancel: 'Annuleer',
   change: 'Verander',
-  changepw: 'Verander wachtwoord',
+  changepw: 'Wachtwoord veranderen',
   close: 'Sluit', // @TODO need to find context within muut; could possibly be "Inklappen"
   collapse: 'Alles inklappen',
   comm_count_1: 'reactie',  // singular: "1 comment"
@@ -211,7 +211,7 @@ moot.language = {
   unwatch: 'Niet meer volgen',
   upgrade2: 'Muut maakt gebruik van WebSockets of CORS t.b.v. cross-domein communicatie. Alle moderne browsers, behalve Opera 11 en IE7, kunnen hiermee werken.',
   upgrade: 'Upgrade u alstublieft uw browser',
-  username_taken: 'Dit gebruikersnaam is al bezet',
+  username_taken: 'Deze gebruikersnaam is al bezet',
   watch: 'Kijk uit voor nieuwe reacties',
   welcome1: 'Bekijkt u alstublieft uw e-mailadres om uw registratie te kunnen voltooien. Als u geen email ontvangt binnen 2 minuten, bekijkt u dan alstublieft uw spam map.',
   welcome2: 'Geeft u alstublieft een Muut gebruikersnaam op',
