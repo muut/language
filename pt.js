@@ -223,6 +223,6 @@ moot.language = {
   min: 'm',
   hour: 'h',
   day: 'd',
-  week: 'w'
+  week: 's'
 
 }
