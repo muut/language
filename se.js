@@ -4,6 +4,8 @@
   $code: 'se',
 
   // new stuff
+  no_notify: 'Disable all email notifications',
+  watchall: 'Watch for all new posts',
   move: 'Flytta diskussionstråd',
   moved: 'Diskussionstråd flyttad',
   custom_path1: 'Custom path',

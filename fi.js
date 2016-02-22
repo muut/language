@@ -2,6 +2,8 @@ moot.language = {
 
   $code: 'fi',
 
+  no_notify: 'Elä lähetä mitään mailia',
+  watchall: 'Mailaa kaikista uusista aiheista',
   move: 'Siirrä ketju',
   moved: 'Ketju siirretty',
   custom_path1: 'Oma polku',

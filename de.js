@@ -7,6 +7,8 @@ moot.language = {
   /* New stuff */
   img_needed: "Bitte lade ein Bild hoch",
 
+  no_notify: 'Disable all email notifications',
+  watchall: 'Watch for all new posts',
   move: 'Move thread',
   moved: 'Thread moved',
   custom_path1: 'Custom path',
