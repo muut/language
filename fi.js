@@ -2,8 +2,8 @@ moot.language = {
 
   $code: 'fi',
 
-  no_notify: 'Elä lähetä mitään mailia',
-  watchall: 'Mailaa kaikista uusista aiheista',
+  no_notify: 'Kytke sähköposti-ilmoitukset pois päältä',
+  watchall: 'Ilmoita kaikista uusista viestiketjuista',
   move: 'Siirrä ketju',
   moved: 'Ketju siirretty',
   custom_path1: 'Oma polku',
