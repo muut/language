@@ -5,7 +5,7 @@
 
   // new stuff
   no_notify: 'Disable all email notifications',
-  watchall: 'Watch for all new posts',
+  watchall: 'Watch for all new threads',
   move: 'Flytta diskussionstråd',
   moved: 'Diskussionstråd flyttad',
   custom_path1: 'Custom path',

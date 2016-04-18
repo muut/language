@@ -41,6 +41,7 @@ moot.language = {
   no_dialog: 've konuşmayı kaldır',
   click_change: 'Değiştirmek için tıklayın',
 
+
   moderator: 'Moderator',
   mkadmin: 'Admin yap',
   mkmod: 'Moderator yap',

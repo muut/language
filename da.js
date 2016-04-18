@@ -4,7 +4,7 @@ moot.language = {
   $code: 'da',
 
   no_notify: 'Disable all email notifications',
-  watchall: 'Watch for all new posts',
+  watchall: 'Watch for all new threads',
   move: 'Flyt tråd',
   moved: 'Tråden er flyttet',
   custom_path1: 'Egen sti',

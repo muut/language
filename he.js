@@ -6,7 +6,7 @@ moot.language = {
 
   /** NEW **/
   no_notify: 'Disable all email notifications',
-  watchall: 'Watch for all new posts',
+  watchall: 'Watch for all new threads',
   move: 'Move thread',
   moved: 'Thread moved',
   custom_path1: 'Custom path',
