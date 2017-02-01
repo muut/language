@@ -1,16 +1,16 @@
 {
- +	"by": "por",
- +	"in": "em",
- +	"new_activity": "Nova atividade",
- +	"new_replies": "Novas respostas",
- +	"new_threads": "Novas discussões",
- +	"new_messages": "Novas mensagens",
- +	"posted_reply": "respondeu à discussão",
- +	"replies_click": "clique para ver todas as respostas",
- +	"threads_click": "clique para ver todas as discussões",
- +	"messages_click": "clique para ver todas as mensagens",
- +	"do_not_reply": "Não responda a este email.",
- +	"no_more_emails": "Você não receberá mais nenhum email sobre as mensagens e discussões acima até que visite a comunidade.",
- +	"disable_notifications": "Não me notifique mais sobre esta comunidade",
- +	"free_forums_and_commenting": "Fóruns e comentários gratuitos"
- +}
+  "by": "por",
+  "in": "em",
+  "new_activity": "Nova atividade",
+  "new_replies": "Novas respostas",
+  "new_threads": "Novas discussões",
+  "new_messages": "Novas mensagens",
+  "posted_reply": "respondeu à discussão",
+  "replies_click": "clique para ver todas as respostas",
+  "threads_click": "clique para ver todas as discussões",
+  "messages_click": "clique para ver todas as mensagens",
+  "do_not_reply": "Não responda a este email.",
+  "no_more_emails": "Você não receberá mais nenhum email sobre as mensagens e discussões acima até que visite a comunidade.",
+  "disable_notifications": "Não me notifique mais sobre esta comunidade",
+  "free_forums_and_commenting": "Fóruns e comentários gratuitos"
+}
