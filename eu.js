@@ -1,7 +1,7 @@
 moot.language = {
 
   // the language code
-  $code: 'en',
+  $code: 'eu',
 
   no_notify: 'Disable all email notifications',
   watchall: 'Watch for all new threads',
