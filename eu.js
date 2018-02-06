@@ -13,6 +13,7 @@ moot.language = {
   invalid_path: 'Bide pertsonalizatu Baliogabea',
   from: 'tik',
   to: 'ra',
+  show_preview: 'Show preview',
 
   retire: 'Ezabatu',
   retire_title: 'Haria ezabatu',

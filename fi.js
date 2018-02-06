@@ -11,6 +11,7 @@ moot.language = {
   invalid_path: 'Epäkelpo polku',
   from: 'Mistä',
   to: 'Mihin',
+  show_preview: 'Show preview',
 
   retire: 'Arkistoi',
   retire_title: 'Arkistoi ketju',

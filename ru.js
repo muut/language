@@ -12,6 +12,7 @@ moot.language = {
   invalid_path: 'Неверный путь',
   from: 'Из',
   to: 'Куда',
+  show_preview: 'Show preview',
 
   retire: 'Заблокировать',
   retire_title: 'Заблокировать тему',

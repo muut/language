@@ -12,6 +12,7 @@ moot.language = {
   invalid_path: 'Neplatná vlastná cesta',
   from: 'Od',
   to: 'Komu',
+  show_preview: 'Show preview',
 
   retire: 'Označiť ako starú',
   retire_title: 'Označiť tému ako starú',

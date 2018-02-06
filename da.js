@@ -12,6 +12,7 @@ moot.language = {
   invalid_path: 'Ugyldig sti',
   from: 'Fra',
   to: 'Til',
+  show_preview: 'Show preview',
 
   retire: 'Gør uvæsentlig',
   retire_title: 'Gør tråden uvæsentlig',

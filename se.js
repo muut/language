@@ -13,6 +13,7 @@
   invalid_path: 'Invalid custom path',
   from: 'Från',
   to: 'Till',
+  show_preview: 'Show preview',
 
   retire: 'Retire',
   retire_title: 'Retire thread',

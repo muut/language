@@ -15,6 +15,7 @@ moot.language = {
   invalid_path: 'Invalid custom path',
   from: 'From',
   to: 'To',
+  show_preview: 'Show preview',
 
   retire: 'Retire',
   retire_title: 'Retire thread',

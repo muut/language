@@ -14,6 +14,7 @@ moot.language = {
   invalid_path: 'Geçersiz özel dizin',
   from: 'Kimden',
   to: 'Kime',
+  show_preview: 'Show preview',
 
   retire: 'Bitir',
   retire_title: 'Bu konuyu bitir',
