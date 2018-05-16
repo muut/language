@@ -1,4 +1,4 @@
-moot.language = {
+var language = {
 
   $code: 'fi',
 
@@ -218,4 +218,10 @@ moot.language = {
   day: 'pv',
   week: 'vk'
 
+}
+
+if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
+  module.exports = language;
+} else {
+  window.moot.language = language;
 }

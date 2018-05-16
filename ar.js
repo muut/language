@@ -1,5 +1,5 @@
 
-moot.language = {
+var language = {
 
   // the language code
   // Translated to Arabic by Omar Bani Al-Marjeh
@@ -233,4 +233,10 @@ moot.language = {
   day: 'يوم',
   week: 'أسبوع'
 
+}
+
+if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
+  module.exports = language;
+} else {
+  window.moot.language = language;
 }
